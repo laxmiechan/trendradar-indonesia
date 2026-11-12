@@ -1,15 +1,30 @@
 {
-  "updated_at": "2026-11-12T11:48:49.862582+00:00",
+  "updated_at": "2026-11-12T11:54:07.612980+00:00",
   "total_trends": 10,
   "trends": [
     {
+      "title": "resign",
+      "traffic": "200+",
+      "link": "https://trends.google.com/trending/rss?geo=ID"
+    },
+    {
+      "title": "france",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID"
+    },
+    {
       "title": "jadwal persib bandung",
-      "traffic": "1000+",
+      "traffic": "500+",
       "link": "https://trends.google.com/trending/rss?geo=ID"
     },
     {
       "title": "kualifikasi",
       "traffic": "1000+",
+      "link": "https://trends.google.com/trending/rss?geo=ID"
+    },
+    {
+      "title": "belarus vs san marino",
+      "traffic": "100+",
       "link": "https://trends.google.com/trending/rss?geo=ID"
     },
     {
@@ -19,7 +34,7 @@
     },
     {
       "title": "carrick",
-      "traffic": "500+",
+      "traffic": "200+",
       "link": "https://trends.google.com/trending/rss?geo=ID"
     },
     {
@@ -35,21 +50,6 @@
     {
       "title": "montenegro vs latvia",
       "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
-    },
-    {
-      "title": "ahok",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
-    },
-    {
-      "title": "megawati",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
-    },
-    {
-      "title": "inggris vs kroasia",
-      "traffic": "500+",
       "link": "https://trends.google.com/trending/rss?geo=ID"
     }
   ]
