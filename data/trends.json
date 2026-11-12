@@ -1,56 +1,194 @@
 {
-  "updated_at": "2026-11-12T12:54:48.451582+00:00",
+  "updated_at": "2026-11-12T12:58:14.759168+00:00",
   "total_trends": 10,
   "trends": [
     {
       "title": "foto presiden",
       "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": []
     },
     {
       "title": "justin hubner",
       "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Tak jadi ke Persija, Hubner justru bersyukur",
+          "url": "https://makassar.antaranews.com/berita/643239/tak-jadi-ke-persija-hubner-justru-bersyukur",
+          "source": "ANTARA News Makassar"
+        },
+        {
+          "title": "Pengakuan Justin Hubner Nyaris Gabung ke Persija Jakarta",
+          "url": "https://sport.detik.com/sepakbola/liga-indonesia/d-8749851/pengakuan-justin-hubner-nyaris-gabung-ke-persija-jakarta",
+          "source": "detikSport"
+        },
+        {
+          "title": "Justin Hubner Ungkap Pernah Ditawari Pindah Persija dengan Banderol Rp40 Miliar!",
+          "url": "https://www.inilah.com/justin-hubner-ungkap-pernah-ditawari-pindah-persija-dengan-banderol-rp40-miliar",
+          "source": "Inilah.com"
+        }
+      ]
     },
     {
       "title": "jadwal persib",
       "traffic": "2000+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Usai FIFA Matchday Persib Bandung Hadapi 3 Laga dalam 7 Hari, Misi Berat di Tiga Kompetisi! - radarcirebon.disway.id",
+          "url": "https://radarcirebon.disway.id/amp/235663/usai-fifa-matchday-persib-bandung-hadapi-3-laga-dalam-7-hari-misi-berat-di-tiga-kompetisi",
+          "source": "Radar Cirebon"
+        },
+        {
+          "title": "[FULL] Persib Dihantam Jadwal Gila, Trofi Super League dan ACL 2 Bisa Digapai? | Locker Room",
+          "url": "https://digital.okezone.com/cinematic/z2Btf3-PAP0/full-persib-dihantam-jadwal-gila-trofi-super-league-dan-acl-2-bisa-digapai-locker-room",
+          "source": "Digital Okezone"
+        },
+        {
+          "title": "Marc Klok Ngeluh Kelelahan hingga Persib Disebut Klub Tersibuk di Dunia, I.League Beberkan Fakta Pahit di Balik Jadwal Brutal",
+          "url": "https://www.bolasport.com/read/314430307/marc-klok-ngeluh-kelelahan-hingga-persib-disebut-klub-tersibuk-di-dunia-ileague-beberkan-fakta-pahit-di-balik-jadwal-brutal",
+          "source": "Bolasport.com"
+        }
+      ]
     },
     {
       "title": "france vs",
       "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "France predicted XI v Italy: Kylian Mbappé out, Désiré Doué to lead the line",
+          "url": "https://www.getfootballnewsfrance.com/2026/france-predicted-xi-v-italy-kylian-mbappe-out-desire-doue-to-lead-the-line/",
+          "source": "Get French Football News"
+        },
+        {
+          "title": "Italy France Nations League Soccer",
+          "url": "https://www.corsicanadailysun.com/sports/national_sports/italy-france-nations-league-soccer/image_6cf0a1ff-dc51-5aa2-91c1-f2d222a72974.html",
+          "source": "Corsicana Daily Sun"
+        },
+        {
+          "title": "Frey: “Italy and France are cousins and rivals, but there’s no hatred. Donnarumma is better than Maignan”",
+          "url": "https://www.goal.com/en/news/frey-italy-and-france-are-cousins-and-rivals-but-there-s-no-hatred-donnarumma-is-better-than-maignan/blt08b7a4c178d09e8a",
+          "source": "Goal.com"
+        }
+      ]
     },
     {
       "title": "isya jakarta",
       "traffic": "500+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Jadwal Sholat dan Imsakiyah Jakarta, Dilengkapi Niat Puasa Kamis & Qadha Ramadhan, 11 November 2026",
+          "url": "https://wow.tribunnews.com/news/413399/jadwal-sholat-dan-imsakiyah-jakarta-dilengkapi-niat-puasa-kamis-qadha-ramadhan-11-november-2026",
+          "source": "TribunWow.com"
+        },
+        {
+          "title": "Jadwal Sholat di Indonesia Hari Ini (Rabu, 11 November 2026)",
+          "url": "https://dataindonesia.id/varia/detail/jadwal-sholat-di-indonesia-hari-ini-rabu-11-november-2026",
+          "source": "DataIndonesia"
+        },
+        {
+          "title": "Jadwal Sholat dan Buka Puasa di Jakarta Hari Ini, Dilengkapi Waktu Imsakiyah Besok 8 November 2026",
+          "url": "https://wow.tribunnews.com/news/412699/jadwal-sholat-dan-buka-puasa-di-jakarta-hari-ini-dilengkapi-waktu-imsakiyah-besok-8-november-2026?page=2",
+          "source": "TribunWow.com"
+        }
+      ]
     },
     {
       "title": "luis diaz",
       "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "PSG tetapkan Luis Diaz sebagai target transfer utama untuk menggantikan Khvicha Kvaratskhelia yang cedera",
+          "url": "https://www.goal.com/id/berita/psg-tetapkan-luis-diaz-sebagai-target-transfer-utama-untuk-menggantikan-khvicha-kvaratskhelia-yang-cedera/blt4b47799f2ed608ab",
+          "source": "Goal.com"
+        },
+        {
+          "title": "Tanpa Kvaratskhelia, PSG Hadapi Ujian Berat Memburu Gelar Liga Champions Ketiga Beruntun",
+          "url": "https://koran-jakarta.com/2026-11-03/tanpa-kvaratskhelia-psg-hadapi-ujian-berat-memburu-gelar-liga-champions-ketiga-beruntun",
+          "source": "Koran Jakarta ®"
+        },
+        {
+          "title": "Mengapa klub-klub Liga Primer Inggris peminat Khvicha Kvaratskhelia tetap kesulitan merekrutnya meski memiliki dana ‘gila’ yang dibutuhkan untuk memboyong sang pemain sayap dari PSG",
+          "url": "https://www.goal.com/id/daftar/mengapa-klub-klub-liga-primer-inggris-peminat-khvicha-kvaratskhelia-tetap-kesulitan-merekrutnya-meski-memiliki-dana-gila-yang-dibutuhkan-untuk-memboyong-sang-pemain-sayap-dari-psg/blt5c1c1f5fc24f7aaf",
+          "source": "Goal.com"
+        }
+      ]
     },
     {
       "title": "foto gibran",
       "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": []
     },
     {
       "title": "geng solo",
       "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Berpesta Bersama, Mencuci Piring Sendiri",
+          "url": "https://nasional.kompas.com/read/2026/11/12/17400071/berpesta-bersama-mencuci-piring-sendiri",
+          "source": "Kompas.com"
+        },
+        {
+          "title": "Gibran dan Krisis Legitimasi: Ketika Kekuasaan Tak Cukup dengan Kemenangan Halaman 1",
+          "url": "https://www.kompasiana.com/saprajie8558/6af56b0ec925c40560037319/gibran-dan-krisis-legitimasi-ketika-kekuasaan-tak-cukup-dengan-kemenangan",
+          "source": "Kompasiana.com"
+        },
+        {
+          "title": "Didik J Rachbini Sebut Gibran Kelinci Percobaan dalam Eksperimen Politik Jokowi",
+          "url": "https://www.kompas.tv/nasional/700901/didik-j-rachbini-sebut-gibran-kelinci-percobaan-dalam-eksperimen-politik-jokowi",
+          "source": "Kompas.tv"
+        }
+      ]
     },
     {
       "title": "resign",
       "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Indonesia’s Vice President Resigns as a Political Alliance Unravels",
+          "url": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Indonesia VP hands resignation to parliament as Jokowi backs Prabowo",
+          "url": "https://www.reuters.com/world/asia-pacific/indonesia-vp-gibran-hands-his-resignation-upper-house-2026-11-12/",
+          "source": "Reuters"
+        },
+        {
+          "title": "The wiretapping scandal that threatens ‘open warfare’ among Indonesia’s political elite",
+          "url": "https://www.ft.com/content/e3b70af7-dfb5-4afd-8b62-f88d7da2077f?syn-25a6b1a6=1",
+          "source": "Financial Times"
+        }
+      ]
     },
     {
       "title": "france",
       "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Attractivité : « La France a appris à attirer. En 2027, elle doit apprendre à accélérer »",
+          "url": "https://www.lesechos.fr/idees-debats/cercle/attractivite-la-france-a-appris-a-attirer-en-2027-elle-doit-apprendre-a-accelerer-2262277",
+          "source": "Les Echos"
+        },
+        {
+          "title": "La France rivalise-t-elle encore avec ses voisins européens ?",
+          "url": "https://www.businessimmo.com/actualites/article/826426485/la-france-rivalise-t-elle-encore-avec-ses-voisins-europeens",
+          "source": "Business Immo"
+        },
+        {
+          "title": "Rénovation des lycées : quels sont les cinq établissements de l’Hérault sur la liste des priorités nationales",
+          "url": "https://echo-des-tribunes.com/herault-tribune/articles/renovation-des-lycees-quels-sont-les-cinq-etablissements-de-lherault-sur-la-liste-des-priorites-nationales",
+          "source": "Echo des Tribunes"
+        }
+      ]
     }
   ]
 }
