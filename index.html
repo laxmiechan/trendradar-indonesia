@@ -296,6 +296,30 @@ function renderTrends() {
       card.appendChild(link);
     }
 
+    const matchButton = document.createElement("button");
+
+    matchButton.textContent = "🔎 Cari Berita Terkait";
+
+    matchButton.style.cssText = `
+      display: block;
+      margin-top: 16px;
+      padding: 12px 16px;
+      width: 100%;
+      background: #7c3aed;
+      color: white;
+      border: none;
+      border-radius: 10px;
+      font-size: 14px;
+      font-weight: bold;
+      cursor: pointer;
+    `;
+
+    matchButton.addEventListener("click", () => {
+      matchTrendToNews(item.title || "");
+    });
+
+    card.appendChild(matchButton);
+
     container.appendChild(card);
   });
 }
@@ -494,6 +518,28 @@ async function loadCategories() {
 newsCategory.addEventListener("change", renderNews);
 
 loadCategories();
+
+function matchTrendToNews(topic) {
+  const keyword = String(topic).trim();
+
+  // Cari dalam seluruh berita, bukan satu kategori.
+  newsCategory.value = "Semua";
+
+  // Isi otomatis kolom pencarian berita.
+  newsSearch.value = keyword;
+
+  // Jalankan filter berita yang sudah ada.
+  renderNews();
+
+  // Arahkan pengunjung ke bagian News Intelligence.
+  document.getElementById("newsSearch").scrollIntoView({
+    behavior: "smooth",
+    block: "center"
+  });
+
+  // Beri fokus ke kolom pencarian.
+  newsSearch.focus({ preventScroll: true });
+}
 
 </script>
 
