@@ -314,11 +314,71 @@ function renderTrends() {
       cursor: pointer;
     `;
 
+    
+    const relatedPanel = document.createElement("div");
+    relatedPanel.style.cssText = `
+      display: none;
+      margin-top: 15px;
+      padding-top: 15px;
+      border-top: 1px solid #394966;
+    `;
+
+    const related = Array.isArray(item.related_news)
+      ? item.related_news
+      : [];
+
+    const heading = document.createElement("strong");
+    heading.textContent = "📰 Berita Terkait";
+    relatedPanel.appendChild(heading);
+
+    if (related.length === 0) {
+      const message = document.createElement("p");
+      message.className = "traffic";
+      message.textContent =
+        "Google Trends belum menyediakan berita terkait untuk topik ini.";
+      relatedPanel.appendChild(message);
+    } else {
+      related.forEach(news => {
+        const article = document.createElement("div");
+        article.style.cssText = `
+          padding: 12px 0;
+          border-bottom: 1px solid #293852;
+        `;
+
+        const url = safeUrl(news.url);
+
+        if (url) {
+          const link = document.createElement("a");
+          link.href = url;
+          link.target = "_blank";
+          link.rel = "noopener noreferrer";
+          link.textContent = news.title || "Buka artikel";
+          link.style.display = "block";
+          article.appendChild(link);
+        }
+
+        const source = document.createElement("small");
+        source.className = "traffic";
+        source.textContent = news.source || "Sumber tidak tersedia";
+        article.appendChild(source);
+
+        relatedPanel.appendChild(article);
+      });
+    }
+
     matchButton.addEventListener("click", () => {
-      matchTrendToNews(item.title || "");
+      const isOpen = relatedPanel.style.display === "block";
+
+      relatedPanel.style.display = isOpen ? "none" : "block";
+
+      matchButton.textContent = isOpen
+        ? "📰 Lihat Berita Terkait"
+        : "Tutup Berita Terkait";
     });
 
     card.appendChild(matchButton);
+    card.appendChild(relatedPanel);
+
 
     container.appendChild(card);
   });
