@@ -1,19 +1,44 @@
 {
-  "updated_at": "2026-11-12T12:11:05.290875+00:00",
+  "updated_at": "2026-11-12T12:53:12.667880+00:00",
   "total_trends": 10,
   "trends": [
+    {
+      "title": "foto presiden",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID"
+    },
+    {
+      "title": "justin hubner",
+      "traffic": "200+",
+      "link": "https://trends.google.com/trending/rss?geo=ID"
+    },
+    {
+      "title": "jadwal persib",
+      "traffic": "2000+",
+      "link": "https://trends.google.com/trending/rss?geo=ID"
+    },
+    {
+      "title": "france vs",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID"
+    },
+    {
+      "title": "isya jakarta",
+      "traffic": "500+",
+      "link": "https://trends.google.com/trending/rss?geo=ID"
+    },
     {
       "title": "luis diaz",
       "traffic": "100+",
       "link": "https://trends.google.com/trending/rss?geo=ID"
     },
     {
-      "title": "geng solo",
+      "title": "foto gibran",
       "traffic": "100+",
       "link": "https://trends.google.com/trending/rss?geo=ID"
     },
     {
-      "title": "foto gibran",
+      "title": "geng solo",
       "traffic": "100+",
       "link": "https://trends.google.com/trending/rss?geo=ID"
     },
@@ -25,31 +50,6 @@
     {
       "title": "france",
       "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
-    },
-    {
-      "title": "kualifikasi",
-      "traffic": "1000+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
-    },
-    {
-      "title": "belarus vs san marino",
-      "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
-    },
-    {
-      "title": "magrib surabaya",
-      "traffic": "500+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
-    },
-    {
-      "title": "carrick",
-      "traffic": "500+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
-    },
-    {
-      "title": "ss",
-      "traffic": "200+",
       "link": "https://trends.google.com/trending/rss?geo=ID"
     }
   ]
