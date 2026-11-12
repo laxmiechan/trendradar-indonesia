@@ -5,13 +5,26 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "7,37 * * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "index.html"
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: trendradar-deployment
+  cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
 
     steps:
       - name: Checkout repository
@@ -25,79 +38,84 @@ jobs:
           import urllib.request
           import xml.etree.ElementTree as ET
           from datetime import datetime, timezone
+          from pathlib import Path
 
           url = "https://trends.google.com/trending/rss?geo=ID"
-
           request = urllib.request.Request(
               url,
-              headers={
-                  "User-Agent": "Mozilla/5.0"
+              headers={"User-Agent": "Mozilla/5.0"}
+          )
+
+          try:
+              with urllib.request.urlopen(
+                  request, timeout=30
+              ) as response:
+                  root = ET.fromstring(response.read())
+
+              ns = {
+                  "ht": "https://trends.google.com/trending/rss"
               }
-          )
+              trends = []
 
-          with urllib.request.urlopen(
-              request, timeout=30
-          ) as response:
-              root = ET.fromstring(response.read())
+              for item in root.findall("./channel/item"):
+                  title = item.findtext("title", "").strip()
 
-          ns = {
-              "ht": "https://trends.google.com/trending/rss"
-          }
+                  if title:
+                      trends.append({
+                          "title": title,
+                          "traffic": item.findtext(
+                              "ht:approx_traffic", "", ns
+                          ),
+                          "link": item.findtext("link", "")
+                      })
 
-          trends = []
+              if not trends:
+                  raise ValueError("Feed kosong")
 
-          for item in root.findall("./channel/item"):
-              title = item.findtext("title", "").strip()
-              traffic = item.findtext(
-                  "ht:approx_traffic", "", ns
-              )
-              link = item.findtext("link", "")
+              output = {
+                  "updated_at": datetime.now(
+                      timezone.utc
+                  ).isoformat(),
+                  "total_trends": len(trends),
+                  "trends": trends
+              }
 
-              if title:
-                  trends.append({
-                      "title": title,
-                      "traffic": traffic,
-                      "link": link
-                  })
-
-          if not trends:
-              raise RuntimeError(
-                  "Google Trends returned no data"
-              )
-
-          output = {
-              "updated_at": datetime.now(
-                  timezone.utc
-              ).isoformat(),
-              "total_trends": len(trends),
-              "trends": trends
-          }
-
-          with open(
-              "data/trends.json", "w", encoding="utf-8"
-          ) as file:
-              json.dump(
-                  output,
-                  file,
-                  ensure_ascii=False,
-                  indent=2
+              Path("data/trends.json").write_text(
+                  json.dumps(
+                      output, ensure_ascii=False, indent=2
+                  ),
+                  encoding="utf-8"
               )
 
-          print(
-              f"Successfully collected {len(trends)} trends"
-          )
+              print(f"Berhasil: {len(trends)} tren")
+
+          except Exception as error:
+              print(f"Gagal mengambil data baru: {error}")
+
+              if not Path("data/trends.json").exists():
+                  raise
+
+              print("Menggunakan data terakhir yang tersedia")
           PY
 
-      - name: Commit updated trends
+      - name: Save data to GitHub
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add data/trends.json
 
           if ! git diff --cached --quiet; then
             git commit -m "Auto-update Google Trends"
             git push
-          else
-            echo "No changes detected"
           fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload website
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: "."
+
+      - name: Publish website
+        uses: actions/deploy-pages@v4
