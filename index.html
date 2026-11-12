@@ -211,6 +211,15 @@ footer {
     Mengambil berita terbaru...
   </div>
 
+<select id="newsCategory" class="search">
+  <option value="Semua">📰 Semua Berita</option>
+  <option value="Politik">🏛️ Politik</option>
+  <option value="Ekonomi">📈 Ekonomi</option>
+  <option value="Teknologi">💻 Teknologi</option>
+  <option value="Olahraga">⚽ Olahraga</option>
+  <option value="Entertainment">🎬 Entertainment</option>
+</select>
+
   <div id="newsList" class="grid"></div>
 </section>
 
@@ -366,10 +375,20 @@ function formatNewsDate(value) {
       });
 }
 
+
+let categoryNews = {};
+
+const newsCategory = document.getElementById("newsCategory");
+
 function renderNews() {
+  const selected = newsCategory.value;
   const keyword = newsSearch.value.toLowerCase().trim();
 
-  const filtered = allNews.filter(item =>
+  const articles = selected === "Semua"
+    ? allNews
+    : (categoryNews[selected] || []);
+
+  const filtered = articles.filter(item =>
     `${item.title || ""} ${item.source || ""}`
       .toLowerCase()
       .includes(keyword)
@@ -378,8 +397,8 @@ function renderNews() {
   newsList.replaceChildren();
 
   newsStatus.textContent = filtered.length
-    ? `${filtered.length} artikel ditemukan`
-    : "Tidak ada berita yang cocok.";
+    ? `${filtered.length} artikel ditemukan • ${selected}`
+    : "Belum ada berita untuk kategori atau pencarian ini.";
 
   filtered.forEach(item => {
     const card = document.createElement("article");
@@ -413,6 +432,7 @@ function renderNews() {
   });
 }
 
+
 async function loadNews() {
   try {
     const response = await fetch(
@@ -442,6 +462,37 @@ async function loadNews() {
 
 newsSearch.addEventListener("input", renderNews);
 loadNews();
+
+async function loadCategories() {
+  try {
+    const response = await fetch(
+      "./data/categories.json?t=" + Date.now(),
+      { cache: "no-store" }
+    );
+
+    if (!response.ok) {
+      throw new Error("HTTP " + response.status);
+    }
+
+    const data = await response.json();
+
+    if (!data.categories) {
+      throw new Error("Format kategori tidak valid");
+    }
+
+    categoryNews = data.categories;
+    renderNews();
+
+  } catch (error) {
+    console.error("Gagal memuat kategori:", error);
+    newsStatus.textContent =
+      "Kategori belum tersedia. Coba refresh halaman.";
+  }
+}
+
+newsCategory.addEventListener("change", renderNews);
+
+loadCategories();
 
 </script>
 
