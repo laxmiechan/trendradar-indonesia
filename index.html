@@ -285,7 +285,8 @@ function renderTrends() {
 
     card.append(rank, title, traffic);
 
-    const linkUrl = safeUrl(item.link);
+    const linkUrl = "https://trends.google.com/trends/explore?geo=ID&q=" +
+  encodeURIComponent(item.title || "");
     if (linkUrl) {
       const link = document.createElement("a");
       link.href = linkUrl;
