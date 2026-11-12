@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-12T12:01:01.379839+00:00",
+  "updated_at": "2026-11-12T12:11:05.290875+00:00",
   "total_trends": 10,
   "trends": [
+    {
+      "title": "luis diaz",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID"
+    },
+    {
+      "title": "geng solo",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID"
+    },
+    {
+      "title": "foto gibran",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID"
+    },
     {
       "title": "resign",
       "traffic": "200+",
@@ -14,12 +29,12 @@
     },
     {
       "title": "kualifikasi",
-      "traffic": "500+",
+      "traffic": "1000+",
       "link": "https://trends.google.com/trending/rss?geo=ID"
     },
     {
       "title": "belarus vs san marino",
-      "traffic": "100+",
+      "traffic": "200+",
       "link": "https://trends.google.com/trending/rss?geo=ID"
     },
     {
@@ -35,21 +50,6 @@
     {
       "title": "ss",
       "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
-    },
-    {
-      "title": "thailand u23",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
-    },
-    {
-      "title": "cctv",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID"
-    },
-    {
-      "title": "jadwal persib shopee cup",
-      "traffic": "1000+",
       "link": "https://trends.google.com/trending/rss?geo=ID"
     }
   ]
