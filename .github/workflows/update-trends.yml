@@ -262,49 +262,26 @@ jobs:
                   articles = []
                   seen = set()
 
+          
+                  rules = {
+                      "Politik": r"\b(DPR|DPRD|presiden|menteri|pemilu|pilkada|partai politik|parlemen|RUU)\b",
+                      "Ekonomi": r"\b(ekonomi|inflasi|rupiah|saham|IHSG|investasi|perbankan|ekspor|impor|bisnis|pajak)\b",
+                      "Teknologi": r"\b(teknologi|AI|kecerdasan buatan|smartphone|aplikasi|internet|siber|software|gadget|5G|robot)\b",
+                      "Olahraga": r"\b(sepak bola|sepakbola|liga|pertandingan|turnamen|atlet|badminton|bulu tangkis|FIFA|timnas|gol|piala dunia)\b",
+                      "Entertainment": r"\b(film|bioskop|musik|konser|penyanyi|aktor|aktris|selebriti|album|drama|artis)\b"
+                  }
+
                   for item in data.get("articles", []):
                       title = item.get("title", "")
                       link = item.get("url", "")
 
                       if not title or not link or link in seen:
                           continue
-                          
-                  rules = {
-                      "Politik": (
-                          r"\b(DPR|DPRD|presiden|menteri|"
-                          r"pemilu|pilkada|partai politik|"
-                          r"parlemen|legislasi|RUU)\b"
-                      ),
-                      "Ekonomi": (
-                          r"\b(ekonomi|inflasi|rupiah|"
-                          r"saham|IHSG|investasi|perbankan|"
-                          r"ekspor|impor|bisnis|pajak)\b"
-                      ),
-                      "Teknologi": (
-                          r"\b(teknologi|AI|artificial intelligence|"
-                          r"kecerdasan buatan|smartphone|"
-                          r"aplikasi|internet|siber|"
-                          r"software|gadget|5G|robot)\b"
-                      ),
-                      "Olahraga": (
-                          r"\b(sepak bola|sepakbola|liga|"
-                          r"pertandingan|turnamen|atlet|"
-                          r"badminton|bulu tangkis|FIFA|"
-                          r"timnas|gol|piala dunia)\b"
-                      ),
-                      "Entertainment": (
-                          r"\b(film|bioskop|musik|konser|"
-                          r"penyanyi|aktor|aktris|"
-                          r"selebriti|album|drama|"
-                          r"artis|festival musik)\b"
-                      )
-                  }
 
-                  if not re.search(
-                      rules[name], title, re.IGNORECASE
-                  ):
-                      continue
-
+                      if not re.search(
+                          rules[name], title, re.IGNORECASE
+                      ):
+                          continue
 
                       seen.add(link)
 
@@ -315,6 +292,7 @@ jobs:
                           "published": item.get("seendate", ""),
                           "category": name
                       })
+
 
                   results[name] = articles
                   successful += 1
