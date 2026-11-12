@@ -2,57 +2,319 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>TrendRadar Indonesia</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #0b1120;
-      color: white;
-    }
-    header {
-      padding: 24px;
-      background: #151e32;
-    }
-    main {
-      max-width: 1000px;
-      margin: auto;
-      padding: 30px 20px;
-    }
-    .card {
-      padding: 24px;
-      margin-top: 20px;
-      background: #1d2940;
-      border-radius: 14px;
-    }
-    a { color: #a5b4fc; }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TrendRadar Indonesia</title>
+
+<style>
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0b1120;
+  color: #f8fafc;
+}
+
+header {
+  padding: 22px 6%;
+  border-bottom: 1px solid #253047;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.logo span { color: #a78bfa; }
+
+.live {
+  color: #4ade80;
+  font-size: 13px;
+}
+
+main {
+  max-width: 1150px;
+  margin: auto;
+  padding: 45px 20px;
+}
+
+h1 {
+  font-size: clamp(30px, 5vw, 48px);
+  margin-bottom: 12px;
+}
+
+.subtitle {
+  color: #94a3b8;
+  line-height: 1.6;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 15px;
+  margin: 30px 0;
+}
+
+.stat, .card {
+  background: #172238;
+  border: 1px solid #293852;
+  border-radius: 15px;
+  padding: 22px;
+}
+
+.stat strong {
+  display: block;
+  font-size: 27px;
+  margin-bottom: 8px;
+}
+
+.stat small { color: #94a3b8; }
+
+.search {
+  width: 100%;
+  padding: 17px;
+  margin: 15px 0 25px;
+  border-radius: 12px;
+  background: #172238;
+  border: 1px solid #394966;
+  color: white;
+  font-size: 15px;
+}
+
+.section-title {
+  margin-top: 35px;
+  font-size: 23px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 15px;
+}
+
+.card {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.card:hover {
+  border-color: #a78bfa;
+}
+
+.rank {
+  color: #a78bfa;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.card h3 {
+  margin: 12px 0;
+  line-height: 1.45;
+}
+
+.traffic {
+  color: #94a3b8;
+  font-size: 13px;
+}
+
+.card a {
+  display: inline-block;
+  margin-top: 18px;
+  color: #c4b5fd;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.status {
+  padding: 20px 0;
+  color: #cbd5e1;
+}
+
+footer {
+  margin-top: 60px;
+  padding-top: 25px;
+  border-top: 1px solid #253047;
+  color: #94a3b8;
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+@media (max-width: 600px) {
+  .stats { grid-template-columns: 1fr; }
+  header { padding: 20px; }
+}
+</style>
 </head>
+
 <body>
-  <header>
-    <h2>📡 TrendRadar Indonesia</h2>
-  </header>
 
-  <main>
-    <h1>Discover What's Trending</h1>
-    <p>Monitor berita dan tren digital Indonesia.</p>
+<header>
+  <div class="logo">📡 Trend<span>Radar</span></div>
+  <div class="live">● DATA MONITORING</div>
+</header>
 
-    <div class="card">
-      <h2>🔥 Trending Topics</h2>
-      <p>Integrasi Google Trends akan ditambahkan.</p>
+<main>
+
+  <h1>Discover What's Trending 🔥</h1>
+
+  <p class="subtitle">
+    Pantau topik pencarian yang sedang trending
+    di Indonesia berdasarkan Google Trends.
+  </p>
+
+  <div class="stats">
+    <div class="stat">
+      <strong id="total">—</strong>
+      <small>Trending Topics Terpantau</small>
     </div>
 
-    <div class="card">
-      <h2>📰 News Intelligence</h2>
-      <p>Integrasi berita aktual akan ditambahkan.</p>
+    <div class="stat">
+      <strong id="updated">—</strong>
+      <small>Terakhir Diperbarui (WIB)</small>
     </div>
+  </div>
 
-    <div class="card">
-      <h2>📊 Social Media Trends</h2>
-      <p>Integrasi platform sosial akan ditambahkan.</p>
-    </div>
-  </main>
+  <h2 class="section-title">🔥 Trending in Indonesia</h2>
+
+  <input
+    class="search"
+    id="search"
+    type="search"
+    placeholder="Cari trending topic atau keyword..."
+  >
+
+  <div id="status" class="status">
+    Mengambil data Google Trends...
+  </div>
+
+  <div id="trends" class="grid"></div>
+
+  <footer>
+    TrendRadar Indonesia — Trend Intelligence Dashboard.
+    <p>
+      Sumber: Google Trends Indonesia.
+      Volume merupakan estimasi pencarian dari sumber,
+      bukan jumlah posting atau percakapan media sosial.
+      Data mengikuti pembaruan terakhir yang tersedia.
+    </p>
+  </footer>
+
+</main>
+
+<script>
+let allTrends = [];
+
+const container = document.getElementById("trends");
+const statusBox = document.getElementById("status");
+const searchInput = document.getElementById("search");
+
+function safeUrl(value) {
+  try {
+    const url = new URL(value);
+    return ["https:", "http:"].includes(url.protocol)
+      ? url.href : null;
+  } catch {
+    return null;
+  }
+}
+
+function renderTrends() {
+  const keyword = searchInput.value.trim().toLowerCase();
+
+  const filtered = allTrends.filter(item =>
+    String(item.title || "").toLowerCase().includes(keyword)
+  );
+
+  container.replaceChildren();
+
+  statusBox.textContent = filtered.length
+    ? ""
+    : "Tidak ada topik yang cocok.";
+
+  filtered.forEach((item, index) => {
+    const card = document.createElement("article");
+    card.className = "card";
+
+    const rank = document.createElement("div");
+    rank.className = "rank";
+    rank.textContent = "TOPIC " + (index + 1);
+
+    const title = document.createElement("h3");
+    title.textContent = item.title || "Tanpa judul";
+
+    const traffic = document.createElement("div");
+    traffic.className = "traffic";
+    traffic.textContent = item.traffic
+      ? "Estimasi pencarian: " + item.traffic
+      : "Volume tidak tersedia";
+
+    card.append(rank, title, traffic);
+
+    const linkUrl = safeUrl(item.link);
+    if (linkUrl) {
+      const link = document.createElement("a");
+      link.href = linkUrl;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = "Lihat di Google Trends →";
+      card.appendChild(link);
+    }
+
+    container.appendChild(card);
+  });
+}
+
+async function loadTrends() {
+  try {
+    const response = await fetch(
+      "./data/trends.json?t=" + Date.now(),
+      { cache: "no-store" }
+    );
+
+    if (!response.ok) {
+      throw new Error("HTTP " + response.status);
+    }
+
+    const data = await response.json();
+
+    if (!Array.isArray(data.trends)) {
+      throw new Error("Format data tidak sesuai");
+    }
+
+    allTrends = data.trends;
+
+    document.getElementById("total").textContent =
+      allTrends.length.toLocaleString("id-ID");
+
+    document.getElementById("updated").textContent =
+      data.updated_at
+        ? new Date(data.updated_at).toLocaleString(
+            "id-ID",
+            {
+              timeZone: "Asia/Jakarta",
+              dateStyle: "medium",
+              timeStyle: "short"
+            }
+          )
+        : "Tidak tersedia";
+
+    renderTrends();
+
+  } catch (error) {
+    statusBox.textContent =
+      "Data belum dapat dimuat. Periksa file data/trends.json dan deployment GitHub Pages.";
+    console.error(error);
+  }
+}
+
+searchInput.addEventListener("input", renderTrends);
+
+loadTrends();
+</script>
+
 </body>
 </html>
