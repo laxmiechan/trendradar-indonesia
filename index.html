@@ -473,11 +473,62 @@ function renderNews() {
     ? allNews
     : (categoryNews[selected] || []);
 
-  const filtered = articles.filter(item =>
-    `${item.title || ""} ${item.source || ""}`
-      .toLowerCase()
-      .includes(keyword)
+ 
+  // Smart OR Matching
+  const words = [...new Set(
+    keyword.split(/\s+/).filter(Boolean)
+  )];
+
+  // Kata umum yang kurang spesifik
+  const commonWords = new Set([
+    "foto", "video", "jadwal", "harga",
+    "terbaru", "hari", "ini", "berita",
+    "update", "viral"
+  ]);
+
+  const importantWords = words.filter(
+    word => !commonWords.has(word)
   );
+
+  const searchWords = importantWords.length
+    ? importantWords
+    : words;
+
+  const filtered = articles
+    .map(item => {
+      const title = String(item.title || "").toLowerCase();
+
+      if (!keyword) {
+        return { item, score: 1 };
+      }
+
+      let score = 0;
+
+      // Prioritas tertinggi: frasa lengkap
+      if (title.includes(keyword)) {
+        score += 100;
+      }
+
+      // OR: cukup satu keyword utama cocok
+      searchWords.forEach(word => {
+        if (title.includes(word)) {
+          score += 10;
+        }
+      });
+
+      // Bonus jika lebih banyak kata cocok
+      words.forEach(word => {
+        if (title.includes(word)) {
+          score += 1;
+        }
+      });
+
+      return { item, score };
+    })
+    .filter(result => result.score > 0)
+    .sort((a, b) => b.score - a.score)
+    .map(result => result.item);
+
 
   newsList.replaceChildren();
 
