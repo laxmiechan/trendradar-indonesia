@@ -192,6 +192,28 @@ footer {
   </div>
 
   <div id="trends" class="grid"></div>
+  
+<section style="margin-top:65px">
+  <h2 class="section-title">📰 News Intelligence</h2>
+  <p class="subtitle">
+    Berita terbaru dari berbagai media Indonesia,
+    berdasarkan data GDELT.
+  </p>
+
+  <input
+    class="search"
+    id="newsSearch"
+    type="search"
+    placeholder="Cari berita, media, atau keyword..."
+  >
+
+  <div id="newsStatus" class="status">
+    Mengambil berita terbaru...
+  </div>
+
+  <div id="newsList" class="grid"></div>
+</section>
+
 
   <footer>
     TrendRadar Indonesia — Trend Intelligence Dashboard.
@@ -314,6 +336,113 @@ async function loadTrends() {
 searchInput.addEventListener("input", renderTrends);
 
 loadTrends();
+  
+let allNews = [];
+
+const newsList = document.getElementById("newsList");
+const newsStatus = document.getElementById("newsStatus");
+const newsSearch = document.getElementById("newsSearch");
+
+function formatNewsDate(value) {
+  if (!value) return "Tanggal tidak tersedia";
+
+  // GDELT date format: YYYYMMDDTHHMMSSZ
+  const match = String(value).match(
+    /^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/
+  );
+
+  const date = match
+    ? new Date(
+        `${match[1]}-${match[2]}-${match[3]}T${match[4]}:${match[5]}:${match[6]}Z`
+      )
+    : new Date(value);
+
+  return isNaN(date.getTime())
+    ? "Tanggal tidak tersedia"
+    : date.toLocaleString("id-ID", {
+        timeZone: "Asia/Jakarta",
+        dateStyle: "medium",
+        timeStyle: "short"
+      });
+}
+
+function renderNews() {
+  const keyword = newsSearch.value.toLowerCase().trim();
+
+  const filtered = allNews.filter(item =>
+    `${item.title || ""} ${item.source || ""}`
+      .toLowerCase()
+      .includes(keyword)
+  );
+
+  newsList.replaceChildren();
+
+  newsStatus.textContent = filtered.length
+    ? `${filtered.length} artikel ditemukan`
+    : "Tidak ada berita yang cocok.";
+
+  filtered.forEach(item => {
+    const card = document.createElement("article");
+    card.className = "card";
+
+    const source = document.createElement("div");
+    source.className = "rank";
+    source.textContent = item.source || "Media Online";
+
+    const title = document.createElement("h3");
+    title.textContent = item.title || "Tanpa judul";
+
+    const date = document.createElement("div");
+    date.className = "traffic";
+    date.textContent = formatNewsDate(item.published);
+
+    card.append(source, title, date);
+
+    const url = safeUrl(item.url);
+
+    if (url) {
+      const link = document.createElement("a");
+      link.href = url;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      link.textContent = "Buka artikel asli →";
+      card.appendChild(link);
+    }
+
+    newsList.appendChild(card);
+  });
+}
+
+async function loadNews() {
+  try {
+    const response = await fetch(
+      "./data/news.json?t=" + Date.now(),
+      { cache: "no-store" }
+    );
+
+    if (!response.ok) {
+      throw new Error("HTTP " + response.status);
+    }
+
+    const data = await response.json();
+
+    if (!Array.isArray(data.articles)) {
+      throw new Error("Format data berita tidak valid");
+    }
+
+    allNews = data.articles;
+    renderNews();
+
+  } catch (error) {
+    newsStatus.textContent =
+      "Berita belum dapat dimuat. Periksa data/news.json.";
+    console.error(error);
+  }
+}
+
+newsSearch.addEventListener("input", renderNews);
+loadNews();
+
 </script>
 
 </body>
