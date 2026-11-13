@@ -1,32 +1,57 @@
 {
-  "updated_at": "2026-11-13T02:25:44.828377+00:00",
+  "updated_at": "2026-11-13T03:04:45.253077+00:00",
   "total_trends": 10,
   "trends": [
     {
-      "title": "jensen huang third affair",
-      "traffic": "2000+",
+      "title": "suns vs hornets",
+      "published": "Thu, 12 Nov 2026 18:30:00 -0800",
+      "traffic": "200+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-          "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-          "source": "Reuters"
+          "title": "Grayson Allen makes heartfelt admission on ‘connection’ to Suns before return with Hornets",
+          "url": "https://sports.yahoo.com/articles/grayson-allen-makes-heartfelt-admission-021749508.html",
+          "source": "Yahoo Sports"
         },
         {
-          "title": "How Jensen Huang’s Yearslong Ties to Alice Huang Enabled $7 Billion-Plus Nvidia Chip Sales to China",
-          "url": "https://www.theinformation.com/articles/jensen-huangs-yearslong-ties-alice-huang-enabled-nvidia-chip-sales-china",
-          "source": "The Information"
+          "title": "Suns news: Grayson Allen makes heartfelt admission on 'connection' to Phoenix before return with Hornets",
+          "url": "https://clutchpoints.com/nba/phoenix-suns/suns-news-grayson-allen-heartfelt-admission-on-connection-before-return-hornets",
+          "source": "ClutchPoints"
         },
         {
-          "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
-          "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
-          "source": "CNBC"
+          "title": "Suns vs Hornets LIVE, Score Updates and Play-by-Play in NBA (41-29)",
+          "url": "https://www.vavel.com/en-us/nba/2026/11/12/1279064-suns-vs-hornets-live-score-updates-and-play-by-play-nba.html",
+          "source": "VAVEL.com"
+        }
+      ]
+    },
+    {
+      "title": "khutbah jumat 13 november 2026",
+      "published": "Thu, 12 Nov 2026 18:30:00 -0800",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Khutbah Jumat 13 November 2026: Belajar Menjadi Ayah Teladan dari Nabi Muhammad",
+          "url": "https://radarsolo.jawapos.com/nasional/2611130019/khutbah-jumat-13-november-2026-belajar-menjadi-ayah-teladan-dari-nabi-muhammad",
+          "source": "Radar Solo"
+        },
+        {
+          "title": "Khutbah Jumat 13 November 2026: Meneladani 4 Sifat Rasulullah",
+          "url": "https://cahaya.kompas.com/aktual/26K12091100790/khutbah-jumat-13-november-2026--meneladani-4-sifat-rasulullah",
+          "source": "Kompas.com"
+        },
+        {
+          "title": "Meneladani Empat Sifat Rasulullah dalam Membangun Kepemimpinan Bangsa",
+          "url": "https://www.satuju.com/berita/18191/meneladani-empat-sifat-rasulullah-dalam-membangun-kepemimpinan-bangsa.html",
+          "source": "Satuju"
         }
       ]
     },
     {
       "title": "toni kroos",
-      "traffic": "100+",
+      "published": "Thu, 12 Nov 2026 17:50:00 -0800",
+      "traffic": "200+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
@@ -47,10 +72,39 @@
       ]
     },
     {
-      "title": "13 november",
+      "title": "ceo nvidia",
+      "published": "Thu, 12 Nov 2026 17:50:00 -0800",
       "traffic": "100+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
+        {
+          "title": "Jensen Huang Mundur Usai Selingkuh, Sosok Ini Ditunjuk Jadi Bos Baru Nvidia",
+          "url": "https://news.detik.com/internasional/d-8750649/jensen-huang-mundur-usai-selingkuh-sosok-ini-ditunjuk-jadi-bos-baru-nvidia",
+          "source": "detikNews"
+        },
+        {
+          "title": "China Sebut Isu Spionase Bos Nvidia Akal-akalan AS Boikot Teknologi",
+          "url": "https://www.cnnindonesia.com/internasional/20261113070929-113-1426641/china-sebut-isu-spionase-bos-nvidia-akal-akalan-as-boikot-teknologi",
+          "source": "CNN Indonesia"
+        },
+        {
+          "title": "Isu Pencopotan Jensen Huang Mencuat Usai Dua Dugaan Perselingkuhan",
+          "url": "https://tekno.kompas.com/read/2026/11/12/11030067/isu-pencopotan-jensen-huang-mencuat-usai-dua-dugaan-perselingkuhan?page=all",
+          "source": "Kompas.com"
+        }
+      ]
+    },
+    {
+      "title": "13 november",
+      "published": "Thu, 12 Nov 2026 17:40:00 -0800",
+      "traffic": "200+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Scientists predicted ‘Friday 13 November 2026’ would be ‘doomsday.’ Should you be worried?",
+          "url": "https://wausaupilotandreview.com/2026/11/12/scientists-predicted-friday-13-november-2026-would-be-doomsday-should-you-be-worried/",
+          "source": "Wausau Pilot & Review"
+        },
         {
           "title": "Despite a 1960 doomsday prediction, the world won't end today",
           "url": "https://www.abc.net.au/news/science/2026-11-13/world-has-avoided-a-predicted-population-doomsday/107320748",
@@ -60,17 +114,13 @@
           "title": "Why scientists in 1960s predicted world would end on Friday",
           "url": "https://theweek.com/science/why-scientists-in-1960s-predicted-world-would-end-on-friday",
           "source": "The Week"
-        },
-        {
-          "title": "Let’s Eat and Drink and Be Merry, For Tomorrow…",
-          "url": "https://www.dailycartoonist.com/index.php/2026/11/12/lets-eat-and-drink-and-be-merry-for-tomorrow/",
-          "source": "The Daily Cartoonist"
         }
       ]
     },
     {
       "title": "friday the 13th",
-      "traffic": "100+",
+      "published": "Thu, 12 Nov 2026 17:20:00 -0800",
+      "traffic": "200+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
@@ -92,6 +142,7 @@
     },
     {
       "title": "phil collins",
+      "published": "Thu, 12 Nov 2026 17:10:00 -0800",
       "traffic": "200+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
@@ -114,6 +165,7 @@
     },
     {
       "title": "michael sianipar",
+      "published": "Thu, 12 Nov 2026 17:00:00 -0800",
       "traffic": "200+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
@@ -135,14 +187,38 @@
       ]
     },
     {
+      "title": "gta 6 playstation",
+      "published": "Thu, 12 Nov 2026 17:00:00 -0800",
+      "traffic": "200+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Video: GTA 6 Laku Rp 13 Triliun Padahal Belum Rilis",
+          "url": "https://20.detik.com/detikupdate/20261110-261110015/video-gta-6-laku-rp-13-triliun-padahal-belum-rilis",
+          "source": "20detik"
+        },
+        {
+          "title": "Kode Unduh GTA VI Versi Kotak PS5, Cek Wilayah Akun Sebelum Beli",
+          "url": "https://www.inilah.com/kode-unduh-gta-vi-versi-kotak-ps5-cek-wilayah-akun",
+          "source": "Inilah.com"
+        },
+        {
+          "title": "GTA VI Bisa Dimainkan di Xbox One lewat Cloud Gaming Mulai 19 November",
+          "url": "https://rri.co.id/surabaya/hobi/2888576/gta-vi-bisa-dimainkan-di-xbox-one-lewat-cloud-gaming-mulai-19-november",
+          "source": "RRI.co.id"
+        }
+      ]
+    },
+    {
       "title": "timberwolves vs mavericks",
+      "published": "Thu, 12 Nov 2026 16:50:00 -0800",
       "traffic": "1000+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "ProphetX promo code TSN: Get $40 prediction bonus for Timberwolves vs. Mavs, any NBA game for Nov. 12",
-          "url": "https://www.sportingnews.com/us/predictions-markets/news/prophetx-promo-code-tsn-prediction-bonus-timberwolves-mavs-nba/5781feee9ed928695d15e658",
-          "source": "Sporting News"
+          "title": "Live: Wolves putting four-game winning streak to the test vs. Cooper Flagg, Mavericks",
+          "url": "https://www.startribune.com/minnesota-timberwolves-dallas-mavericks-score-today-lamelo-ball-stats-anthony-edwards-injury-update/601914490",
+          "source": "Star Tribune"
         },
         {
           "title": "NBA Predictions, Odds and Betting Lines - November 12",
@@ -150,75 +226,9 @@
           "source": "FanDuel"
         },
         {
-          "title": "Novig promo code NYPOST: Secure $50 bonus with Sydney Sweeney for Mavericks vs. Timberwolves",
-          "url": "https://nypost.com/2026/11/12/betting/novig-promo-code-nypost-secure-50-bonus-with-sydney-sweeney-for-mavericks-vs-timberwolves/",
-          "source": "New York Post"
-        }
-      ]
-    },
-    {
-      "title": "penghasilan",
-      "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "In This Economy: Side Hustle Butuh Akuntansi, Bukan Sekadar Semangat",
-          "url": "https://money.kompas.com/read/2026/11/12/085500426/in-this-economy--side-hustle-butuh-akuntansi-bukan-sekadar-semangat",
-          "source": "Kompas.com"
-        },
-        {
-          "title": "5 Side Job untuk Kamu yang Ingin Tambah Cuan di Waktu Luang",
-          "url": "https://www.idntimes.com/life/career/5-side-job-untuk-kamu-yang-ingin-tambah-cuan-di-waktu-luang-c1c2-01-zgdyq-0bw5sm",
-          "source": "IDN Times"
-        },
-        {
-          "title": "Side Hustle Menambah Penghasilan dengan Pengelolaan Keuangan",
-          "url": "https://lensahukum.co.id/side-hustle-pengelolaan-keuangan",
-          "source": "Lensa Hukum"
-        }
-      ]
-    },
-    {
-      "title": "gmail email",
-      "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Google’s “zero-day”: Attackers say they have access to Gmail even after password change",
-          "url": "https://cybernews.com/security/gmail-access-password-change/",
-          "source": "Cybernews"
-        },
-        {
-          "title": "A $1,000-a-Month Malware Tool Claims It Can Keep Access to Gmail. Google Says Gmail Isn't the Vulnerability",
-          "url": "https://www.inc.com/moses-jeanfrancois/malware-tool-claims-keep-access-to-gmail-google-says-gmail-isnt-vulnerability/91435011",
-          "source": "Inc.com"
-        },
-        {
-          "title": "Cybersecurity researchers warn of Gmail flaw that survives password resets",
-          "url": "https://www.clickondetroit.com/news/local/2026/11/12/cybersecurity-researchers-warn-of-gmail-flaw-that-survives-password-resets/",
-          "source": "ClickOnDetroit | WDIV Local 4"
-        }
-      ]
-    },
-    {
-      "title": "gemini hydrogen",
-      "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Gemini 4 Hydrogen vs Gemini 3.8 Flash: apa yang rusak",
-          "url": "https://www.orcarouter.ai/id/blog/gemini-4-hydrogen-vs-gemini-3-8-flash",
-          "source": "OrcaRouter"
-        },
-        {
-          "title": "Google Gemini 4 Carbon Sudah Bisa Dicoba di Indonesia, Model AI untuk Coding dan Tugas Kompleks",
-          "url": "https://tekno.kompas.com/read/2026/11/11/11200037/google-gemini-4-carbon-sudah-bisa-dicoba-di-indonesia-model-ai-untuk-coding-dan",
-          "source": "Kompas.com"
-        },
-        {
-          "title": "Google Uji Gemini 4 Hydrogen, Model AI Baru yang Diklaim Lebih Cepat dan Efisien",
-          "url": "https://www.tvonenews.com/lifestyle/trend/478052-google-uji-gemini-4-hydrogen-model-ai-baru-yang-diklaim-lebih-cepat-dan-efisien",
-          "source": "tvOneNews"
+          "title": "Mavericks-Timberwolves preview: Measuring-stick trip starts in Minnesota",
+          "url": "https://www.nba.com/mavs/news/mavericks-timberwolves-preview-mavs-start-tough-road-trip-in-minnesota",
+          "source": "NBA.com"
         }
       ]
     }
