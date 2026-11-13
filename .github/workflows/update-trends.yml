@@ -93,16 +93,15 @@ jobs:
                                   "source": news_source
                               })
 
-                        trends.append({
-                          "title": title,
-                          "published": item.findtext("pubDate", ""),
-                          "traffic": item.findtext(
-                              "ht:approx_traffic", "", ns
-                          ),
-                          "link": item.findtext("link", ""),
-                          "related_news": related_news
-                      })
-
+                            trends.append({
+                              "title": title,
+                              "published": item.findtext("pubDate", ""),
+                              "traffic": item.findtext(
+                                "ht:approx_traffic", "", ns
+                              ),
+                              "link": item.findtext("link", ""),
+                              "related_news": related_news
+                             })
 
               if not trends:
                   raise ValueError("Feed kosong")
