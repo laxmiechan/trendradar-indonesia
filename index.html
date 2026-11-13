@@ -769,6 +769,10 @@ main {
     </select>
   </div>
 
+<div id="newsFreshness" class="status">
+  Memeriksa waktu pembaruan berita...
+</div>
+
   <div id="newsStatus" class="status" role="status">
     Loading real news...
   </div>
@@ -1187,6 +1191,35 @@ function renderNews() {
   });
 }
 
+function updateNewsFreshness(updatedAt) {
+  const badge = document.getElementById("newsFreshness");
+  const updated = new Date(updatedAt);
+  const age = (Date.now() - updated.getTime()) / 60000;
+
+  if (!Number.isFinite(age) || age < 0) {
+    badge.textContent = "⚪ Waktu pembaruan tidak valid";
+    return;
+  }
+
+  const time = updated.toLocaleString("id-ID", {
+    timeZone: "Asia/Jakarta",
+    dateStyle: "medium",
+    timeStyle: "short"
+  });
+
+  let label;
+
+  if (age < 60) {
+    label = "🟢 Fresh";
+  } else if (age < 180) {
+    label = "🟡 Delayed";
+  } else {
+    label = "🔴 Stale";
+  }
+
+  badge.textContent = `${label} • Data dikumpulkan: ${time} WIB`;
+}
+
 async function loadNews() {
   try {
     const data = await fetchJSON("./data/news.json");
@@ -1198,16 +1231,24 @@ async function loadNews() {
     allNews = data.articles;
     newsLoaded = true;
 
+    updateNewsFreshness(data.updated_at);
+
     $("totalNews").textContent =
       allNews.length.toLocaleString("id-ID");
 
     renderNews();
+  
   } catch (error) {
     newsFailed = true;
+
+    document.getElementById("newsFreshness").textContent =
+      "🔴 Status pembaruan berita tidak tersedia";
+
     renderNews();
     console.error(error);
   }
 }
+
 
 async function loadCategories() {
   try {
