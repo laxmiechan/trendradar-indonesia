@@ -828,6 +828,90 @@ main {
   color: #c1bdd8;
 }
 
+/* ===== CONTENT IDEAS ===== */
+.content-note {
+  margin: -8px 0 24px;
+  padding: 14px 16px;
+  border: 1px solid rgba(105,232,255,.22);
+  border-radius: 16px;
+  background: rgba(105,232,255,.06);
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.content-layout {
+  display: grid;
+  grid-template-columns: minmax(210px, .8fr) minmax(0, 2.2fr);
+  gap: 18px;
+  align-items: start;
+}
+
+.content-sidebar {
+  display: grid;
+  gap: 18px;
+}
+
+.content-panel {
+  padding: 21px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: rgba(255,255,255,.055);
+}
+
+.content-panel h3 { margin: 0 0 12px; font-size: 16px; }
+
+.content-filter {
+  width: 100%;
+  padding: 11px 13px;
+  margin: 5px 0;
+  color: var(--text);
+  text-align: left;
+  border: 1px solid transparent;
+  border-radius: 11px;
+  background: transparent;
+  font-weight: 750;
+}
+
+.content-filter:hover,
+.content-filter[aria-pressed="true"] {
+  color: #171527;
+  background: var(--lime);
+}
+
+.moment-item {
+  padding: 13px 0;
+  border-bottom: 1px solid rgba(255,255,255,.1);
+}
+.moment-item:last-child { border-bottom: 0; }
+.moment-date { color: var(--lime); font-size: 11px; font-weight: 900; letter-spacing: .8px; }
+.moment-item strong { display: block; margin-top: 3px; font-size: 14px; }
+.moment-item small { color: var(--muted); display: block; margin-top: 3px; }
+
+.idea-card { min-height: 315px; display: flex; flex-direction: column; }
+.idea-card .traffic { margin-bottom: 12px; }
+.idea-angle {
+  margin: 0;
+  color: #e5e0fa;
+  font-size: 14px;
+  line-height: 1.6;
+}
+.idea-format {
+  margin-top: 16px;
+  color: var(--cyan);
+  font-size: 12px;
+  font-weight: 800;
+}
+.idea-card .card-actions { margin-top: auto; padding-top: 20px; }
+
+@media(max-width: 960px) {
+  .content-layout { grid-template-columns: 1fr; }
+  .content-sidebar { grid-template-columns: 1fr 1fr; }
+}
+
+@media(max-width: 680px) {
+  .content-sidebar { grid-template-columns: 1fr; }
+}
+
 </style>
 </head>
 
@@ -839,6 +923,7 @@ main {
 
     <nav class="nav-links" aria-label="Navigasi">
     <a href="#trending">Trending</a>
+    <a href="#content-ideas">Ide Konten</a>
     <a href="#news">News Intelligence</a>
     <a href="#analytics">Analytics</a>
     <a href="#about">About</a>
@@ -943,10 +1028,44 @@ main {
   <div id="trends" class="grid"></div>
 </section>
 
+<section id="content-ideas" class="section">
+  <div class="section-head">
+    <div>
+      <div class="section-tag">02 / Make It Relevant</div>
+      <h2>✦ Ide Konten</h2>
+      <p>Sudut konten praktis dari tren pencarian dan berita yang sedang dipantau.</p>
+    </div>
+    <div class="counter">RULE-BASED · NO AI</div>
+  </div>
+
+  <p class="content-note">
+    Ide dirangkai otomatis dari judul dan kategori data yang tersedia—bukan hasil AI generatif.
+    Momen di bawah adalah pilihan tanggal umum dan belum mencakup seluruh kalender acara Indonesia.
+  </p>
+
+  <div class="content-layout">
+    <aside class="content-sidebar" aria-label="Filter dan momen konten">
+      <div class="content-panel">
+        <h3>Kategori</h3>
+        <div id="contentFilters"></div>
+      </div>
+      <div class="content-panel">
+        <h3>Momen terdekat</h3>
+        <div id="upcomingMoments"></div>
+      </div>
+    </aside>
+
+    <div>
+      <div id="contentIdeasStatus" class="status" role="status">Menyiapkan ide dari data terbaru...</div>
+      <div id="contentIdeas" class="grid"></div>
+    </div>
+  </div>
+</section>
+
 <section id="news" class="section">
   <div class="section-head">
     <div>
-      <div class="section-tag">02 / Stay Informed</div>
+      <div class="section-tag">03 / Stay Informed</div>
       <h2>📰 News Intelligence</h2>
       <p>Explore recent Indonesian news discovered through GDELT.</p>
     </div>
@@ -996,7 +1115,7 @@ main {
   <div class="section-head">
     <div>
       <div class="section-tag">
-        03 / TREND INTELLIGENCE
+        04 / TREND INTELLIGENCE
       </div>
 
       <h2>📊 Trend Analytics</h2>
@@ -1092,6 +1211,8 @@ main {
     News articles are retrieved from available source feeds
     and may not represent all news coverage.
     Category results are keyword-filtered, not editorially verified.
+    Content ideas use fixed rules from available titles and categories; they are not AI-generated advice.
+    The listed moments are a small, non-exhaustive planning calendar.
     Ranking and search matching are not official popularity scores.
     Updated periodically; not a real-time firehose.
   </p>
@@ -1111,6 +1232,7 @@ let newsLoaded = false;
 let categoriesLoaded = false;
 let newsFailed = false;
 let categoriesFailed = false;
+let contentIdeaCategory = "Semua";
 
 const $ = id => document.getElementById(id);
 
@@ -1375,6 +1497,7 @@ async function loadTrends() {
     $("updated").textContent = dateWIB(data.updated_at);
 
     renderTrends();
+    refreshContentIdeas();
   } catch (error) {
     $("status").textContent =
       "Google Trends data unavailable. Check trends.json.";
@@ -1428,6 +1551,114 @@ function matchArticles(articles, query) {
 }
 
 // ===== NEWS INTELLIGENCE =====
+
+// ===== CONTENT IDEAS (RULE-BASED, NOT GENERATIVE AI) =====
+const CONTENT_CATEGORIES = ["Semua", "Bisnis & Ekonomi", "Teknologi", "Olahraga", "Hiburan", "Publik & Politik", "Lifestyle"];
+const CONTENT_RULES = {
+  "Bisnis & Ekonomi": { icon: "📈", format: "Format: carousel 5 slide atau video 30 detik", angle: title => `Jelaskan “apa dampaknya buat orang biasa?” dari ${title}, lalu tutup dengan satu langkah yang bisa dilakukan audiens.` },
+  "Teknologi": { icon: "💻", format: "Format: demo singkat atau myth vs fact", angle: title => `Bedah ${title} dalam format “yang perlu diketahui dalam 60 detik”: konteks, manfaat, dan batasannya.` },
+  "Olahraga": { icon: "⚽", format: "Format: reaction + 3 poin analisis", angle: title => `Pakai hook hasil atau momen paling menarik dari ${title}, lalu rangkum tiga hal yang menentukan ceritanya.` },
+  "Hiburan": { icon: "🎬", format: "Format: carousel opini atau rekomendasi", angle: title => `Angkat sudut “kenapa orang membicarakan ini?” dari ${title}; sertakan konteks tanpa mengulang judul mentah.` },
+  "Publik & Politik": { icon: "🏛️", format: "Format: explainer netral 3 poin", angle: title => `Buat explainer netral dari ${title}: apa yang terjadi, siapa yang terdampak, dan apa yang masih perlu dipantau.` },
+  "Lifestyle": { icon: "✨", format: "Format: listicle atau tips praktis", angle: title => `Ubah ${title} menjadi sudut praktis: “apa yang bisa dipelajari atau dicoba audiens minggu ini?”` }
+};
+
+function contentCategory(item) {
+  const text = `${item.title || ""} ${item.category || ""}`.toLocaleLowerCase("id-ID");
+  if (/teknologi|digital|ai\b|kecerdasan buatan|aplikasi|internet|siber|gadget|software|robot/.test(text)) return "Teknologi";
+  if (/sepak|bola|badminton|bulu tangkis|liga|pertandingan|turnamen|atlet|timnas|olahraga|gol\b/.test(text)) return "Olahraga";
+  if (/film|musik|konser|penyanyi|aktor|aktris|selebriti|album|drama|artis|hiburan/.test(text)) return "Hiburan";
+  if (/dpr|dprd|presiden|menteri|pemilu|pilkada|partai|parlemen|politik|pemerintah|wapres/.test(text)) return "Publik & Politik";
+  if (/ekonomi|inflasi|rupiah|saham|ihsg|investasi|perbankan|ekspor|impor|bisnis|pajak|harga|usaha|motor/.test(text)) return "Bisnis & Ekonomi";
+  return "Lifestyle";
+}
+
+function trendSourceUrl(title) {
+  return "https://trends.google.com/trends/explore?geo=ID&date=now%201-H&q=" + encodeURIComponent(title || "");
+}
+
+function contentRecords() {
+  const seen = new Set();
+  const records = [];
+  const add = (item, sourceType) => {
+    const title = String(item.title || "").trim();
+    const url = sourceType === "Google Trends" ? trendSourceUrl(title) : safeUrl(item.url);
+    if (!title || !url || seen.has(title.toLocaleLowerCase("id-ID"))) return;
+    seen.add(title.toLocaleLowerCase("id-ID"));
+    records.push({ title, url, sourceType, source: item.source || sourceType,
+      category: contentCategory(item),
+      detail: sourceType === "Google Trends"
+        ? (item.traffic ? `Google Trends • ${item.traffic} pencarian` : "Google Trends Indonesia")
+        : `${item.source || "GDELT source"} • ${dateWIB(item.published)}` });
+  };
+  allTrends.forEach(item => add(item, "Google Trends"));
+  allNews.forEach(item => add(item, "GDELT News"));
+  Object.entries(categoryNews).forEach(([category, items]) => (Array.isArray(items) ? items : []).forEach(item => add({ ...item, category }, "GDELT Category")));
+  const google = records.filter(item => item.sourceType === "Google Trends");
+  const gdelt = records.filter(item => item.sourceType !== "Google Trends");
+  return [...google.slice(0, 5), ...gdelt.slice(0, 5), ...google.slice(5), ...gdelt.slice(5)];
+}
+
+function upcomingMoments() {
+  const today = new Date();
+  const year = today.getFullYear();
+  const templates = [[0, 1, "Tahun Baru", "Refleksi, resolusi, dan prediksi tren"], [3, 21, "Kartini", "Cerita, profil, atau aksi yang relevan"], [7, 17, "Hari Kemerdekaan", "Kisah lokal dan kampanye komunitas"], [10, 25, "Hari Guru", "Apresiasi dan cerita pendidikan"], [11, 22, "Hari Ibu", "Cerita personal dan apresiasi"], [11, 25, "Natal", "Inspirasi musim liburan dan komunitas"]];
+  return templates.map(([month, day, title, note]) => {
+    let date = new Date(year, month, day);
+    if (date < new Date(today.getFullYear(), today.getMonth(), today.getDate())) date = new Date(year + 1, month, day);
+    return { date, title, note };
+  }).sort((a, b) => a.date - b.date).slice(0, 4);
+}
+
+function renderContentFilters() {
+  const box = $("contentFilters");
+  box.replaceChildren();
+  CONTENT_CATEGORIES.forEach(category => {
+    const button = element("button", "content-filter", category);
+    button.type = "button";
+    button.setAttribute("aria-pressed", String(category === contentIdeaCategory));
+    button.addEventListener("click", () => { contentIdeaCategory = category; renderContentFilters(); renderContentIdeas(); });
+    box.appendChild(button);
+  });
+}
+
+function renderUpcomingMoments() {
+  const box = $("upcomingMoments");
+  box.replaceChildren();
+  upcomingMoments().forEach(moment => {
+    const item = element("div", "moment-item");
+    const date = element("div", "moment-date", moment.date.toLocaleDateString("id-ID", { timeZone: "Asia/Jakarta", day: "numeric", month: "short", year: "numeric" }));
+    item.append(date, element("strong", "", moment.title), element("small", "", moment.note));
+    box.appendChild(item);
+  });
+}
+
+function renderContentIdeas() {
+  const box = $("contentIdeas");
+  const status = $("contentIdeasStatus");
+  const records = contentRecords().filter(item => contentIdeaCategory === "Semua" || item.category === contentIdeaCategory).slice(0, 9);
+  box.replaceChildren();
+  if (!records.length) { status.textContent = "Belum ada data yang cukup untuk membuat ide konten pada kategori ini."; return; }
+  status.textContent = `${records.length} ide dari data yang sedang tersedia • ${contentIdeaCategory}`;
+  records.forEach(item => {
+    const rule = CONTENT_RULES[item.category];
+    const card = element("article", "card idea-card reveal");
+    const top = element("div", "card-top");
+    top.append(element("span", "rank", item.category), element("span", "mini-icon", rule.icon));
+    const title = element("h3", "", item.title);
+    const detail = element("div", "traffic", item.detail);
+    const angle = element("p", "idea-angle", rule.angle(item.title));
+    const format = element("div", "idea-format", rule.format);
+    const actions = element("div", "card-actions");
+    const link = externalLink(`Buka sumber ${item.sourceType} ↗`, item.url);
+    if (link) actions.appendChild(link);
+    card.append(top, title, detail, angle, format, actions);
+    box.appendChild(card);
+    addTilt(card);
+  });
+}
+
+function refreshContentIdeas() { renderContentFilters(); renderUpcomingMoments(); renderContentIdeas(); }
 
 // ===== NEWS PAGINATION =====
 const NEWS_PER_PAGE = 9;
@@ -1640,6 +1871,7 @@ async function loadNews() {
       allNews.length.toLocaleString("id-ID");
 
     renderNews();
+    refreshContentIdeas();
   
   } catch (error) {
     newsFailed = true;
@@ -1665,6 +1897,7 @@ async function loadCategories() {
     categoryNews = data.categories;
     categoriesLoaded = true;
     renderNews();
+    refreshContentIdeas();
   } catch (error) {
     categoriesFailed = true;
     renderNews();
@@ -1909,6 +2142,7 @@ loadTrends();
 loadNews();
 loadCategories();
 loadAnalytics();
+refreshContentIdeas();
   // Cek ulang data pada tab yang tetap terbuka
 setInterval(() => {
   loadTrends();
