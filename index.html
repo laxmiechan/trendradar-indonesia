@@ -728,6 +728,16 @@ main {
   <div id="status" class="status" role="status">
     Loading real trends...
   </div>
+  
+<div class="toolbar">
+  <select id="trendPeriod" class="select"
+          aria-label="Periode trending">
+    <option value="30">30 Menit Terakhir</option>
+    <option value="60" selected>1 Jam Terakhir</option>
+    <option value="1440">24 Jam Terakhir</option>
+  </select>
+</div>
+
   <div id="trends" class="grid"></div>
 </section>
 
@@ -903,17 +913,37 @@ function addTilt(card) {
 
 // ===== GOOGLE TRENDS =====
 function renderTrends() {
+  
   const query = trendSearch.value.trim().toLowerCase();
-
-  const filtered = allTrends.filter(item =>
-    String(item.title || "").toLowerCase().includes(query)
+  const period = Number(
+    document.getElementById("trendPeriod").value
   );
+
+  const now = Date.now();
+
+  const filtered = allTrends.filter(item => {
+    const matchesKeyword = String(item.title || "")
+      .toLowerCase()
+      .includes(query);
+
+    const published = Date.parse(item.published || "");
+
+    if (!Number.isFinite(published)) return false;
+
+    const ageMinutes = (now - published) / 60000;
+
+    return matchesKeyword &&
+      ageMinutes >= 0 &&
+      ageMinutes <= period;
+  });
+
+
 
   trendsBox.replaceChildren();
 
-  $("status").textContent = filtered.length
-    ? `${filtered.length} trending topics available`
-    : "No matching trends found.";
+$("status").textContent = filtered.length
+  ? `${filtered.length} topik dalam periode terpilih`
+  : "Belum ada tren baru dalam periode ini pada feed Google Trends. Coba pilih 24 jam.";
 
   filtered.forEach(item => {
     const card = element("article", "card reveal");
@@ -1216,6 +1246,8 @@ newsSearch.addEventListener("input", renderNews);
 newsCategory.addEventListener("change", renderNews);
 
 // ===== INITIALIZE =====
+  document.getElementById("trendPeriod")
+  .addEventListener("change", renderTrends);
 loadTrends();
 loadNews();
 loadCategories();
