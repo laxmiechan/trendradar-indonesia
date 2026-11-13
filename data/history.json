@@ -288,6 +288,54 @@
           "traffic": "100+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-13T11:42:39.911261+00:00",
+      "trends_updated_at": "2026-11-13T11:40:34.725224+00:00",
+      "total_trends": 10,
+      "news_count": 23,
+      "topics": [
+        {
+          "title": "qatar vs australia",
+          "traffic": "100+"
+        },
+        {
+          "title": "biarkan hati bicara",
+          "traffic": "100+"
+        },
+        {
+          "title": "hakim",
+          "traffic": "1000+"
+        },
+        {
+          "title": "cek bansos bpnt 2026",
+          "traffic": "100+"
+        },
+        {
+          "title": "azerbaijan vs liechtenstein",
+          "traffic": "100+"
+        },
+        {
+          "title": "slovakia vs",
+          "traffic": "100+"
+        },
+        {
+          "title": "ramayana film",
+          "traffic": "200+"
+        },
+        {
+          "title": "hasil kumamoto masters japan 2026",
+          "traffic": "1000+"
+        },
+        {
+          "title": "senayan",
+          "traffic": "200+"
+        },
+        {
+          "title": "new zealand vs india",
+          "traffic": "100+"
+        }
+      ]
     }
   ]
 }

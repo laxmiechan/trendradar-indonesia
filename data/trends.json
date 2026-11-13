@@ -1,7 +1,76 @@
 {
-  "updated_at": "2026-11-13T11:19:58.720368+00:00",
+  "updated_at": "2026-11-13T11:40:34.725224+00:00",
   "total_trends": 10,
   "trends": [
+    {
+      "title": "qatar vs australia",
+      "published": "Fri, 13 Nov 2026 03:20:00 -0800",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Australia, South Korea Friendlies Vital For Qatar, Says Coach Lopetegui",
+          "url": "https://menafn.com/1111955744/Australia-South-Korea-Friendlies-Vital-For-Qatar-Says-Coach-Lopetegui",
+          "source": "Menafn"
+        },
+        {
+          "title": "Match Preview: CommBank Socceroos v Qatar | International Friendly",
+          "url": "https://socceroos.com.au/news/match-preview-commbank-socceroos-v-qatar-international-friendly",
+          "source": "CommBank Socceroos"
+        },
+        {
+          "title": "[𝐒𝐓ream]hERE'S*!] Qatar vs Australia 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Football ＯＮ Ｔｖ Ｃｈａｎｎｅｌ",
+          "url": "https://www.jpx.co.jp/learning/tour/virtual-tour/index.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vZGF0dW1mYW4uY29tL2ZpbGVzL3kueG1sIi8+PC9rcnBhbm8+&id=video-live-qatar-v-australia-kgoucwvbngcx",
+          "source": "日本取引所グループ"
+        }
+      ]
+    },
+    {
+      "title": "biarkan hati bicara",
+      "published": "Fri, 13 Nov 2026 03:10:00 -0800",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Sinopsis Sinetron SCTV Biarkan Hati Bicara Episode 102: Tasya Menjebak Arina",
+          "url": "https://www.liputan6.com/showbiz/read/8334706/sinopsis-sinetron-sctv-biarkan-hati-bicara-episode-102-tasya-menjebak-arina",
+          "source": "Liputan6.com"
+        },
+        {
+          "title": "Sinopsis Biarkan Hati Bicara Episode 100: Rahasia Damar dan Jadwal Tayang di SCTV",
+          "url": "https://www.inforiau.co/sinopsis-biarkan-hati-bicara-episode-100-rahasia-damar-dan-jadwal-tayang-di-sctv-15814",
+          "source": "Inforiau"
+        },
+        {
+          "title": "Sinopsis Sinetron Biarkan Hati Bicara dan Kelanjutan Kisah Arina hingga Episode 100 - kumparan.com",
+          "url": "https://kumparan.com/berita-hari-ini/sinopsis-sinetron-biarkan-hati-bicara-dan-kelanjutan-kisah-arina-hingga-episode-100-28YcpXnU894",
+          "source": "kumparan"
+        }
+      ]
+    },
+    {
+      "title": "hakim",
+      "published": "Fri, 13 Nov 2026 03:10:00 -0800",
+      "traffic": "1000+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Inilah Alasan MA Batalkan Suket SMA Wapres Gibran",
+          "url": "https://www.kompas.id/artikel/inilah-alasan-ma-batalkan-suket-sma-wapres-gibran",
+          "source": "Kompas.id"
+        },
+        {
+          "title": "Komisi X DPR: Kasus Suket Ijazah Gibran Jadi Warning Kementerian Pendidikan",
+          "url": "https://news.detik.com/berita/d-8751374/komisi-x-dpr-kasus-suket-ijazah-gibran-jadi-warning-kementerian-pendidikan",
+          "source": "detikNews"
+        },
+        {
+          "title": "Gugatan Suket Gibran Gugur, Penggugat Tawarkan Paket C",
+          "url": "https://tirto.id/gugatan-suket-gibran-gugur-penggugat-tawarkan-paket-c-idKl",
+          "source": "Tirto.id"
+        }
+      ]
+    },
     {
       "title": "cek bansos bpnt 2026",
       "published": "Fri, 13 Nov 2026 03:00:00 -0800",
@@ -74,7 +143,7 @@
     {
       "title": "ramayana film",
       "published": "Fri, 13 Nov 2026 02:10:00 -0800",
-      "traffic": "100+",
+      "traffic": "200+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
@@ -97,7 +166,7 @@
     {
       "title": "hasil kumamoto masters japan 2026",
       "published": "Fri, 13 Nov 2026 02:00:00 -0800",
-      "traffic": "500+",
+      "traffic": "1000+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
@@ -147,72 +216,19 @@
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "“Great To Be Back”: Matt Henry After Recording Most 4+ Wicket Hauls Against India In 4th ODI",
-          "url": "https://www.sportscapemagazine.com/blog/great-to-be-back-matt-henry-after-recording-most-4-wicket-hauls-against-india-in-4th-odi",
-          "source": "Sportscape Magazine"
-        },
-        {
           "title": "'Huge difference in the wickets': Shreyas Iyer reveals why India's batting collapsed in 4th ODI at Mount Maunganui",
           "url": "https://sports.yahoo.com/articles/huge-difference-wickets-shreyas-iyer-093003441.html",
           "source": "Yahoo Sports"
         },
         {
+          "title": "India's Virat Kohli one of three players out for ducks in ODI loss as New Zealand's Matt Henry takes triple-wicket-maiden in first over",
+          "url": "https://www.skysports.com/cricket/news/13611852/indias-virat-kohli-one-of-three-players-out-for-ducks-in-odi-loss-as-new-zealands-matt-henry-takes-triple-wicket-maiden-in-first-over",
+          "source": "Sky Sports"
+        },
+        {
           "title": "Henry’s spell brought back memories of 2019 semi-final: Karthik",
           "url": "https://www.cricbuzz.com/cricket-videos/218870/henrys-spell-brought-back-memories-of-2019-semi-final-karthik",
           "source": "Cricbuzz"
-        }
-      ]
-    },
-    {
-      "title": "kepolisian daerah metropolitan jakarta raya",
-      "published": "Fri, 13 Nov 2026 01:40:00 -0800",
-      "traffic": "1000+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": []
-    },
-    {
-      "title": "indonesia vs yordania",
-      "published": "Fri, 13 Nov 2026 01:30:00 -0800",
-      "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Resmi: Pertandingan Yordania vs Australia Dipindahkan ke Sebuah Ibu Kota Arab",
-          "url": "https://www.goal.com/id/berita/resmi-pertandingan-yordania-vs-australia-dipindahkan-ke-sebuah-ibu-kota-arab/blt70b12c1613c2ba92",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Australia vs Yordania Dipindah ke Qatar usai Protes Pemain Socceroos",
-          "url": "https://www.cnnindonesia.com/olahraga/20261113102604-142-1426730/australia-vs-yordania-dipindah-ke-qatar-usai-protes-pemain-socceroos",
-          "source": "CNN Indonesia"
-        },
-        {
-          "title": "Beda Perlakuan Yordania, Tolak Permintaan Timnas Indonesia tapi Pertimbangkan Pindah Venue Demi Australia",
-          "url": "https://www.viva.co.id/bola/1943084-beda-perlakuan-yordania-tolak-permintaan-timnas-indonesia-tapi-pertimbangkan-pindah-venue-demi-australia",
-          "source": "VIVA.co.id"
-        }
-      ]
-    },
-    {
-      "title": "sufmi dasco ahmad",
-      "published": "Fri, 13 Nov 2026 01:30:00 -0800",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "DPR Gelar Sidang Paripurna Hari Ini",
-          "url": "https://news.detik.com/berita/d-8749162/dpr-gelar-sidang-paripurna-hari-ini",
-          "source": "detikNews"
-        },
-        {
-          "title": "Jelang Rapat Paripurna DPR Bahas Hak Menyatakan Pendapat Pemakzulan Gibran - kumparan.com",
-          "url": "https://kumparan.com/kumparannews/jelang-rapat-paripurna-dpr-bahas-hak-menyatakan-pendapat-pemakzulan-gibran-28YXtBn09ge",
-          "source": "kumparan"
-        },
-        {
-          "title": "Daftar Lengkap 120 Anggota Pengusul HMP Pemakzulan Gibran: PKS Terbanyak, PAN Cuma 1 Orang",
-          "url": "https://afu.id/nasional/daftar-lengkap-120-anggota-pengusul-hmp-pemakzulan-gibran-pks-terbanyak-pan-cuma-1-orang",
-          "source": "AFU.id"
         }
       ]
     }
