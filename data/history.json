@@ -192,6 +192,54 @@
           "traffic": "1000+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-13T11:14:29.632526+00:00",
+      "trends_updated_at": "2026-11-13T11:12:06.230479+00:00",
+      "total_trends": 10,
+      "news_count": 50,
+      "topics": [
+        {
+          "title": "cek bansos bpnt 2026",
+          "traffic": "100+"
+        },
+        {
+          "title": "azerbaijan vs liechtenstein",
+          "traffic": "100+"
+        },
+        {
+          "title": "slovakia vs",
+          "traffic": "100+"
+        },
+        {
+          "title": "ramayana film",
+          "traffic": "100+"
+        },
+        {
+          "title": "hasil kumamoto masters japan 2026",
+          "traffic": "500+"
+        },
+        {
+          "title": "senayan",
+          "traffic": "200+"
+        },
+        {
+          "title": "new zealand vs india",
+          "traffic": "100+"
+        },
+        {
+          "title": "kepolisian daerah metropolitan jakarta raya",
+          "traffic": "1000+"
+        },
+        {
+          "title": "indonesia vs yordania",
+          "traffic": "200+"
+        },
+        {
+          "title": "sufmi dasco ahmad",
+          "traffic": "100+"
+        }
+      ]
     }
   ]
 }
