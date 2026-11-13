@@ -395,12 +395,101 @@ jobs:
           PY
 
  
+      - name: Save Trend Analytics History
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          from datetime import datetime, timezone, timedelta
+
+          path = Path("data/history.json")
+          trends_path = Path("data/trends.json")
+          news_path = Path("data/news.json")
+
+          now = datetime.now(timezone.utc)
+          cutoff = now - timedelta(days=7)
+
+          if not trends_path.exists():
+              raise RuntimeError("Trends data missing")
+
+          trends = json.loads(
+              trends_path.read_text(encoding="utf-8")
+          )
+
+          if not trends.get("trends"):
+              raise RuntimeError("No trends available")
+
+          history = []
+
+          if path.exists():
+              try:
+                  existing = json.loads(
+                      path.read_text(encoding="utf-8")
+                  )
+                  history = existing.get("snapshots", [])
+              except (ValueError, OSError):
+                  print("History invalid, starting new history")
+
+          news_count = None
+          if news_path.exists():
+              news = json.loads(
+                  news_path.read_text(encoding="utf-8")
+              )
+              news_count = len(news.get("articles", []))
+
+          snapshot = {
+              "timestamp": now.isoformat(),
+              "trends_updated_at": trends.get("updated_at"),
+              "total_trends": len(trends["trends"]),
+              "news_count": news_count,
+              "topics": [
+                  {
+                      "title": item.get("title", ""),
+                      "traffic": item.get("traffic", "")
+                  }
+                  for item in trends["trends"]
+              ]
+          }
+
+          history.append(snapshot)
+
+          filtered = []
+
+          for item in history:
+              try:
+                  timestamp = datetime.fromisoformat(
+                      item["timestamp"].replace("Z", "+00:00")
+                  )
+                  if timestamp >= cutoff:
+                      filtered.append(item)
+              except (KeyError, ValueError, TypeError):
+                  continue
+
+          output = {
+              "retention_days": 7,
+              "snapshots": filtered
+          }
+
+          path.parent.mkdir(exist_ok=True)
+
+          path.write_text(
+              json.dumps(
+                  output, ensure_ascii=False, indent=2
+              ),
+              encoding="utf-8"
+          )
+
+          print(
+              f"History saved: {len(filtered)} snapshots"
+          )
+          PY
+
       - name: Save data to GitHub
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/trends.json data/news.json data/categories.json
+          git add data/trends.json data/news.json data/categories.json data/history.json
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
