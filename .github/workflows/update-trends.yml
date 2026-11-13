@@ -93,8 +93,9 @@ jobs:
                                   "source": news_source
                               })
 
-                      trends.append({
+                        trends.append({
                           "title": title,
+                          "published": item.findtext("pubDate", ""),
                           "traffic": item.findtext(
                               "ht:approx_traffic", "", ns
                           ),
