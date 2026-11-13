@@ -1,9 +1,17 @@
 {
-  "updated_at": "2026-11-13T11:42:39.874537+00:00",
+  "updated_at": "2026-11-13T21:56:28.418620+00:00",
   "categories": {
     "Politik": [],
     "Ekonomi": [],
-    "Teknologi": [],
+    "Teknologi": [
+      {
+        "title": "Praktisi Lintas Industri Kupas Kunci Sukses Agile dan AI dalam Menjalankan Bisnis",
+        "url": "https://www.merdeka.com/uang/read/8335012/praktisi-lintas-industri-kupas-kunci-sukses-agile-dan-ai-dalam-menjalankan-bisnis",
+        "source": "merdeka.com",
+        "published": "20261113T180000Z",
+        "category": "Teknologi"
+      }
+    ],
     "Olahraga": [],
     "Entertainment": []
   }
