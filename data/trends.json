@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-11-13T03:04:45.253077+00:00",
+  "updated_at": "2026-11-13T03:14:17.087707+00:00",
   "total_trends": 10,
   "trends": [
+    {
+      "title": "ipot",
+      "published": "Thu, 12 Nov 2026 19:00:00 -0800",
+      "traffic": "200+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Indo Premier hadirkan 'asisten' kecerdasan buatan bertransaksi saham",
+          "url": "https://banten.antaranews.com/berita/396679/indo-premier-hadirkan-asisten-kecerdasan-buatan-bertransaksi-saham",
+          "source": "ANTARA News Banten"
+        },
+        {
+          "title": "Tak Perlu Ribet, Kini Beli Saham Bisa Lewat Chat dengan AI",
+          "url": "https://inet.detik.com/business/d-8749284/tak-perlu-ribet-kini-beli-saham-bisa-lewat-chat-dengan-ai",
+          "source": "detikInet"
+        },
+        {
+          "title": "Gebrakan Baru Pasar Modal, PT Indo Premier Sekuritas Rilis INAI dan IPOT X Studio demi Bikin Investor Naik Kelas",
+          "url": "https://www.akurat.co/keuangan/906302/gebrakan-baru-pasar-modal-pt-indo-premier-sekuritas-rilis-inai-dan-ipot-x-studio-demi-bikin-investor-naik-kelas",
+          "source": "Akurat.co"
+        }
+      ]
+    },
     {
       "title": "suns vs hornets",
       "published": "Thu, 12 Nov 2026 18:30:00 -0800",
@@ -9,19 +32,19 @@
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "Grayson Allen makes heartfelt admission on ‘connection’ to Suns before return with Hornets",
-          "url": "https://sports.yahoo.com/articles/grayson-allen-makes-heartfelt-admission-021749508.html",
+          "title": "Suns’ Miles Bridges reveals ‘most important thing’ ahead of reunion vs Hornets",
+          "url": "https://sports.yahoo.com/articles/suns-miles-bridges-reveals-most-024128910.html",
           "source": "Yahoo Sports"
         },
         {
-          "title": "Suns news: Grayson Allen makes heartfelt admission on 'connection' to Phoenix before return with Hornets",
-          "url": "https://clutchpoints.com/nba/phoenix-suns/suns-news-grayson-allen-heartfelt-admission-on-connection-before-return-hornets",
-          "source": "ClutchPoints"
+          "title": "Miles Bridges Set to Face Former Team for First Time Since Leaving Charlotte",
+          "url": "https://www.si.com/nba/hornets/onsi/miles-bridges-set-to-face-former-team-for-first-time-since-leaving-charlotte-",
+          "source": "Sports Illustrated"
         },
         {
-          "title": "Suns vs Hornets LIVE, Score Updates and Play-by-Play in NBA (41-29)",
-          "url": "https://www.vavel.com/en-us/nba/2026/11/12/1279064-suns-vs-hornets-live-score-updates-and-play-by-play-nba.html",
-          "source": "VAVEL.com"
+          "title": "\"It's just another game, but I spent eight years with …",
+          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/12/its-just-another-game-but-i-spent-eight-years-with/92745390007/",
+          "source": "HoopsHype"
         }
       ]
     },
@@ -42,9 +65,9 @@
           "source": "Kompas.com"
         },
         {
-          "title": "Meneladani Empat Sifat Rasulullah dalam Membangun Kepemimpinan Bangsa",
-          "url": "https://www.satuju.com/berita/18191/meneladani-empat-sifat-rasulullah-dalam-membangun-kepemimpinan-bangsa.html",
-          "source": "Satuju"
+          "title": "Naskah Khutbah Jumat 13 November 2026 NU, 3 Alasan Pemerintah Wajib Mendengarkan Aspirasi Rakyat - disway.id",
+          "url": "https://disway.id/read/978846/naskah-khutbah-jumat-13-november-2026-nu-3-alasan-pemerintah-wajib-mendengarkan-aspirasi-rakyat",
+          "source": "Disway"
         }
       ]
     },
@@ -206,29 +229,6 @@
           "title": "GTA VI Bisa Dimainkan di Xbox One lewat Cloud Gaming Mulai 19 November",
           "url": "https://rri.co.id/surabaya/hobi/2888576/gta-vi-bisa-dimainkan-di-xbox-one-lewat-cloud-gaming-mulai-19-november",
           "source": "RRI.co.id"
-        }
-      ]
-    },
-    {
-      "title": "timberwolves vs mavericks",
-      "published": "Thu, 12 Nov 2026 16:50:00 -0800",
-      "traffic": "1000+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Live: Wolves putting four-game winning streak to the test vs. Cooper Flagg, Mavericks",
-          "url": "https://www.startribune.com/minnesota-timberwolves-dallas-mavericks-score-today-lamelo-ball-stats-anthony-edwards-injury-update/601914490",
-          "source": "Star Tribune"
-        },
-        {
-          "title": "NBA Predictions, Odds and Betting Lines - November 12",
-          "url": "https://www.fanduel.com/research/nba-predictions-odds-11-12-2026",
-          "source": "FanDuel"
-        },
-        {
-          "title": "Mavericks-Timberwolves preview: Measuring-stick trip starts in Minnesota",
-          "url": "https://www.nba.com/mavs/news/mavericks-timberwolves-preview-mavs-start-tough-road-trip-in-minnesota",
-          "source": "NBA.com"
         }
       ]
     }
