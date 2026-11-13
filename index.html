@@ -627,6 +627,166 @@ main {
     scroll-behavior: auto !important;
   }
 }
+
+/* ===== TREND ANALYTICS ===== */
+
+.analytics-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.analytics-panel {
+  background: linear-gradient(145deg,
+    rgba(111, 75, 190, .22),
+    rgba(33, 28, 65, .95));
+  border: 1px solid rgba(255,255,255,.14);
+  border-radius: 26px;
+  padding: 26px;
+  min-width: 0;
+  box-shadow: 0 18px 60px rgba(0,0,0,.12);
+}
+
+.analytics-panel.wide {
+  grid-column: 1 / -1;
+}
+
+.analytics-panel h3 {
+  margin: 0 0 8px;
+  font-size: 20px;
+}
+
+.analytics-desc {
+  color: var(--muted);
+  font-size: 13px;
+  margin: 0 0 25px;
+}
+
+.analytics-number {
+  font-size: 48px;
+  font-weight: 900;
+  letter-spacing: -2px;
+  line-height: 1.1;
+  color: var(--lime);
+}
+
+.analytics-metrics {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 15px;
+}
+
+.analytics-metric {
+  border-radius: 18px;
+  padding: 20px;
+  background: rgba(255,255,255,.06);
+  border: 1px solid rgba(255,255,255,.1);
+}
+
+.analytics-metric small {
+  display: block;
+  margin-top: 8px;
+  color: var(--muted);
+}
+
+.analytics-bar-row {
+  margin-bottom: 17px;
+}
+
+.analytics-bar-label {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 13px;
+  margin-bottom: 8px;
+  overflow-wrap: anywhere;
+}
+
+.analytics-track {
+  height: 11px;
+  border-radius: 20px;
+  background: rgba(255,255,255,.1);
+  overflow: hidden;
+}
+
+.analytics-fill {
+  height: 100%;
+  background: linear-gradient(
+    90deg, var(--purple), var(--cyan), var(--lime)
+  );
+  border-radius: 20px;
+  transform-origin: left;
+  animation: growBar .7s ease both;
+}
+
+.analytics-history {
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+  min-height: 185px;
+  padding-top: 15px;
+}
+
+.analytics-history-item {
+  flex: 1;
+  min-width: 0;
+  text-align: center;
+}
+
+.analytics-history-bar {
+  height: 150px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.analytics-history-bar > div {
+  width: min(100%, 65px);
+  min-height: 3px;
+  background: linear-gradient(
+    180deg, var(--cyan), var(--purple)
+  );
+  border-radius: 10px 10px 3px 3px;
+  animation: growBar .7s ease both;
+}
+
+.analytics-history-item small {
+  display: block;
+  color: var(--muted);
+  font-size: 10px;
+  margin-top: 9px;
+}
+
+.analytics-note {
+  margin-top: 18px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.7;
+}
+
+@keyframes growBar {
+  from { transform: scaleY(.05); opacity: .4; }
+  to { transform: scaleY(1); opacity: 1; }
+}
+
+@media (max-width: 680px) {
+  .analytics-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .analytics-panel.wide {
+    grid-column: auto;
+  }
+
+  .analytics-panel {
+    padding: 20px;
+  }
+
+  .analytics-number {
+    font-size: 36px;
+  }
+}
+
 </style>
 </head>
 
@@ -637,9 +797,10 @@ main {
     <a class="brand" href="#">trendradar<span>✳</span></a>
 
     <nav class="nav-links" aria-label="Navigasi">
-      <a href="#trending">Trending</a>
-      <a href="#news">News Intelligence</a>
-      <a href="#about">About</a>
+    <a href="#trending">Trending</a>
+    <a href="#news">News Intelligence</a>
+    <a href="#analytics">Analytics</a>
+    <a href="#about">About</a>
     </nav>
 
     <div class="live-pill">
@@ -778,6 +939,95 @@ main {
   </div>
 
   <div id="newsList" class="grid"></div>
+</section>
+
+<!-- ===== TREND ANALYTICS ===== -->
+
+<section id="analytics" class="section">
+
+  <div class="section-head">
+    <div>
+      <div class="section-tag">
+        03 / TREND INTELLIGENCE
+      </div>
+
+      <h2>📊 Trend Analytics</h2>
+
+      <p>
+        Discover how topics move across
+        historical monitoring snapshots.
+      </p>
+    </div>
+
+    <div class="counter">
+      REAL HISTORICAL DATA
+    </div>
+  </div>
+
+  <div id="analyticsStatus" class="status">
+    Loading historical analytics...
+  </div>
+
+  <div class="analytics-grid">
+
+    <div class="analytics-panel">
+      <h3>🔥 New vs Returning Topics</h3>
+
+      <p class="analytics-desc">
+        Perbandingan topik baru dan yang
+        bertahan dari snapshot sebelumnya.
+      </p>
+
+      <div class="analytics-metrics">
+
+        <div class="analytics-metric">
+          <div id="newTopics" class="analytics-number">
+            —
+          </div>
+          <small>New Topics</small>
+        </div>
+
+        <div class="analytics-metric">
+          <div id="returningTopics" class="analytics-number">
+            —
+          </div>
+          <small>Returning Topics</small>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="analytics-panel">
+      <h3>✳ Most Persistent Topics</h3>
+
+      <p class="analytics-desc">
+        Keyword yang paling sering muncul
+        dalam snapshot yang tersedia.
+      </p>
+
+      <div id="persistentTopics"></div>
+    </div>
+
+    <div class="analytics-panel wide">
+      <h3>📰 News Articles Collected</h3>
+
+      <p class="analytics-desc">
+        Jumlah artikel yang tersimpan
+        pada setiap snapshot pemantauan.
+      </p>
+
+      <div id="newsHistory" class="analytics-history">
+      </div>
+
+      <p class="analytics-note">
+        Angka menunjukkan jumlah artikel dalam
+        dataset setiap snapshot, bukan jumlah
+        artikel baru yang diterbitkan.
+      </p>
+    </div>
+
+  </div>
+
 </section>
 
 <footer id="about" class="footer">
@@ -1286,12 +1536,227 @@ trendSearch.addEventListener("input", renderTrends);
 newsSearch.addEventListener("input", renderNews);
 newsCategory.addEventListener("change", renderNews);
 
+
+// ===== TREND ANALYTICS =====
+
+function normalizeTopic(value) {
+  return String(value || "")
+    .trim()
+    .toLocaleLowerCase("id-ID")
+    .replace(/\s+/g, " ");
+}
+
+function snapshotTopics(snapshot) {
+  return new Set(
+    (Array.isArray(snapshot.topics)
+      ? snapshot.topics
+      : [])
+    .map(item => normalizeTopic(item.title))
+    .filter(Boolean)
+  );
+}
+
+function renderAnalytics(snapshots) {
+  const ordered = [...snapshots]
+    .filter(s => s && Number.isFinite(
+      Date.parse(s.timestamp || "")
+    ))
+    .sort((a, b) =>
+      Date.parse(a.timestamp) -
+      Date.parse(b.timestamp)
+    );
+
+  if (!ordered.length) {
+    $("analyticsStatus").textContent =
+      "Belum ada histori yang tersedia.";
+    return;
+  }
+
+  const latest = ordered[ordered.length - 1];
+  const currentTopics = snapshotTopics(latest);
+
+  // ===== NEW VS RETURNING =====
+
+  if (ordered.length >= 2) {
+    const previous = ordered[ordered.length - 2];
+    const previousTopics = snapshotTopics(previous);
+
+    let newCount = 0;
+    let returningCount = 0;
+
+    currentTopics.forEach(topic => {
+      if (previousTopics.has(topic)) {
+        returningCount++;
+      } else {
+        newCount++;
+      }
+    });
+
+    $("newTopics").textContent = newCount;
+    $("returningTopics").textContent = returningCount;
+  } else {
+    $("newTopics").textContent = "—";
+    $("returningTopics").textContent = "—";
+  }
+
+  // ===== MOST PERSISTENT =====
+
+  const frequency = new Map();
+
+  ordered.forEach(snapshot => {
+    snapshotTopics(snapshot).forEach(topic => {
+      frequency.set(
+        topic,
+        (frequency.get(topic) || 0) + 1
+      );
+    });
+  });
+
+  const sortedTopics = [...frequency.entries()]
+    .sort((a, b) =>
+      b[1] - a[1] || a[0].localeCompare(b[0])
+    )
+    .slice(0, 8);
+
+  const persistentBox = $("persistentTopics");
+  persistentBox.replaceChildren();
+
+  sortedTopics.forEach(([title, count]) => {
+    const row = document.createElement("div");
+    row.className = "analytics-bar-row";
+
+    const label = document.createElement("div");
+    label.className = "analytics-bar-label";
+
+    const name = document.createElement("span");
+    name.textContent = title;
+
+    const value = document.createElement("strong");
+    value.textContent = `${count}/${ordered.length}`;
+
+    label.append(name, value);
+
+    const track = document.createElement("div");
+    track.className = "analytics-track";
+
+    const bar = document.createElement("div");
+    bar.className = "analytics-fill";
+
+    bar.style.width =
+      `${Math.min(100, count / ordered.length * 100)}%`;
+
+    track.appendChild(bar);
+    row.append(label, track);
+    persistentBox.appendChild(row);
+  });
+
+  // ===== NEWS ARTICLES COLLECTED =====
+
+  const newsBox = $("newsHistory");
+  newsBox.replaceChildren();
+
+  const recent = ordered.slice(-24);
+
+  const maxNews = Math.max(
+    1,
+    ...recent.map(item =>
+      Number.isFinite(Number(item.news_count))
+        ? Math.max(0, Number(item.news_count))
+        : 0
+    )
+  );
+
+  recent.forEach(item => {
+    const wrapper = document.createElement("div");
+    wrapper.className = "analytics-history-item";
+
+    const holder = document.createElement("div");
+    holder.className = "analytics-history-bar";
+
+    const bar = document.createElement("div");
+    const count = item.news_count == null
+      ? null
+      : Number(item.news_count);
+
+    const valid = count !== null &&
+      Number.isFinite(count) && count >= 0;
+
+    bar.style.height = valid
+      ? `${Math.max(2, count / maxNews * 150)}px`
+      : "0px";
+
+    bar.title = valid
+      ? `${count} artikel`
+      : "Jumlah artikel tidak tersedia";
+
+    holder.appendChild(bar);
+
+    const time = document.createElement("small");
+    time.textContent = new Date(
+      item.timestamp
+    ).toLocaleString("id-ID", {
+      timeZone: "Asia/Jakarta",
+      day: "2-digit",
+      month: "short",
+      hour: "2-digit",
+      minute: "2-digit"
+    });
+
+    const amount = document.createElement("small");
+    amount.textContent = valid
+      ? `${count} artikel`
+      : "N/A";
+
+    wrapper.append(holder, time, amount);
+    newsBox.appendChild(wrapper);
+  });
+
+  const first = new Date(ordered[0].timestamp);
+  const last = new Date(latest.timestamp);
+
+  $("analyticsStatus").textContent =
+    `${ordered.length} snapshot tersedia • ` +
+    `${first.toLocaleString("id-ID", {
+      timeZone: "Asia/Jakarta",
+      dateStyle: "medium",
+      timeStyle: "short"
+    })} – ${last.toLocaleString("id-ID", {
+      timeZone: "Asia/Jakarta",
+      dateStyle: "medium",
+      timeStyle: "short"
+    })} WIB`;
+
+  if (ordered.length < 2) {
+    $("analyticsStatus").textContent +=
+      " • Minimal 2 snapshot untuk perbandingan.";
+  }
+}
+
+async function loadAnalytics() {
+  try {
+    const data = await fetchJSON("./data/history.json");
+
+    if (!Array.isArray(data.snapshots)) {
+      throw new Error("Invalid history format");
+    }
+
+    renderAnalytics(data.snapshots);
+
+  } catch (error) {
+    $("analyticsStatus").textContent =
+      "Histori belum dapat dimuat. Periksa data/history.json.";
+
+    console.error("Analytics error:", error);
+  }
+}
+
 // ===== INITIALIZE =====
   document.getElementById("trendPeriod")
   .addEventListener("change", renderTrends);
 loadTrends();
 loadNews();
 loadCategories();
+loadAnalytics();
 </script>
 
 </body>
