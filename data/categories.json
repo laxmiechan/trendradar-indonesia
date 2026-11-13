@@ -1,45 +1,9 @@
 {
-  "updated_at": "2026-11-13T07:10:03.500679+00:00",
+  "updated_at": "2026-11-13T08:25:07.870675+00:00",
   "categories": {
     "Politik": [],
     "Ekonomi": [],
-    "Teknologi": [
-      {
-        "title": "Kolaborasi Internasional UBSI Bahas Pemanfaatan AI dan Superkomputer untuk Riset Pengembangan Obat",
-        "url": "https://news.republika.co.id/berita/todl0h490/kolaborasi-internasional-ubsi-bahas-pemanfaatan-ai-dan-superkomputer-untuk-riset-pengembangan-obat",
-        "source": "news.republika.co.id",
-        "published": "20261112T070000Z",
-        "category": "Teknologi"
-      },
-      {
-        "title": "Bahaya Distorsi Sejarah di Era Siber , Budayawan UI : Jadikan sebagai Benteng Nasionalisme Bangsa",
-        "url": "https://rejogja.republika.co.id/berita/toddqe291/bahaya-distorsi-sejarah-di-era-siber-budayawan-ui-jadikan-sebagai-benteng-nasionalisme-bangsa",
-        "source": "rejogja.republika.co.id",
-        "published": "20261112T040000Z",
-        "category": "Teknologi"
-      },
-      {
-        "title": "XL Ultra 5G+ Selimuti 94 Persen Wilayah Lombok dengan 900 BTS",
-        "url": "https://www.liputan6.com/tekno/read/8333636/xl-ultra-5g-selimuti-94-persen-wilayah-lombok-dengan-900-bts",
-        "source": "liputan6.com",
-        "published": "20261112T033000Z",
-        "category": "Teknologi"
-      },
-      {
-        "title": "NATO Uji Hampir 400 Drone dalam Simulasi Perang AI , Libatkan 30 Lebih Negara",
-        "url": "https://news.republika.co.id/berita/tod5jp451/nato-uji-hampir-400-drone-dalam-simulasi-perang-ai-libatkan-30-lebih-negara",
-        "source": "news.republika.co.id",
-        "published": "20261112T033000Z",
-        "category": "Teknologi"
-      },
-      {
-        "title": "Ada Perlambatan Bisnis AI Global , Simak Prospek Emiten Data Center Domestik di 2027",
-        "url": "https://insight.kontan.co.id/news/ada-perlambatan-bisnis-ai-global-simak-prospek-emiten-data-center-domestik-di-2027",
-        "source": "insight.kontan.co.id",
-        "published": "20261112T013000Z",
-        "category": "Teknologi"
-      }
-    ],
+    "Teknologi": [],
     "Olahraga": [],
     "Entertainment": []
   }

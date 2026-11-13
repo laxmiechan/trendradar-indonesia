@@ -1,11 +1,149 @@
 {
-  "updated_at": "2026-11-13T07:07:54.765588+00:00",
+  "updated_at": "2026-11-13T08:23:13.349015+00:00",
   "total_trends": 10,
   "trends": [
     {
+      "title": "siap kerja",
+      "published": "Fri, 13 Nov 2026 00:10:00 -0800",
+      "traffic": "1000+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Tekan Angka Pengangguran, Polres Kediri Kota Gandeng LP3i Siapkan SDM Siap Kerja",
+          "url": "https://tribratanews.restakediri.jatim.polri.go.id/tekan-angka-pengangguran-polres-kediri-kota-gandeng-lp3i-siapkan-sdm-siap-kerja",
+          "source": "Website Resmi Polri"
+        },
+        {
+          "title": "Peduli Pengangguran, Kapolsek Pesantren Kompol Siswandi Gandeng LPK Kusuma Berikan Pelatihan UMKM",
+          "url": "https://metrotv9news.com/tni-polri/peduli-pengangguran-kapolsek-pesantren-kompol-siswandi-gandeng-lpk-kusuma-berikan-pelatihan-umkm/",
+          "source": "metrotv9news"
+        },
+        {
+          "title": "Polres Kediri Kota Gandeng Perajin Tenun Ikat, Dorong Peluang Kerja Lewat Program Poliran",
+          "url": "https://min.co.id/2026/11/05/369248/",
+          "source": "MIN.CO.ID"
+        }
+      ]
+    },
+    {
+      "title": "siapkerja",
+      "published": "Fri, 13 Nov 2026 00:10:00 -0800",
+      "traffic": "200+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Kemnaker Catat 106.776 Lowongan Kerja di Karirhub hingga Oktober 2026",
+          "url": "https://money.kompas.com/read/2026/11/13/104600826/kemnaker-catat-106776-lowongan-kerja-di-karirhub-hingga-oktober-2026",
+          "source": "Kompas.com"
+        },
+        {
+          "title": "Kemnaker Optimalkan SIAPkerja Fasilitasi Perusahaan dan Perluas Akses Pasar Kerja",
+          "url": "https://www.suarasurabaya.net/ekonomibisnis/2026/kemnaker-optimalkan-siapkerja-fasilitasi-perusahaan-dan-perluas-akses-pasar-kerja/",
+          "source": "Suara Surabaya"
+        },
+        {
+          "title": "Kemnaker Catat 106.776 Lowongan Kerja di Karirhub dan JOSS",
+          "url": "https://www.limapagi.id/kemnaker-lowongan-kerja-karirhub-joss",
+          "source": "Limapagi"
+        }
+      ]
+    },
+    {
+      "title": "bpjs kesehatan",
+      "published": "Fri, 13 Nov 2026 00:10:00 -0800",
+      "traffic": "200+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Lewat Duta Muda, BPJS Kesehatan Dorong Pelajar Jadi Penggerak Literasi JKN",
+          "url": "https://news.detik.com/berita/d-8751094/lewat-duta-muda-bpjs-kesehatan-dorong-pelajar-jadi-penggerak-literasi-jkn",
+          "source": "detikNews"
+        },
+        {
+          "title": "Kemendikdasmen tekankan pentingnya integrasi pendidikan dan kesehatan",
+          "url": "https://www.antaranews.com/berita/5849731/kemendikdasmen-tekankan-pentingnya-integrasi-pendidikan-dan-kesehatan",
+          "source": "ANTARA News"
+        },
+        {
+          "title": "Finalis Duta Muda BPJS Peduli Kanker Anak",
+          "url": "https://tirto.id/finalis-duta-muda-bpjs-peduli-kanker-anak-idGp",
+          "source": "Tirto.id"
+        }
+      ]
+    },
+    {
+      "title": "kemenaker",
+      "published": "Fri, 13 Nov 2026 00:10:00 -0800",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Hadapi Ancaman Disrupsi AI dan Otomasi, Kemnaker Tetapkan Tiga Prioritas Masa Depan Pekerja",
+          "url": "https://jurnalpatrolinews.co.id/nasional/tiga-prioritas-ketenagakerjaan/",
+          "source": "Jurnal Patroli News"
+        },
+        {
+          "title": "Meningkatkan Kualitas Sumber Daya Manusia sebagai Kunci Kesuksesan Perusahaan di Era Digital - kumparan.com",
+          "url": "https://kumparan.com/restiyana/meningkatkan-kualitas-sumber-daya-manusia-sebagai-kunci-kesuksesan-perusahaan-di-era-digital-28YeuPgu6Y2",
+          "source": "kumparan"
+        },
+        {
+          "title": "Hadapi Perubahan Dunia Kerja akibat AI, Menaker Tekankan Tiga Karakter SDM",
+          "url": "https://infopublik.id/kategori/nasional-sosial-budaya/996172/hadapi-perubahan-dunia-kerja-akibat-ai-menaker-tekankan-tiga-karakter-sdm",
+          "source": "InfoPublik"
+        }
+      ]
+    },
+    {
+      "title": "disney",
+      "published": "Thu, 12 Nov 2026 23:10:00 -0800",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Licensable video: Disney’s ‘Hexed’ premieres in Los Angeles",
+          "url": "https://www.reutersconnect.com/item/disneys-hexed-premieres-in-los-angeles/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XRUZWQzU1MDIxOTc2MzA0MDAx",
+          "source": "Reuters Connect"
+        },
+        {
+          "title": "Hailee Steinfeld, Rashida Jones, Jodie Foster and More Celebrate the Magic of \"Disney’s Hexed\" at the World Premiere in Los Angeles",
+          "url": "https://finance.yahoo.com/media-advertising/articles/hailee-steinfeld-rashida-jones-jodie-042800067.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "LA Premiere of \"Hexed\"",
+          "url": "https://www.timesargus.com/news/national/la-premiere-of-hexed/image_b39e7a89-6095-5152-988b-820353bfbbf1.html",
+          "source": "Times Argus"
+        }
+      ]
+    },
+    {
+      "title": "covid 19",
+      "published": "Thu, 12 Nov 2026 23:00:00 -0800",
+      "traffic": "1000+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Heboh Varian Baru COVID PJ.2.1, Peneliti Ungkap Kelompok Ini Paling Banyak Terpapar",
+          "url": "https://health.detik.com/berita-detikhealth/d-8748115/heboh-varian-baru-covid-pj-2-1-peneliti-ungkap-kelompok-ini-paling-banyak-terpapar",
+          "source": "detikHealth"
+        },
+        {
+          "title": "7 Fakta Varian Baru Covid-19 PJ.2.1 yang Terdeteksi di Delapan Negara",
+          "url": "https://batampos.jawapos.com/internasional/2611120028/7-fakta-varian-baru-covid-19-pj21-yang-terdeteksi-di-delapan-negara",
+          "source": "Jawa Pos"
+        },
+        {
+          "title": "Varian Baru Covid-19 PJ.2.1 Ditemukan! Sudah Menyebar ke Singapura",
+          "url": "https://www.inews.id/news/nasional/varian-baru-covid-19-pj21-ditemukan-sudah-menyebar-ke-singapura",
+          "source": "iNews.ID"
+        }
+      ]
+    },
+    {
       "title": "kapan bsu 2026 cair?",
       "published": "Thu, 12 Nov 2026 22:20:00 -0800",
-      "traffic": "1000+",
+      "traffic": "2000+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
@@ -14,23 +152,39 @@
           "source": "https://janalokajournal.id/"
         },
         {
-          "title": "BSU 2026 Hanya untuk Karyawan Gaji Segini",
-          "url": "https://www.detik.com/jatim/bisnis/d-8750766/bsu-2026-hanya-untuk-karyawan-gaji-segini",
-          "source": "detikcom"
+          "title": "Jangan Terlewat! Pengkinian Data BSU 2026 Hanya sampai 14 November",
+          "url": "https://infopublik.id/kategori/infografis/997014/jangan-terlewat-pengkinian-data-bsu-2026-hanya-sampai-14-november",
+          "source": "InfoPublik"
         },
         {
-          "title": "BSU 2026 Wajib Lewat Rekening, Tak Lagi Melalui Kantor Pos",
-          "url": "https://www.cnbcindonesia.com/news/20261113081908-4-784860/bsu-2026-wajib-lewat-rekening-tak-lagi-melalui-kantor-pos",
-          "source": "CNBC Indonesia"
+          "title": "Airlangga: Penyaluran BSU 2026 diharapkan via transfer rekening",
+          "url": "https://sumbar.antaranews.com/berita/789267/airlangga-penyaluran-bsu-2026-diharapkan-via-transfer-rekening",
+          "source": "ANTARA News Sumbar"
         }
       ]
     },
     {
       "title": "cek bansos kemensos go id 2026",
       "published": "Thu, 12 Nov 2026 21:50:00 -0800",
-      "traffic": "200+",
+      "traffic": "1000+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": []
+      "related_news": [
+        {
+          "title": "Cara Cek Bansos PKH lewat HP, Mudah Cuma Pakai NIK",
+          "url": "https://www.cnnindonesia.com/edukasi/20261111095927-561-1425739/cara-cek-bansos-pkh-lewat-hp-mudah-cuma-pakai-nik",
+          "source": "CNN Indonesia"
+        },
+        {
+          "title": "Bansos BPNT November 2026: Jadwal Cair, Cek Penerima, serta Status Desil",
+          "url": "https://www.detik.com/sumbagsel/berita/d-8745733/bansos-bpnt-november-2026-jadwal-cair-cek-penerima-serta-status-desil",
+          "source": "detikcom"
+        },
+        {
+          "title": "Penerima Bansos Bisa Dicoret Mulai dari Aset hingga Data Tak Sesuai, Begini Cara Ceknya",
+          "url": "https://kabar24.bisnis.com/read/20261113/243/2021042/penerima-bansos-bisa-dicoret-mulai-dari-aset-hingga-data-tak-sesuai-begini-cara-ceknya",
+          "source": "Kabar24"
+        }
+      ]
     },
     {
       "title": "marinir",
@@ -39,19 +193,19 @@
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "Panglima TNI Perkuat Kesiapan Alutsista",
-          "url": "https://www.jawapes.or.id/2026/11/panglima-tni-perkuat-kesiapan-alutsista.html",
-          "source": "Jawapes Indonesia"
+          "title": "Latihan Operasi Amfibi 2026",
+          "url": "https://www.antarafoto.com/id/view/2905399/latihan-operasi-amfibi-2026",
+          "source": "ANTARA Foto"
         },
         {
-          "title": "USV Berani Mati PT PAL Uji Coba Latihan Operasi Amfibi TNI AL 2026 - Suara Merdeka Surabaya",
-          "url": "https://surabaya.suaramerdeka.com/ekonomi/106117896307/usv-berani-mati-pt-pal-uji-coba-latihan-operasi-amfibi-tni-al-2026",
-          "source": "Suara Merdeka Surabaya"
+          "title": "FOTO: Aksi Senyap Kopaska Infiltrasi Pantai dalam Latihan Amfibi 2026",
+          "url": "https://www.cnnindonesia.com/nasional/20261113134237-22-1426804/foto-aksi-senyap-kopaska-infiltrasi-pantai-dalam-latihan-amfibi-2026",
+          "source": "CNN Indonesia"
         },
         {
-          "title": "Warga Pesisir Manfaatkan Layanan Kesehatan Gratis TNI AL",
-          "url": "https://indonesiadefense.com/warga-pesisir-manfaatkan-layanan-kesehatan-gratis-tni-al",
-          "source": "Indonesiadefense.com"
+          "title": "TNI AL gelar latihan Operasi Amfibi 2026",
+          "url": "https://www.antaranews.com/foto/5848967/tni-al-gelar-latihan-operasi-amfibi-2026",
+          "source": "ANTARA News"
         }
       ]
     },
@@ -75,144 +229,6 @@
           "title": "Bulgaria vs Islandia | Pronóstico y cuotas 13.11.2026",
           "url": "https://www.transfermarkt.es/apuestas/pronosticos-deportivos/bulgaria-vs-islandia-pronostico-apuestas-13-11-2026/",
           "source": "Transfermarkt"
-        }
-      ]
-    },
-    {
-      "title": "jaguar land rover",
-      "published": "Thu, 12 Nov 2026 21:20:00 -0800",
-      "traffic": "500+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Geruduk Kantor BYD, Jaguar Land Rover Diminta Musnahkan Dokumen yang Disita",
-          "url": "https://oto.detik.com/mobil/d-8750960/geruduk-kantor-byd-jaguar-land-rover-diminta-musnahkan-dokumen-yang-disita",
-          "source": "detikOto"
-        },
-        {
-          "title": "Dituding Jiplak Land Rover Defender, Kantor BYD di Belanda Digeledah",
-          "url": "https://www.cnnindonesia.com/otomotif/20261113095330-579-1426705/dituding-jiplak-land-rover-defender-kantor-byd-di-belanda-digeledah",
-          "source": "CNN Indonesia"
-        },
-        {
-          "title": "JLR Tuding BYD Ti7 Jiplak Defender, Simak Beberapa Kasus Serupa",
-          "url": "https://otodriver.com/berita/2026/jlr-tuding-byd-ti7-jiplak-defender-simak-beberapa-kasus-serupa-jlrefhigupa",
-          "source": "OtoDriver"
-        }
-      ]
-    },
-    {
-      "title": "jaden smith",
-      "published": "Thu, 12 Nov 2026 21:20:00 -0800",
-      "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Who is Michèle Lamy? 82-year-old fashion icon linked to Jaden Smith in reported viral romance claims: ever",
-          "url": "https://m.economictimes.com/magazines/panache/who-is-michle-lamy-82-year-old-fashion-icon-linked-to-jaden-smith-in-reported-viral-romance-claims-everything-you-need-to-know/articleshow/135742491.cms",
-          "source": "The Economic Times"
-        },
-        {
-          "title": "Jaden Smith, Michèle Lamy romance claims debunked",
-          "url": "https://www.galaxytvonline.com/news/entertainment/viral-posts-falsely-link-jaden-smith-romantically-to-fashion-figure-michele-lamy",
-          "source": "Galaxy Television"
-        },
-        {
-          "title": "Kentucky nickel Jaden Smith will miss rest of season with torn ACL",
-          "url": "https://www.on3.com/teams/kentucky-wildcats/news/jaden-smith-kentucky-football-injury-update/",
-          "source": "On3"
-        }
-      ]
-    },
-    {
-      "title": "andorra vs gibraltar",
-      "published": "Thu, 12 Nov 2026 21:00:00 -0800",
-      "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Prediksi Skor Andorra vs Gibraltar di Nations League: Misi Els Tricolors Runtuhkan Batu Karang",
-          "url": "https://pontianakpost.jawapos.com/sepak-bola/2611130015/prediksi-skor-andorra-vs-gibraltar-di-nations-league-misi-els-tricolors-runtuhkan-batu-karang",
-          "source": "Pontianak Post"
-        },
-        {
-          "title": "Andorra vs Gibraltar: UEFA Nations League stats & head-to-head",
-          "url": "https://www.bbc.co.uk/sport/football/live/cr62ypp038g6t",
-          "source": "BBC"
-        },
-        {
-          "title": "Watch Andorra vs. Gibraltar live today: Who is broadcasting the match on TV and via live stream?",
-          "url": "https://www.goal.com/en-ca/news/live-stream-online-tv-where-to-watch-andorra-v-gibraltar/bltdfd3d1a523fdd00c",
-          "source": "Goal.com"
-        }
-      ]
-    },
-    {
-      "title": "bali",
-      "published": "Thu, 12 Nov 2026 21:00:00 -0800",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Imigrasi Ngurah Rai periksa 28 WNA diduga terlibat investasi bodong bermarkas di Bali",
-          "url": "https://bali.antaranews.com/berita/418791/imigrasi-ngurah-rai-periksa-28-wna-diduga-terlibat-investasi-bodong-bermarkas-di-bali",
-          "source": "ANTARA News Bali"
-        },
-        {
-          "title": "26 WNA Dideportasi dari Bali Usai Terlibat Bisnis Pinjol Ilegal-Prostitusi",
-          "url": "https://news.detik.com/berita/d-8748445/26-wna-dideportasi-dari-bali-usai-terlibat-bisnis-pinjol-ilegal-prostitusi",
-          "source": "detikNews"
-        },
-        {
-          "title": "Imigrasi Bali Deportasi WN Rusia dan Ukraina, Ada yang Jadi Hair Stylist hingga DJ - kumparan.com",
-          "url": "https://kumparan.com/kumparannews/imigrasi-bali-deportasi-wn-rusia-dan-ukraina-ada-yang-jadi-hair-stylist-hingga-dj-28YDph93X4q",
-          "source": "kumparan"
-        }
-      ]
-    },
-    {
-      "title": "slovenia vs swiss",
-      "published": "Thu, 12 Nov 2026 21:00:00 -0800",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Prediksi Skor dan Lineup Slovenia vs Swiss di Nations League: Jan Oblak Hadapi Ujian Berat",
-          "url": "https://pontianakpost.jawapos.com/sepak-bola/2611130022/prediksi-skor-dan-lineup-slovenia-vs-swiss-di-nations-league-jan-oblak-hadapi-ujian-berat",
-          "source": "Pontianak Post"
-        },
-        {
-          "title": "Cara mendapatkan tiket Slovenia vs Swiss: Harga tiket UEFA Nations League B, informasi pertandingan, penjualan tiket menjelang laga, dan lainnya",
-          "url": "https://www.goal.com/id/tiket-perjalanan/pertandingan/cara-mendapatkan-tiket-slovenia-vs-swiss-harga-tiket-uefa-nations-league-b-informasi-pertandingan-penjualan-tiket-menjelang-laga-dan-lainnya/A~bltf790a6e2078f0f1f",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Watch Slovenia vs Switzerland live today: Who is showing the match on TV and live stream?",
-          "url": "https://www.goal.com/en-ca/news/watch-slovenia-vs-switzerland-live-today-who-is-showing-the-match-on-tv-and-live-stream/blt615d421cdf4753cf",
-          "source": "Goal.com"
-        }
-      ]
-    },
-    {
-      "title": "estonia vs luksemburg",
-      "published": "Thu, 12 Nov 2026 21:00:00 -0800",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Prediksi Skor dan Lineup Luksemburg vs Estonia di Nations League: Singa Merah Tak Ingin Kalah",
-          "url": "https://pontianakpost.jawapos.com/sepak-bola/2611130021/prediksi-skor-dan-lineup-luksemburg-vs-estonia-di-nations-league-singa-merah-tak-ingin-kalah",
-          "source": "Pontianak Post"
-        },
-        {
-          "title": "Luxembourg vs Estonia live today: Who is showing the match on TV and via live stream?",
-          "url": "https://www.goal.com/en-ca/news/luxembourg-vs-estonia-live-today-who-is-showing-the-match-on-tv-and-via-live-stream/blt0a7af51b00213f11",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Luxembourg vs Estonia: UEFA Nations League stats & head-to-head",
-          "url": "https://www.bbc.com/sport/football/live/cwp9gddmr1glt",
-          "source": "BBC"
         }
       ]
     }
