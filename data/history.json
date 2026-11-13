@@ -48,6 +48,54 @@
           "traffic": "100+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-13T07:10:03.549885+00:00",
+      "trends_updated_at": "2026-11-13T07:07:54.765588+00:00",
+      "total_trends": 10,
+      "news_count": 50,
+      "topics": [
+        {
+          "title": "kapan bsu 2026 cair?",
+          "traffic": "1000+"
+        },
+        {
+          "title": "cek bansos kemensos go id 2026",
+          "traffic": "200+"
+        },
+        {
+          "title": "marinir",
+          "traffic": "100+"
+        },
+        {
+          "title": "bulgaria vs islandia",
+          "traffic": "100+"
+        },
+        {
+          "title": "jaguar land rover",
+          "traffic": "500+"
+        },
+        {
+          "title": "jaden smith",
+          "traffic": "200+"
+        },
+        {
+          "title": "andorra vs gibraltar",
+          "traffic": "200+"
+        },
+        {
+          "title": "bali",
+          "traffic": "100+"
+        },
+        {
+          "title": "slovenia vs swiss",
+          "traffic": "100+"
+        },
+        {
+          "title": "estonia vs luksemburg",
+          "traffic": "100+"
+        }
+      ]
     }
   ]
 }
