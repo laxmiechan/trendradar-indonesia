@@ -1,53 +1,14 @@
 {
-  "updated_at": "2026-11-13T08:23:54.124091+00:00",
-  "total_news": 50,
+  "updated_at": "2026-11-13T11:19:58.777023+00:00",
+  "fetched_at": "2026-11-13T11:19:58.777023+00:00",
+  "latest_seen_at": "2026-11-13T00:45:00+00:00",
+  "search_window_hours": 24,
+  "total_news": 23,
   "articles": [
-    {
-      "title": "Katalog Promo JSM Alfamart Periode 13 - 15 November 2026 , Blue Band Beli 2 Gratis 1",
-      "url": "https://momsmoney.kontan.co.id/news/katalog-promo-jsm-alfamart-periode-13-15-november-2026-blue-band-beli-2-gratis-1",
-      "source": "momsmoney.kontan.co.id",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "2 . 669 Kasus Baru TBC Ditemukan di Majalengka",
-      "url": "https://rejabar.republika.co.id/berita/toevza282/2669-kasus-baru-tbc-ditemukan-di-majalengka",
-      "source": "rejabar.republika.co.id",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Ramalan Zodiak Leo Besok Sabtu 14 November 2026 : Keuangan , Kesehatan , Karier dan Cinta",
-      "url": "https://www.jawapos.com/zodiak/2611130041/ramalan-zodiak-leo-besok-sabtu-14-november-2026-keuangan-kesehatan-karier-dan-cinta",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Polemik Perusakan Ribuan Pohon Teh di Pangalengan Bandung , PTPN Minta Kepastian Hukum untuk Pelaku",
-      "url": "https://rejabar.republika.co.id/berita/toezig282/polemik-perusakan-ribuan-pohon-teh-di-pangalengan-bandung-ptpn-minta-kepastian-hukum-untuk-pelaku",
-      "source": "rejabar.republika.co.id",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
     {
       "title": "Pebisnis Harap Stabilitas Politik & Bisnis Terjaga",
       "url": "https://insight.kontan.co.id/news/pebisnis-harap-stabilitas-politik-bisnis-terjaga",
       "source": "insight.kontan.co.id",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Peruntungan Shio Besok Sabtu 14 November 2026 : Tikus , Ular , Anjing , Kerbau , Naga , Ayam",
-      "url": "https://www.jawapos.com/zodiak/2611130043/peruntungan-shio-besok-sabtu-14-november-2026-tikus-ular-anjing-kerbau-naga-ayam",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Bikin Penasaran , Yook Sungjae Ungkap Pemikirannya di Drama Nine to Six",
-      "url": "https://www.jawapos.com/music-movie/2611130010/bikin-penasaran-yook-sungjae-ungkap-pemikirannya-di-drama-nine-to-six",
-      "source": "jawapos.com",
       "published": "20261113T004500Z",
       "language": "Indonesian"
     },
@@ -66,13 +27,6 @@
       "language": "Indonesian"
     },
     {
-      "title": "Ramalan Zodiak Scorpio Besok Sabtu 14 November 2026 : Keuangan , Kesehatan , Karier dan Cinta",
-      "url": "https://www.jawapos.com/zodiak/2611130050/ramalan-zodiak-scorpio-besok-sabtu-14-november-2026-keuangan-kesehatan-karier-dan-cinta",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
       "title": "Italia Hajar Prancis 3 - 1 , Inggris dan Spanyol Juga Raih Kemenangan di UEFA Nations League",
       "url": "https://news.republika.co.id/berita/toeyeo348/italia-hajar-prancis-31-inggris-dan-spanyol-juga-raih-kemenangan-di-uefa-nations-league",
       "source": "news.republika.co.id",
@@ -80,23 +34,9 @@
       "language": "Indonesian"
     },
     {
-      "title": "Usai Bantu Gagalkan Pajak Crazy Rich California , Sergey Brin Berpotensi Jegal Usulan Berikutnya",
-      "url": "https://www.jawapos.com/internasional/2611130013/usai-bantu-gagalkan-pajak-crazy-rich-california-sergey-brin-berpotensi-jegal-usulan-berikutnya",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
       "title": "Rupiah Terkoreksi di Tengah Berbagai Hantaman Sentimen Negatif",
       "url": "https://insight.kontan.co.id/news/rupiah-terkoreksi-di-tengah-berbagai-hantaman-sentimen-negatif",
       "source": "insight.kontan.co.id",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Ramalan Zodiak Cancer Besok Sabtu 14 November 2026 : Keuangan , Kesehatan , Karier dan Cinta",
-      "url": "https://www.jawapos.com/zodiak/2611130039/ramalan-zodiak-cancer-besok-sabtu-14-november-2026-keuangan-kesehatan-karier-dan-cinta",
-      "source": "jawapos.com",
       "published": "20261113T004500Z",
       "language": "Indonesian"
     },
@@ -110,34 +50,6 @@
     {
       "title": "Tingkatkan Layanan Jalan Tol , Jasa Marga Perkuat Keterbukaan Informasi Publik",
       "url": "https://www.jawapos.com/ekonomi/2611130027/tingkatkan-layanan-jalan-tol-jasa-marga-perkuat-keterbukaan-informasi-publik",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Musim Hujan , Ini 7 Komponen Motor yang Harus Mendapatkan Perhatian Khusus Agar Tak Rusak",
-      "url": "https://www.jawapos.com/otomotif/2611130005/musim-hujan-ini-7-komponen-motor-yang-harus-mendapatkan-perhatian-khusus-agar-tak-rusak",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Luncurkan Buku di Malam Taaruf , Prof Haedar Ulas Kunci Kemajuan Muhammadiyah",
-      "url": "https://news.republika.co.id/berita/toez76483/luncurkan-buku-di-malam-taaruf-prof-haedar-ulas-kunci-kemajuan-muhammadiyah",
-      "source": "news.republika.co.id",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Daftar Varian COVID - 19 dari Wuhan hingga 2026 , Delta Masih jadi yang Paling Mematikan",
-      "url": "https://www.jawapos.com/kesehatan/2611130007/daftar-varian-covid-19-dari-wuhan-hingga-2026-delta-masih-jadi-yang-paling-mematikan",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Ramalan Zodiak Aquarius 13 November 2026 : Mulai dari Cinta , Karir , Kesehatan dan Keuangan",
-      "url": "https://www.jawapos.com/zodiak/2611130022/ramalan-zodiak-aquarius-13-november-2026-mulai-dari-cinta-karir-kesehatan-dan-keuangan",
       "source": "jawapos.com",
       "published": "20261113T004500Z",
       "language": "Indonesian"
@@ -157,37 +69,9 @@
       "language": "Indonesian"
     },
     {
-      "title": "Ini Manfaat Belajar Bahasa Asing Baru Terutama bagi Otak Anda",
-      "url": "https://momsmoney.kontan.co.id/news/ini-manfaat-belajar-bahasa-asing-baru-terutama-bagi-otak-anda",
-      "source": "momsmoney.kontan.co.id",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Peruntungan Shio Besok Sabtu 14 November 2026 : Monyet , Kelinci , Kuda , Babi , Macan , Kambing",
-      "url": "https://www.jawapos.com/zodiak/2611130045/peruntungan-shio-besok-sabtu-14-november-2026-monyet-kelinci-kuda-babi-macan-kambing",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Ramalan Zodiak Libra Besok Sabtu 14 November 2026 : Keuangan , Kesehatan , Karier dan Cinta",
-      "url": "https://www.jawapos.com/zodiak/2611130046/ramalan-zodiak-libra-besok-sabtu-14-november-2026-keuangan-kesehatan-karier-dan-cinta",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
       "title": "Penjualan Motor Tumbuh 3 , 71 %, FIFGROUP Bidik 375 Booking di IMOS 2026",
       "url": "https://keuangan.kontan.co.id/news/penjualan-motor-tumbuh-371-fifgroup-bidik-375-booking-di-imos-2026",
       "source": "keuangan.kontan.co.id",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Ramalan Zodiak Gemini Besok Sabtu 14 November 2026 : Keuangan , Kesehatan , Karier dan Cinta",
-      "url": "https://www.jawapos.com/zodiak/2611130036/ramalan-zodiak-gemini-besok-sabtu-14-november-2026-keuangan-kesehatan-karier-dan-cinta",
-      "source": "jawapos.com",
       "published": "20261113T004500Z",
       "language": "Indonesian"
     },
@@ -199,23 +83,9 @@
       "language": "Indonesian"
     },
     {
-      "title": "Gara - gara Perempuan , Jensen Huang Pilih Mundur dari Kursi CEO Nvidia",
-      "url": "https://www.jawapos.com/internasional/2611130004/gara-gara-perempuan-jensen-huang-pilih-mundur-dari-kursi-ceo-nvidia",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
       "title": "Penjualan Sepeda Motor Masih Melaju pada Tahun Ini",
       "url": "https://insight.kontan.co.id/news/penjualan-sepeda-motor-masih-melaju-pada-tahun-ini",
       "source": "insight.kontan.co.id",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Ramalan Zodiak Virgo Besok Sabtu 14 November 2026 : Keuangan , Kesehatan , Karier dan Cinta",
-      "url": "https://www.jawapos.com/zodiak/2611130044/ramalan-zodiak-virgo-besok-sabtu-14-november-2026-keuangan-kesehatan-karier-dan-cinta",
-      "source": "jawapos.com",
       "published": "20261113T004500Z",
       "language": "Indonesian"
     },
@@ -255,29 +125,8 @@
       "language": "Indonesian"
     },
     {
-      "title": "Musim Hujan , Ini 7 Komponen Motor yang Harus Mendapatkan Perhatian Khusus Agar Tak Rusak",
-      "url": "https://www.jawapos.com/oto-dan-tekno/2611130005/musim-hujan-ini-7-komponen-motor-yang-harus-mendapatkan-perhatian-khusus-agar-tak-rusak",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
       "title": "Prediksi Skor Moldova vs Kazakhstan : Duel Ketat Perebutan Tiket Playoff Promosi",
       "url": "https://www.jawapos.com/sepak-bola-dunia/2611130029/prediksi-skor-moldova-vs-kazakhstan-duel-ketat-perebutan-tiket-playoff-promosi",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Ramalan Zodiak dan Pesan Semesta Besok Sabtu 14 November 2026 : Leo , Virgo , Libra , Scorpio",
-      "url": "https://www.jawapos.com/zodiak/2611130037/ramalan-zodiak-dan-pesan-semesta-besok-sabtu-14-november-2026-leo-virgo-libra-scorpio",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Lionel Scaloni Perpanjang Kontrak hingga 2030 , Bidik Sejarah di Tiga Edisi Piala Dunia",
-      "url": "https://www.jawapos.com/sepak-bola-dunia/2611130038/lionel-scaloni-perpanjang-kontrak-hingga-2030-bidik-sejarah-di-tiga-edisi-piala-dunia",
       "source": "jawapos.com",
       "published": "20261113T004500Z",
       "language": "Indonesian"
@@ -286,13 +135,6 @@
       "title": "Foto Wapres Gibran di DPRD Jawa Barat Diturunkan Koalisi Sipil di Hadapan Ketua Dewan",
       "url": "https://news.republika.co.id/berita/toexfq377/foto-wapres-gibran-di-dprd-jawa-barat-diturunkan-koalisi-sipil-di-hadapan-ketua-dewan",
       "source": "news.republika.co.id",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Rupiah Kian Tenggelam Dihantam Ketidakpastian",
-      "url": "https://insight.kontan.co.id/news/rupiah-kian-tenggelam-dihantam-ketidakpastian",
-      "source": "insight.kontan.co.id",
       "published": "20261113T004500Z",
       "language": "Indonesian"
     },
@@ -311,37 +153,9 @@
       "language": "Indonesian"
     },
     {
-      "title": "Ramalan Zodiak & Pesan Semesta Besok Sabtu 14 November 2026 : Sagitarius , Capricorn , Aquarius , Pisces",
-      "url": "https://www.jawapos.com/zodiak/2611130040/ramalan-zodiak-pesan-semesta-besok-sabtu-14-november-2026-sagitarius-capricorn-aquarius-pisces",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Ramalan Zodiak Pisces 13 November 2026 : Mulai dari Cinta , Karir , Kesehatan dan Keuangan",
-      "url": "https://www.jawapos.com/zodiak/2611130024/ramalan-zodiak-pisces-13-november-2026-mulai-dari-cinta-karir-kesehatan-dan-keuangan",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
       "title": "Belgia Menang 2 - 1 atas Turki , Amankan Peluang Lolos ke Perempat Final UEFA Nations League",
       "url": "https://www.jawapos.com/sepak-bola-dunia/2611130028/belgia-menang-2-1-atas-turki-amankan-peluang-lolos-ke-perempat-final-uefa-nations-league",
       "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "7 Keistimewaan Introvert yang Patut Dibanggakan , Apa Saja ?",
-      "url": "https://www.jawapos.com/kepribadian/2611130048/7-keistimewaan-introvert-yang-patut-dibanggakan-apa-saja",
-      "source": "jawapos.com",
-      "published": "20261113T004500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Israel Bantai Warga Gaza di RS Nasser , BoP Justru Kecam Hamas",
-      "url": "https://news.republika.co.id/berita/toey1t393/israel-bantai-warga-gaza-di-rs-nasser-bop-justru-kecam-hamas",
-      "source": "news.republika.co.id",
       "published": "20261113T004500Z",
       "language": "Indonesian"
     },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T11:12:06.230479+00:00",
+  "updated_at": "2026-11-13T11:19:58.720368+00:00",
   "total_trends": 10,
   "trends": [
     {
@@ -134,9 +134,9 @@
           "source": "Kompas.com"
         },
         {
-          "title": "Pramono Ultimatum Plaza Senayan-Sency soal Macet, Ancam Naikkan Pajak",
-          "url": "https://news.detik.com/berita/d-8749811/pramono-ultimatum-plaza-senayan-sency-soal-macet-ancam-naikkan-pajak",
-          "source": "detikNews"
+          "title": "Senayan City Siap Ikuti Arahan Pemprov DKI soal Akses Jalan",
+          "url": "https://bsinews.id/senayan-city-akses-jalan-dki",
+          "source": "bsinews.id"
         }
       ]
     },
@@ -147,11 +147,6 @@
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "Matt Henry six-for and Will Young hundred crush India",
-          "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-4th-odi-1539440/match-report",
-          "source": "Cricinfo"
-        },
-        {
           "title": "“Great To Be Back”: Matt Henry After Recording Most 4+ Wicket Hauls Against India In 4th ODI",
           "url": "https://www.sportscapemagazine.com/blog/great-to-be-back-matt-henry-after-recording-most-4-wicket-hauls-against-india-in-4th-odi",
           "source": "Sportscape Magazine"
@@ -160,6 +155,11 @@
           "title": "'Huge difference in the wickets': Shreyas Iyer reveals why India's batting collapsed in 4th ODI at Mount Maunganui",
           "url": "https://sports.yahoo.com/articles/huge-difference-wickets-shreyas-iyer-093003441.html",
           "source": "Yahoo Sports"
+        },
+        {
+          "title": "Henry’s spell brought back memories of 2019 semi-final: Karthik",
+          "url": "https://www.cricbuzz.com/cricket-videos/218870/henrys-spell-brought-back-memories-of-2019-semi-final-karthik",
+          "source": "Cricbuzz"
         }
       ]
     },
