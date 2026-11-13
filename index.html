@@ -787,6 +787,47 @@ main {
   }
 }
 
+/* News Pagination */
+.news-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+  margin: 32px 0 10px;
+  flex-wrap: wrap;
+}
+
+.news-pagination[hidden] {
+  display: none;
+}
+
+.news-pagination button {
+  background: rgba(166,138,255,.16);
+  color: #f8f6ff;
+  border: 1px solid rgba(166,138,255,.35);
+  padding: 12px 20px;
+  border-radius: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: .2s ease;
+}
+
+.news-pagination button:hover:not(:disabled) {
+  background: #c9ff72;
+  color: #171527;
+  transform: translateY(-2px);
+}
+
+.news-pagination button:disabled {
+  opacity: .3;
+  cursor: not-allowed;
+}
+
+#newsPageInfo {
+  font-size: 13px;
+  color: #c1bdd8;
+}
+
 </style>
 </head>
 
@@ -939,6 +980,13 @@ main {
   </div>
 
   <div id="newsList" class="grid"></div>
+  
+<div id="newsPagination" class="news-pagination" hidden>
+  <button id="prevNews" type="button">← Previous</button>
+  <span id="newsPageInfo"></span>
+  <button id="nextNews" type="button">Next →</button>
+</div>
+
 </section>
 
 <!-- ===== TREND ANALYTICS ===== -->
@@ -1380,6 +1428,11 @@ function matchArticles(articles, query) {
 }
 
 // ===== NEWS INTELLIGENCE =====
+
+// ===== NEWS PAGINATION =====
+const NEWS_PER_PAGE = 9;
+let newsCurrentPage = 1;
+
 function renderNews() {
   const selected = newsCategory.value;
   const query = newsSearch.value.trim();
@@ -1393,10 +1446,13 @@ function renderNews() {
 
   newsBox.replaceChildren();
 
+  const pagination = $("newsPagination");
+
   if (selected === "Semua" && !newsLoaded) {
     $("newsStatus").textContent = newsFailed
       ? "News source unavailable."
       : "Loading news...";
+    pagination.hidden = true;
     return;
   }
 
@@ -1404,34 +1460,64 @@ function renderNews() {
     $("newsStatus").textContent = categoriesFailed
       ? "Category data unavailable."
       : "Loading category...";
+    pagination.hidden = true;
     return;
   }
+
+  const totalPages = Math.max(
+    1,
+    Math.ceil(filtered.length / NEWS_PER_PAGE)
+  );
+
+  newsCurrentPage = Math.min(
+    newsCurrentPage,
+    totalPages
+  );
+
+  const start = (newsCurrentPage - 1) * NEWS_PER_PAGE;
+  const visible = filtered.slice(
+    start,
+    start + NEWS_PER_PAGE
+  );
 
   $("newsStatus").textContent = filtered.length
     ? `${filtered.length} articles • ${selected}`
     : "No matching articles in the collected data.";
 
-  filtered.forEach(item => {
-    const card = element("article", "card news-card reveal");
+  visible.forEach(item => {
+    const card = element(
+      "article",
+      "card news-card reveal"
+    );
 
     const top = element("div", "card-top");
+
     top.append(
-      element("span", "rank", item.source || "NEWS SOURCE"),
+      element(
+        "span",
+        "rank",
+        item.source || "NEWS SOURCE"
+      ),
       element("span", "mini-icon", "📰")
     );
 
     const title = element(
-      "h3", "", item.title || "Untitled article"
+      "h3",
+      "",
+      item.title || "Untitled article"
     );
 
     const date = element(
-      "div", "traffic", dateWIB(item.published)
+      "div",
+      "traffic",
+      dateWIB(item.published)
     );
 
     card.append(top, title, date);
 
     const link = externalLink(
-      "Read Original Story ↗", item.url
+      "Read Original Story ↗",
+      item.url
     );
 
     if (link) card.appendChild(link);
@@ -1439,7 +1525,45 @@ function renderNews() {
     newsBox.appendChild(card);
     addTilt(card);
   });
+
+  pagination.hidden = filtered.length <= NEWS_PER_PAGE;
+
+  $("newsPageInfo").textContent =
+    `Page ${newsCurrentPage} of ${totalPages}`;
+
+  $("prevNews").disabled = newsCurrentPage === 1;
+  $("nextNews").disabled =
+    newsCurrentPage === totalPages;
 }
+
+function changeNewsPage(direction) {
+  newsCurrentPage += direction;
+  renderNews();
+
+  $("news").scrollIntoView({
+    behavior: reduceMotion.matches ? "auto" : "smooth",
+    block: "start"
+  });
+}
+
+$("prevNews").addEventListener("click", () => {
+  changeNewsPage(-1);
+});
+
+$("nextNews").addEventListener("click", () => {
+  changeNewsPage(1);
+});
+
+newsSearch.addEventListener("input", () => {
+  newsCurrentPage = 1;
+  renderNews();
+});
+
+newsCategory.addEventListener("change", () => {
+  newsCurrentPage = 1;
+  renderNews();
+});
+
 
 function updateNewsFreshness(updatedAt) {
   const badge = document.getElementById("newsFreshness");
@@ -1533,8 +1657,7 @@ function matchTrendToNews(topic) {
 
 // ===== EVENT LISTENERS =====
 trendSearch.addEventListener("input", renderTrends);
-newsSearch.addEventListener("input", renderNews);
-newsCategory.addEventListener("change", renderNews);
+
 
 
 // ===== TREND ANALYTICS =====
