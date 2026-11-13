@@ -57,51 +57,53 @@ jobs:
               }
               trends = []
 
+
+            
               for item in root.findall("./channel/item"):
                   title = item.findtext("title", "").strip()
 
-                  
-                  if title:
-                      related_news = []
-                      seen_urls = set()
+                  if not title:
+                      continue
 
-                      for news in item.findall(
-                          "ht:news_item", ns
+                  related_news = []
+                  seen_urls = set()
+
+                  for news in item.findall("ht:news_item", ns):
+                      news_title = news.findtext(
+                          "ht:news_item_title", "", ns
+                      ).strip()
+
+                      news_url = news.findtext(
+                          "ht:news_item_url", "", ns
+                      ).strip()
+
+                      news_source = news.findtext(
+                          "ht:news_item_source", "", ns
+                      ).strip()
+
+                      if (
+                          news_title
+                          and news_url.startswith("https://")
+                          and news_url not in seen_urls
                       ):
-                          news_title = news.findtext(
-                              "ht:news_item_title", "", ns
-                          ).strip()
+                          seen_urls.add(news_url)
 
-                          news_url = news.findtext(
-                              "ht:news_item_url", "", ns
-                          ).strip()
+                          related_news.append({
+                              "title": news_title,
+                              "url": news_url,
+                              "source": news_source
+                          })
 
-                          news_source = news.findtext(
-                              "ht:news_item_source", "", ns
-                          ).strip()
+                  trends.append({
+                      "title": title,
+                      "published": item.findtext("pubDate", ""),
+                      "traffic": item.findtext(
+                          "ht:approx_traffic", "", ns
+                      ),
+                      "link": item.findtext("link", ""),
+                      "related_news": related_news
+                  })
 
-                          if (
-                              news_title
-                              and news_url.startswith("https://")
-                              and news_url not in seen_urls
-                          ):
-                              seen_urls.add(news_url)
-
-                              related_news.append({
-                                  "title": news_title,
-                                  "url": news_url,
-                                  "source": news_source
-                              })
-
-                            trends.append({
-                              "title": title,
-                              "published": item.findtext("pubDate", ""),
-                              "traffic": item.findtext(
-                                "ht:approx_traffic", "", ns
-                              ),
-                              "link": item.findtext("link", ""),
-                              "related_news": related_news
-                             })
 
               if not trends:
                   raise ValueError("Feed kosong")
