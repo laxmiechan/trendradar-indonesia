@@ -336,6 +336,54 @@
           "traffic": "100+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-13T15:40:58.720457+00:00",
+      "trends_updated_at": "2026-11-13T15:38:36.545919+00:00",
+      "total_trends": 10,
+      "news_count": 23,
+      "topics": [
+        {
+          "title": "korea",
+          "traffic": "100+"
+        },
+        {
+          "title": "korea vs arab saudi",
+          "traffic": "200+"
+        },
+        {
+          "title": "zanadin fariz",
+          "traffic": "100+"
+        },
+        {
+          "title": "arab saudi vs korea selatan",
+          "traffic": "500+"
+        },
+        {
+          "title": "bruno fernandes",
+          "traffic": "200+"
+        },
+        {
+          "title": "australia vs",
+          "traffic": "200+"
+        },
+        {
+          "title": "zambia vs",
+          "traffic": "200+"
+        },
+        {
+          "title": "cam skattebo",
+          "traffic": "200+"
+        },
+        {
+          "title": "comoros vs",
+          "traffic": "100+"
+        },
+        {
+          "title": "ppi",
+          "traffic": "100+"
+        }
+      ]
     }
   ]
 }
