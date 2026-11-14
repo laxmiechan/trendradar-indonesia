@@ -480,6 +480,54 @@
           "traffic": "100+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-14T09:21:41.815916+00:00",
+      "trends_updated_at": "2026-11-14T09:19:17.667682+00:00",
+      "total_trends": 10,
+      "news_count": 23,
+      "topics": [
+        {
+          "title": "cek bsu dengan nik 2026",
+          "traffic": "2000+"
+        },
+        {
+          "title": "india vs bhutan",
+          "traffic": "200+"
+        },
+        {
+          "title": "sinetron terikat janji malam ini",
+          "traffic": "200+"
+        },
+        {
+          "title": "film hunger games 2026",
+          "traffic": "200+"
+        },
+        {
+          "title": "japan vs brazil",
+          "traffic": "500+"
+        },
+        {
+          "title": "byd seal bekas",
+          "traffic": "500+"
+        },
+        {
+          "title": "motogp musim 2026",
+          "traffic": "500+"
+        },
+        {
+          "title": "indonesia u17",
+          "traffic": "5000+"
+        },
+        {
+          "title": "feni rose",
+          "traffic": "200+"
+        },
+        {
+          "title": "kosovo vs austria",
+          "traffic": "100+"
+        }
+      ]
     }
   ]
 }
