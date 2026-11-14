@@ -528,6 +528,54 @@
           "traffic": "100+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-14T16:01:24.480095+00:00",
+      "trends_updated_at": "2026-11-14T15:59:32.612966+00:00",
+      "total_trends": 10,
+      "news_count": 25,
+      "topics": [
+        {
+          "title": "real sociedad b vs gijon",
+          "traffic": "100+"
+        },
+        {
+          "title": "georgia vs hungary",
+          "traffic": "100+"
+        },
+        {
+          "title": "tottenham hotspur ladies vs everton l. f. c.",
+          "traffic": "200+"
+        },
+        {
+          "title": "palestina vs iran",
+          "traffic": "200+"
+        },
+        {
+          "title": "taiwan",
+          "traffic": "100+"
+        },
+        {
+          "title": "bangladesh vs pakistan",
+          "traffic": "1000+"
+        },
+        {
+          "title": "le havre vs paris fc",
+          "traffic": "200+"
+        },
+        {
+          "title": "faa ground stop flights cancelled",
+          "traffic": "500+"
+        },
+        {
+          "title": "man utd vs crystal palace",
+          "traffic": "500+"
+        },
+        {
+          "title": "xavi hernandez",
+          "traffic": "200+"
+        }
+      ]
     }
   ]
 }
