@@ -576,6 +576,54 @@
           "traffic": "200+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-14T20:36:42.545465+00:00",
+      "trends_updated_at": "2026-11-14T20:34:49.510866+00:00",
+      "total_trends": 10,
+      "news_count": 5,
+      "topics": [
+        {
+          "title": "rasmus højlund",
+          "traffic": "100+"
+        },
+        {
+          "title": "gonçalo ramos",
+          "traffic": "100+"
+        },
+        {
+          "title": "angola vs sudan selatan",
+          "traffic": "100+"
+        },
+        {
+          "title": "angola vs",
+          "traffic": "200+"
+        },
+        {
+          "title": "algeria vs togo",
+          "traffic": "100+"
+        },
+        {
+          "title": "spanyol vs inggris",
+          "traffic": "200+"
+        },
+        {
+          "title": "mo salah",
+          "traffic": "200+"
+        },
+        {
+          "title": "alberto costa",
+          "traffic": "500+"
+        },
+        {
+          "title": "carlos forbs",
+          "traffic": "1000+"
+        },
+        {
+          "title": "twitch",
+          "traffic": "200+"
+        }
+      ]
     }
   ]
 }

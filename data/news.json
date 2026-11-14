@@ -1,183 +1,43 @@
 {
-  "updated_at": "2026-11-14T15:59:32.670003+00:00",
-  "fetched_at": "2026-11-14T15:59:32.670003+00:00",
-  "latest_seen_at": "2026-11-13T18:00:00+00:00",
-  "search_window_hours": 24,
-  "total_news": 25,
+  "updated_at": "2026-11-14T20:34:49.588755+00:00",
+  "fetched_at": "2026-11-14T20:34:49.588755+00:00",
+  "latest_seen_at": "2026-11-14T20:00:00+00:00",
+  "search_window_hours": 3,
+  "total_news": 5,
   "articles": [
     {
-      "title": "Deret Alasan Klub Pro Futsal League Tuntut FFI Gelar KLB",
-      "url": "https://www.cnnindonesia.com/olahraga/20261113224003-142-1427062/deret-alasan-klub-pro-futsal-league-tuntut-ffi-gelar-klb",
-      "source": "cnnindonesia.com",
-      "published": "20261113T180000Z",
+      "title": "Taspen Perkirakan Uang Pensiun Gibran Capai Rp22 Juta per Bulan",
+      "url": "https://www.metrotvnews.com/play/KXyCm6LZ-taspen-perkirakan-uang-pensiun-gibran-capai-rp22-juta-per-bulan",
+      "source": "metrotvnews.com",
+      "published": "20261114T200000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Gibran Mundur , Pergantian Wapres Dinilai Bisa Jadi Momentum Perkuat Kepemimpinan Nasional : Okezone News",
-      "url": "https://news.okezone.com/read/2026/11/13/337/3253958/gibran-mundur-pergantian-wapres-dinilai-bisa-jadi-momentum-perkuat-kepemimpinan-nasional",
-      "source": "news.okezone.com",
-      "published": "20261113T180000Z",
+      "title": "NasDem Ingin Pengganti Gibran Sosok Cerdas dan Berwawasan Global",
+      "url": "https://www.metrotvnews.com/read/KRXCzJWe-nasdem-ingin-pengganti-gibran-sosok-cerdas-dan-berwawasan-global",
+      "source": "metrotvnews.com",
+      "published": "20261114T200000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Biaya Produksi di RI Hampir 2 Kali Lipat Vietnam , Ini Penyebabnya",
-      "url": "https://www.merdeka.com/uang/read/8334958/biaya-produksi-di-ri-hampir-2-kali-lipat-vietnam-ini-penyebabnya",
-      "source": "merdeka.com",
-      "published": "20261113T180000Z",
+      "title": "Tuntaskan Misi Kemanusiaan di Pasifik Selatan , Satgas Port Visit 2026 Tiba di Jakarta",
+      "url": "https://www.metrotvnews.com/play/b3JC9emZ-tuntaskan-misi-kemanusiaan-di-pasifik-selatan-satgas-port-visit-2026-tiba-di-jakarta",
+      "source": "metrotvnews.com",
+      "published": "20261114T200000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Momen Haru Presiden Prabowo Cium Anak Petugas yang Gugur Padamkan Karhutla : Okezone News",
-      "url": "https://news.okezone.com/read/2026/11/13/337/3253953/momen-haru-presiden-prabowo-cium-anak-petugas-yang-gugur-padamkan-karhutla",
-      "source": "news.okezone.com",
-      "published": "20261113T180000Z",
+      "title": "Kemendagri Maksimalkan Digitalisasi Pengelolaan Keuangan Daerah",
+      "url": "https://www.metrotvnews.com/read/NA0Cz4Pg-kemendagri-maksimalkan-digitalisasi-pengelolaan-keuangan-daerah",
+      "source": "metrotvnews.com",
+      "published": "20261114T200000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Mengapa Kawasan Wisata Rawan Bencana Saat Musim Hujan ?",
-      "url": "https://www.merdeka.com/peristiwa/read/8334952/mengapa-kawasan-wisata-rawan-bencana-saat-musim-hujan",
-      "source": "merdeka.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Hati - Hati Dampak Resistansi Antibiotik , Pengobatan Bisa Lebih Mahal",
-      "url": "https://www.cnnindonesia.com/gaya-hidup/20261113165240-255-1426949/hati-hati-dampak-resistansi-antibiotik-pengobatan-bisa-lebih-mahal",
-      "source": "cnnindonesia.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Polisi Ungkap WNI Tentara Bayaran di Rusia Dikontrak hingga Tewas",
-      "url": "https://www.merdeka.com/peristiwa/read/8334998/polisi-ungkap-wni-tentara-bayaran-di-rusia-dikontrak-hingga-tewas",
-      "source": "merdeka.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Shawn Mendes Ajak Publik Bantu Palestina dan Berani Bersuara",
-      "url": "https://www.cnnindonesia.com/hiburan/20261113203549-234-1427046/shawn-mendes-ajak-publik-bantu-palestina-dan-berani-bersuara",
-      "source": "cnnindonesia.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Koalisi Warga Sadar Surabaya Kritik Kekerasan Aparat di Yogyakarta",
-      "url": "https://www.cnnindonesia.com/nasional/20261113220807-20-1427061/koalisi-warga-sadar-surabaya-kritik-kekerasan-aparat-di-yogyakarta",
-      "source": "cnnindonesia.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Zulhas : Parpol Koalisi Diminta Siapkan Usulan Pengganti Gibran dalam Waktu Seminggu : Okezone News",
-      "url": "https://news.okezone.com/read/2026/11/13/337/3253947/zulhas-parpol-koalisi-diminta-siapkan-usulan-pengganti-gibran-dalam-waktu-seminggu",
-      "source": "news.okezone.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Polisi Tangkap 8 Tersangka Jaringan Perekrut Tentara Bayaran Rusia di Indonesia",
-      "url": "https://cedarnews.net/indonesian/1142876/polisi-tangkap-8-tersangka-jaringan-perekrut-tentara/",
-      "source": "cedarnews.net",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Sebut Tiga Varian Calon Pengganti Gibran , Ray Rangkuti : Tokoh Independen Opsi Paling Rasional : Okezone News",
-      "url": "https://news.okezone.com/read/2026/11/13/337/3253945/sebut-tiga-varian-calon-pengganti-gibran-ray-rangkuti-tokoh-independen-opsi-paling-rasional",
-      "source": "news.okezone.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Periksa Tiga Saksi , KPK Dalami Pengadaan Bersumber Dana Siap Pakai BNPB : Okezone News",
-      "url": "https://news.okezone.com/read/2026/11/14/337/3253962/periksa-tiga-saksi-kpk-dalami-pengadaan-bersumber-dana-siap-pakai-bnpb",
-      "source": "news.okezone.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Cerita Sofyani , Sulap Tepung Pisang Bebas Gluten Hingga Tembus Pasar Kanada",
-      "url": "https://www.merdeka.com/uang/read/8335001/cerita-sofyani-sulap-tepung-pisang-bebas-gluten-hingga-tembus-pasar-kanada",
-      "source": "merdeka.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "DPR Tegaskan Kebutuhan Hunian Masyarakat Jadi Tanggung Jawab Bersama : Okezone News",
-      "url": "https://news.okezone.com/read/2026/11/13/337/3253959/dpr-tegaskan-kebutuhan-hunian-masyarakat-jadi-tanggung-jawab-bersama",
-      "source": "news.okezone.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Praktisi Lintas Industri Kupas Kunci Sukses Agile dan AI dalam Menjalankan Bisnis",
-      "url": "https://www.merdeka.com/uang/read/8335012/praktisi-lintas-industri-kupas-kunci-sukses-agile-dan-ai-dalam-menjalankan-bisnis",
-      "source": "merdeka.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Atlet CNN Indonesia Taekwondo Championship 3 Jadi  Intel  sebelum Duel",
-      "url": "https://www.cnnindonesia.com/olahraga/20261113203142-178-1427044/atlet-cnn-indonesia-taekwondo-championship-3-jadi-intel-sebelum-duel",
-      "source": "cnnindonesia.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Momen Foto Gibran Diturunkan dari Dinding Kelas SD : Okezone Digital",
-      "url": "https://digital.okezone.com/view/2026/11/13/1/106492/momen-foto-gibran-diturunkan-dari-dinding-kelas-sd",
-      "source": "digital.okezone.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Gunung Karangetang Kembali Erupsi , Lontarkan Material Pijar",
-      "url": "https://www.cnnindonesia.com/nasional/20261113210628-20-1427057/gunung-karangetang-kembali-erupsi-lontarkan-material-pijar",
-      "source": "cnnindonesia.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Profil Chico Jericho , Talenta Papua Sang Mesin Serangan Timnas U - 17",
-      "url": "https://www.cnnindonesia.com/olahraga/20261113183336-142-1427003/profil-chico-jericho-talenta-papua-sang-mesin-serangan-timnas-u-17",
-      "source": "cnnindonesia.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Mauricio Pochettino Resmi Jadi Pelatih Manchester United 18 November",
-      "url": "https://www.cnnindonesia.com/olahraga/20261113194106-142-1427026/mauricio-pochettino-resmi-jadi-pelatih-manchester-united-18-november",
-      "source": "cnnindonesia.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "AS Copot Komandan USS Michael Murphy yang Bertugas Perangi Iran",
-      "url": "https://www.cnnindonesia.com/internasional/20261113202056-120-1427040/as-copot-komandan-uss-michael-murphy-yang-bertugas-perangi-iran",
-      "source": "cnnindonesia.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Paspampres Jelaskan Pengamanan Gibran Usai Tak Lagi Jabat Wapres",
-      "url": "https://www.cnnindonesia.com/nasional/20261113211613-20-1427058/paspampres-jelaskan-pengamanan-gibran-usai-tak-lagi-jabat-wapres",
-      "source": "cnnindonesia.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "CNN Indonesia Padel ENGAGEMATCH Vol . 1 Berhadiah Puluhan Juta Rupiah",
-      "url": "https://www.cnnindonesia.com/olahraga/20261113234837-178-1427066/cnn-indonesia-padel-engagematch-vol-1-berhadiah-puluhan-juta-rupiah",
-      "source": "cnnindonesia.com",
-      "published": "20261113T180000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "MK Tak Terima Gugatan Syarat Ijazah SMA Capres - Cawapres : Okezone News",
-      "url": "https://news.okezone.com/read/2026/11/13/337/3253961/mk-nbsp-tak-terima-gugatan-syarat-ijazah-sma-capres-cawapres",
-      "source": "news.okezone.com",
-      "published": "20261113T180000Z",
+      "title": "Prabowo Bakal Tambah Anggaran Rp100 Miliar untuk Ibu Kota Provinsi",
+      "url": "https://www.metrotvnews.com/read/bmRCXLRZ-prabowo-bakal-tambah-anggaran-rp100-miliar-untuk-ibu-kota-provinsi",
+      "source": "metrotvnews.com",
+      "published": "20261114T200000Z",
       "language": "Indonesian"
     }
   ]
