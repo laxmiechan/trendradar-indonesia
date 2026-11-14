@@ -432,6 +432,54 @@
           "traffic": "100+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-14T02:14:34.136845+00:00",
+      "trends_updated_at": "2026-11-14T02:12:21.525044+00:00",
+      "total_trends": 10,
+      "news_count": 23,
+      "topics": [
+        {
+          "title": "guatemala vs canada",
+          "traffic": "100+"
+        },
+        {
+          "title": "spurs vs warriors",
+          "traffic": "200+"
+        },
+        {
+          "title": "bulls vs hawks",
+          "traffic": "200+"
+        },
+        {
+          "title": "polrestabes medan",
+          "traffic": "100+"
+        },
+        {
+          "title": "guatemala vs kanada",
+          "traffic": "1000+"
+        },
+        {
+          "title": "ecuador vs",
+          "traffic": "100+"
+        },
+        {
+          "title": "heat vs cavaliers",
+          "traffic": "200+"
+        },
+        {
+          "title": "friendlies",
+          "traffic": "100+"
+        },
+        {
+          "title": "andrea dovizioso",
+          "traffic": "100+"
+        },
+        {
+          "title": "gianluca prestianni",
+          "traffic": "100+"
+        }
+      ]
     }
   ]
 }
