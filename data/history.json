@@ -768,6 +768,54 @@
           "traffic": "200+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-15T20:19:41.258377+00:00",
+      "trends_updated_at": "2026-11-15T20:17:18.918710+00:00",
+      "total_trends": 10,
+      "news_count": 5,
+      "topics": [
+        {
+          "title": "james trafford",
+          "traffic": "200+"
+        },
+        {
+          "title": "niccolò pisilli",
+          "traffic": "200+"
+        },
+        {
+          "title": "eibar vs cádiz",
+          "traffic": "200+"
+        },
+        {
+          "title": "panama vs curacao",
+          "traffic": "200+"
+        },
+        {
+          "title": "76ers vs pacers",
+          "traffic": "500+"
+        },
+        {
+          "title": "sd eibar",
+          "traffic": "200+"
+        },
+        {
+          "title": "arsenal women",
+          "traffic": "100+"
+        },
+        {
+          "title": "real murcia",
+          "traffic": "100+"
+        },
+        {
+          "title": "naruto",
+          "traffic": "200+"
+        },
+        {
+          "title": "serie c",
+          "traffic": "200+"
+        }
+      ]
     }
   ]
 }
