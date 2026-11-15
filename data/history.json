@@ -672,6 +672,54 @@
           "traffic": "200+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-15T07:06:08.912999+00:00",
+      "trends_updated_at": "2026-11-15T07:03:42.093778+00:00",
+      "total_trends": 10,
+      "news_count": 5,
+      "topics": [
+        {
+          "title": "cerezo osaka vs urawa reds",
+          "traffic": "500+"
+        },
+        {
+          "title": "dadang hartanto",
+          "traffic": "200+"
+        },
+        {
+          "title": "peringkat fifa timnas indonesia",
+          "traffic": "500+"
+        },
+        {
+          "title": "cinema xxi",
+          "traffic": "100+"
+        },
+        {
+          "title": "terikat janji episode 217",
+          "traffic": "2000+"
+        },
+        {
+          "title": "aldi satya mahendra",
+          "traffic": "100+"
+        },
+        {
+          "title": "suhu",
+          "traffic": "200+"
+        },
+        {
+          "title": "berita",
+          "traffic": "500+"
+        },
+        {
+          "title": "nadzira shafa",
+          "traffic": "500+"
+        },
+        {
+          "title": "j. league",
+          "traffic": "200+"
+        }
+      ]
     }
   ]
 }
