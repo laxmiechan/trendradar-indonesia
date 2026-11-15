@@ -720,6 +720,54 @@
           "traffic": "200+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-15T14:42:43.997734+00:00",
+      "trends_updated_at": "2026-11-15T14:40:27.456550+00:00",
+      "total_trends": 10,
+      "news_count": 5,
+      "topics": [
+        {
+          "title": "granada vs las palmas",
+          "traffic": "100+"
+        },
+        {
+          "title": "alexander zverev",
+          "traffic": "200+"
+        },
+        {
+          "title": "inter milan vs juventus f.c.",
+          "traffic": "200+"
+        },
+        {
+          "title": "aston villa l. f. c. vs birmingham city wfc",
+          "traffic": "200+"
+        },
+        {
+          "title": "weather tomorrow",
+          "traffic": "5000+"
+        },
+        {
+          "title": "utang",
+          "traffic": "200+"
+        },
+        {
+          "title": "france vs turkey",
+          "traffic": "100+"
+        },
+        {
+          "title": "siprus vs montenegro",
+          "traffic": "2000+"
+        },
+        {
+          "title": "bumi saham",
+          "traffic": "500+"
+        },
+        {
+          "title": "ragnar oratmangoen",
+          "traffic": "200+"
+        }
+      ]
     }
   ]
 }
