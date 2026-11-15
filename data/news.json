@@ -1,10 +1,24 @@
 {
-  "updated_at": "2026-11-14T20:34:49.588755+00:00",
-  "fetched_at": "2026-11-14T20:34:49.588755+00:00",
+  "updated_at": "2026-11-15T00:11:08.386827+00:00",
+  "fetched_at": "2026-11-15T00:11:08.386827+00:00",
   "latest_seen_at": "2026-11-14T20:00:00+00:00",
-  "search_window_hours": 3,
+  "search_window_hours": 24,
   "total_news": 5,
   "articles": [
+    {
+      "title": "Kemendagri Maksimalkan Digitalisasi Pengelolaan Keuangan Daerah",
+      "url": "https://www.metrotvnews.com/read/NA0Cz4Pg-kemendagri-maksimalkan-digitalisasi-pengelolaan-keuangan-daerah",
+      "source": "metrotvnews.com",
+      "published": "20261114T200000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Prabowo Bakal Tambah Anggaran Rp100 Miliar untuk Ibu Kota Provinsi",
+      "url": "https://www.metrotvnews.com/read/bmRCXLRZ-prabowo-bakal-tambah-anggaran-rp100-miliar-untuk-ibu-kota-provinsi",
+      "source": "metrotvnews.com",
+      "published": "20261114T200000Z",
+      "language": "Indonesian"
+    },
     {
       "title": "Taspen Perkirakan Uang Pensiun Gibran Capai Rp22 Juta per Bulan",
       "url": "https://www.metrotvnews.com/play/KXyCm6LZ-taspen-perkirakan-uang-pensiun-gibran-capai-rp22-juta-per-bulan",
@@ -22,20 +36,6 @@
     {
       "title": "Tuntaskan Misi Kemanusiaan di Pasifik Selatan , Satgas Port Visit 2026 Tiba di Jakarta",
       "url": "https://www.metrotvnews.com/play/b3JC9emZ-tuntaskan-misi-kemanusiaan-di-pasifik-selatan-satgas-port-visit-2026-tiba-di-jakarta",
-      "source": "metrotvnews.com",
-      "published": "20261114T200000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Kemendagri Maksimalkan Digitalisasi Pengelolaan Keuangan Daerah",
-      "url": "https://www.metrotvnews.com/read/NA0Cz4Pg-kemendagri-maksimalkan-digitalisasi-pengelolaan-keuangan-daerah",
-      "source": "metrotvnews.com",
-      "published": "20261114T200000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Prabowo Bakal Tambah Anggaran Rp100 Miliar untuk Ibu Kota Provinsi",
-      "url": "https://www.metrotvnews.com/read/bmRCXLRZ-prabowo-bakal-tambah-anggaran-rp100-miliar-untuk-ibu-kota-provinsi",
       "source": "metrotvnews.com",
       "published": "20261114T200000Z",
       "language": "Indonesian"

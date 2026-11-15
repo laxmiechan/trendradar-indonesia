@@ -624,6 +624,54 @@
           "traffic": "200+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-15T00:13:10.494675+00:00",
+      "trends_updated_at": "2026-11-15T00:11:08.303139+00:00",
+      "total_trends": 10,
+      "news_count": 5,
+      "topics": [
+        {
+          "title": "chapecoense vs vasco",
+          "traffic": "200+"
+        },
+        {
+          "title": "belgia vs italia",
+          "traffic": "100+"
+        },
+        {
+          "title": "terafab",
+          "traffic": "100+"
+        },
+        {
+          "title": "alexander isak",
+          "traffic": "100+"
+        },
+        {
+          "title": "jokowi rizal fadillah",
+          "traffic": "1000+"
+        },
+        {
+          "title": "bahan bakar",
+          "traffic": "500+"
+        },
+        {
+          "title": "queretaro vs monterrey",
+          "traffic": "200+"
+        },
+        {
+          "title": "banfield vs boca juniors",
+          "traffic": "500+"
+        },
+        {
+          "title": "mirassol vs atletico mineiro",
+          "traffic": "200+"
+        },
+        {
+          "title": "latvia vs armenia",
+          "traffic": "200+"
+        }
+      ]
     }
   ]
 }
