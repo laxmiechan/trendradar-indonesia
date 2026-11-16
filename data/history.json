@@ -912,6 +912,54 @@
           "traffic": "200+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-16T17:24:01.648018+00:00",
+      "trends_updated_at": "2026-11-16T17:21:10.073543+00:00",
+      "total_trends": 10,
+      "news_count": 21,
+      "topics": [
+        {
+          "title": "calon wapres pengganti gibran",
+          "traffic": "2000+"
+        },
+        {
+          "title": "germany vs netherland",
+          "traffic": "100+"
+        },
+        {
+          "title": "estonia",
+          "traffic": "100+"
+        },
+        {
+          "title": "guinea vs",
+          "traffic": "100+"
+        },
+        {
+          "title": "kevin de bruyne",
+          "traffic": "100+"
+        },
+        {
+          "title": "benin vs",
+          "traffic": "200+"
+        },
+        {
+          "title": "lithuania vs liechtenstein",
+          "traffic": "200+"
+        },
+        {
+          "title": "ghana fc",
+          "traffic": "200+"
+        },
+        {
+          "title": "estonia vs",
+          "traffic": "500+"
+        },
+        {
+          "title": "moldova",
+          "traffic": "200+"
+        }
+      ]
     }
   ]
 }
