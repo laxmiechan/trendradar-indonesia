@@ -864,6 +864,54 @@
           "traffic": "500+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-16T07:12:27.090780+00:00",
+      "trends_updated_at": "2026-11-16T07:09:58.338933+00:00",
+      "total_trends": 10,
+      "news_count": 21,
+      "topics": [
+        {
+          "title": "kredit",
+          "traffic": "200+"
+        },
+        {
+          "title": "korban",
+          "traffic": "500+"
+        },
+        {
+          "title": "covid",
+          "traffic": "200+"
+        },
+        {
+          "title": "dejan lovren",
+          "traffic": "100+"
+        },
+        {
+          "title": "mahkamah agung republik indonesia",
+          "traffic": "100+"
+        },
+        {
+          "title": "hojlund",
+          "traffic": "500+"
+        },
+        {
+          "title": "pramono anung",
+          "traffic": "500+"
+        },
+        {
+          "title": "bahlil lahadalia",
+          "traffic": "200+"
+        },
+        {
+          "title": "doomsday",
+          "traffic": "100+"
+        },
+        {
+          "title": "felix gallardo",
+          "traffic": "200+"
+        }
+      ]
     }
   ]
 }

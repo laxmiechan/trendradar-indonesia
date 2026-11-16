@@ -1,234 +1,218 @@
 {
-  "updated_at": "2026-11-16T00:16:50.903196+00:00",
+  "updated_at": "2026-11-16T07:09:58.338933+00:00",
   "total_trends": 10,
   "trends": [
     {
-      "title": "raptors vs knicks",
-      "published": "Sun, 15 Nov 2026 16:00:00 -0800",
-      "traffic": "100+",
+      "title": "kredit",
+      "published": "Sun, 15 Nov 2026 22:30:00 -0800",
+      "traffic": "200+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": []
+    },
+    {
+      "title": "korban",
+      "published": "Sun, 15 Nov 2026 22:20:00 -0800",
+      "traffic": "500+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "How to watch Knicks vs Raptors: NBA, live stream, TV channel, start time",
-          "url": "https://sports.yahoo.com/articles/watch-knicks-vs-raptors-nba-220000933.html",
-          "source": "Yahoo Sports"
+          "title": "Raffi Ahmad Minta Maaf Libatkan The Duda's Minus One dalam Kerja Sama Kementerian",
+          "url": "https://hot.detik.com/celeb/d-8754836/raffi-ahmad-minta-maaf-libatkan-the-dudas-minus-one-dalam-kerja-sama-kementerian",
+          "source": "detikHOT"
         },
         {
-          "title": "Toronto plays New York, looks to end home skid",
-          "url": "https://abcnews.com/Sports/wireStory/toronto-plays-new-york-end-home-skid-138136963",
-          "source": "ABC News - Breaking News, Latest News and Videos"
+          "title": "Ramai soal Kontrak Jasa Influencer Rp 14 Miliar, Raffi Ahmad Siap Diperiksa",
+          "url": "https://entertainment.kompas.com/read/2026/11/16/114147266/ramai-soal-kontrak-jasa-influencer-rp-14-miliar-raffi-ahmad-siap",
+          "source": "Kompas.com"
         },
         {
-          "title": "Knicks visit Raptors for reunion with RJ Barrett, Immanuel Quickley",
-          "url": "https://www.cbssports.com/nba/news/knicks-visit-raptors-for-reunion-with-rj-barrett-immanuel-quickley/",
-          "source": "CBS Sports"
+          "title": "Desta, Ariel NOAH, dan Gading Marten Klarifikasi soal Endorse",
+          "url": "https://www.cnnindonesia.com/hiburan/20261111064531-234-1425674/desta-ariel-noah-dan-gading-marten-klarifikasi-soal-endorse",
+          "source": "CNN Indonesia"
         }
       ]
     },
     {
-      "title": "mo bamba",
-      "published": "Sun, 15 Nov 2026 16:00:00 -0800",
-      "traffic": "100+",
+      "title": "covid",
+      "published": "Sun, 15 Nov 2026 22:00:00 -0800",
+      "traffic": "200+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "Jazz's Mo Bamba: Starting against Spurs",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/jazzs-mo-bamba-starting-against-spurs/",
-          "source": "CBS Sports"
+          "title": "Apa itu Varian Covid-19 PJ.2.1 dan Sudahkah Masuk Indonesia",
+          "url": "https://janalokajournal.id/varian-covid-19-pj-2-1/",
+          "source": "https://janalokajournal.id/"
         },
         {
-          "title": "UTA starts George, Peterson, Green, Bailey, Bamba",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-15/uta-starts-george-peterson-green-bailey-bamba",
-          "source": "NBC Sports"
+          "title": "COVID-19 Varian Baru Sudah Menyebar Hingga Singapura, Ini Gejalanya",
+          "url": "https://nationalgeographic.grid.id/read/134430868/covid-19-varian-baru-sudah-menyebar-hingga-singapura-ini-gejalanya",
+          "source": "nationalgeographic.grid.id"
         },
         {
-          "title": "Mo Bamba News: Starting against Spurs",
-          "url": "https://www.rotowire.com/basketball/headlines/mo-bamba-news-starting-against-spurs-539286",
-          "source": "RotoWire"
+          "title": "Varian Baru COVID-PJ2.1 Muncul, Dokter Ungkap Gejala yang tak Boleh Diabaikan",
+          "url": "https://www.inilah.com/varian-baru-covid-pj2-1-muncul-dokter-ungkap-gejala-yang-tak-boleh-diabaikan",
+          "source": "Inilah.com"
         }
       ]
     },
     {
-      "title": "pengadilan",
-      "published": "Sun, 15 Nov 2026 16:00:00 -0800",
+      "title": "dejan lovren",
+      "published": "Sun, 15 Nov 2026 22:00:00 -0800",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "“£47 juta? Kenapa tidak?” Mantan bek tengah Liverpool Dejan Lovren mendesak klub menuntaskan transfer permanen pemain pinjaman Barcelona Ronald Araujo dengan harga murah",
+          "url": "https://www.goal.com/id/berita/gbp47-juta-kenapa-tidak-mantan-bek-tengah-liverpool-dejan-lovren-mendesak-klub-menuntaskan-transfer-permanen-pemain-pinjaman-barcelona-ronald-araujo-dengan-harga-murah/blt7901c6c1f7c5db82",
+          "source": "Goal.com"
+        },
+        {
+          "title": "Liverpool Didesak Permanenkan Araujo",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8754133/liverpool-didesak-permanenkan-araujo",
+          "source": "detikSport"
+        },
+        {
+          "title": "Nasib 5 Pemain Barcelona yang Dipinjamkan pada 2026/2027: Ronald Araujo Bersinar, Ter Stegen Bangkit",
+          "url": "https://www.bola.net/spanyol/nasib-5-pemain-barcelona-yang-dipinjamkan-pada-2026-2027-ronald-araujo-bersinar-ter-stegen-ba-c8b9fa.html",
+          "source": "Bola.net"
+        }
+      ]
+    },
+    {
+      "title": "mahkamah agung republik indonesia",
+      "published": "Sun, 15 Nov 2026 22:00:00 -0800",
       "traffic": "100+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
           "title": "Mahkamah Agung Republik Indonesia",
-          "url": "https://www.mahkamahagung.go.id/id/berita/7628/21-peserta-lulus-seleksi-calon-hakim-ad-hoc-pengadilan-tipikor-tahap-xxiv-tahun-2026",
+          "url": "https://www.mahkamahagung.go.id/id/berita/7634/melalui-rapat-pleno-kamar-ma-telah-hasilkan-576-rumusan-hukum",
           "source": "Mahkamah Agung"
         },
         {
-          "title": "Warga Poros Bukit Cincin Karimun Beri Apresiasi, Estu Raharjo ,SH., MH.Resmi Lolos Jadi Hakim Ad‑Hoc Tipikor Tingkat Banding",
-          "url": "https://otoritas.co.id/warga-poros-bukit-cincin-karimun-beri-apresiasi-estu-raharjo-sh-mh-resmi-lolos-jadi-hakim-ad-hoc-tipikor-tingkat-banding/",
-          "source": "otoritas.co.id"
+          "title": "Ini Arahan Ketua MA dalam Rapat Pleno Kamar MA 2026",
+          "url": "https://marinews.mahkamahagung.go.id/berita/ini-arahan-ketua-ma-dalam-rapat-pleno-kamar-ma-2026-0b4X",
+          "source": "Mahkamah Agung"
         },
         {
-          "title": "21 Peserta Lulus Seleksi Calon Hakim Ad Hoc Tipikor Tahap XXIV, Ini Daftarnya",
-          "url": "https://dandapala.com/article/detail/21-peserta-lulus-seleksi-calon-hakim-ad-hoc-tipikor-tahap-xxiv-ini-daftarnya",
-          "source": "Dandapala Digital"
+          "title": "Mahkamah Agung Republik Indonesia",
+          "url": "https://www.mahkamahagung.go.id/id/berita/7633/ketua-ma-buka-rapat-pleno-kamar-ke-15-perkuat-kesatuan-hukum-dan-konsistensi-putusan",
+          "source": "Mahkamah Agung"
         }
       ]
     },
     {
-      "title": "boeing",
-      "published": "Sun, 15 Nov 2026 15:50:00 -0800",
-      "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Boeing Is Handing 3 Businesses to Archer Aviation and Closing a $131 Billion F-15 Order. Here’s Which Stock Gets the Better Deal.",
-          "url": "https://www.fool.com/investing/2026/11/15/boeing-is-handing-3-businesses-to-archer-aviation-and-closing-a-131-billion-f-15-order-heres-which-stock-gets-the-better-deal/",
-          "source": "The Motley Fool"
-        },
-        {
-          "title": "Why Did Emirates Order The Boeing 777X And Not More Airbus A350s?",
-          "url": "https://simpleflying.com/why-did-emirates-order-more-boeing-777x-than-a350/",
-          "source": "Simple Flying"
-        },
-        {
-          "title": "Here's How The Airbus A350 Stacks Up Against Boeing's 777X For The Next Decade Of Long-Haul Flying",
-          "url": "https://simpleflying.com/airbus-a350-stacks-up-against-boeing-777x-next-decade-long-haul-flying/",
-          "source": "Simple Flying"
-        }
-      ]
-    },
-    {
-      "title": "quentin grimes",
-      "published": "Sun, 15 Nov 2026 15:50:00 -0800",
-      "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Injury Notes: Lakers, Mobley, Nets, Missi",
-          "url": "https://www.hoopsrumors.com/2026/11/injury-notes-lakers-mobley-nets-missi-butler.html",
-          "source": "Hoops Rumors"
-        },
-        {
-          "title": "\"The swelling has gone down a lot,\" Grimes said. \"It's …",
-          "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/13/the-swelling-has-gone-down-a-lot-grimes-said-its/92768920007/",
-          "source": "HoopsHype"
-        },
-        {
-          "title": "LAL: Dončić, Reaves, Thybulle, LaRavia, Kessler",
-          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-11/lal-doncic-reaves-thybulle-laravia-kessler",
-          "source": "NBC Sports"
-        }
-      ]
-    },
-    {
-      "title": "clippers vs hornets",
-      "published": "Sun, 15 Nov 2026 15:40:00 -0800",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Final Injury Report for Hornets-Clippers: Will Brandon Miller, Brandon Ingram Play?",
-          "url": "https://sports.yahoo.com/articles/final-injury-report-hornets-clippers-173000261.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "Charlotte faces Los Angeles, looks to stop road losing streak",
-          "url": "https://abcnews.com/Sports/wireStory/charlotte-faces-los-angeles-stop-road-losing-streak-138136959",
-          "source": "ABC News - Breaking News, Latest News and Videos"
-        },
-        {
-          "title": "Hornets Clippers Basketball",
-          "url": "https://www.corsicanadailysun.com/sports/national_sports/hornets-clippers-basketball/image_44fd0167-a1eb-573e-8a26-2164e0f82833.html",
-          "source": "Corsicana Daily Sun"
-        }
-      ]
-    },
-    {
-      "title": "weather",
-      "published": "Sun, 15 Nov 2026 15:30:00 -0800",
-      "traffic": "5000+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Dry week, rising temperatures to bring in new week",
-          "url": "https://www.fox13memphis.com/weather/dry-week-rising-temperatures-to-bring-in-new-week/article_5e86bb3e-0aae-11ee-ab9c-77bb6f469502.html",
-          "source": "FOX13 Memphis"
-        },
-        {
-          "title": "A warm Wednesday makes way for clearing skies overnight as a front passes through",
-          "url": "https://www.actionnews5.com/2026/11/11/warm-wednesday-makes-way-clearing-skies-overnight-front-passes-through/",
-          "source": "Action News 5"
-        },
-        {
-          "title": "DeSoto County Weather: Warming Trend, No Rain for 7 Days",
-          "url": "https://desotocountynews.com/mississippi-news/desoto-county-weather-warming-trend-dry/",
-          "source": "DeSoto County News"
-        }
-      ]
-    },
-    {
-      "title": "abdülkerim bardakcı",
-      "published": "Sun, 15 Nov 2026 15:30:00 -0800",
-      "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Sergen Yalçın: 'Umut ediyorum ilerisi daha güzel olacak'",
-          "url": "https://www.hurriyet.com.tr/sporarena/sergen-yalcin-umut-ediyorum-ilerisi-daha-guzel-olacak-43379585",
-          "source": "Hürriyet"
-        },
-        {
-          "title": "+#&[CANLI HD*] Frankreich Türkiye maçı TRT 1 izle 15 Kasım",
-          "url": "https://www.prpeak.com/classifieds/garage-sales/garage-sales/2173982",
-          "source": "Powell River Peak"
-        },
-        {
-          "title": "Fransa - Türkiye",
-          "url": "https://www.atv.com.tr/uluslar-ligi/fransa-turkiye/ozet/izle",
-          "source": "ATV"
-        }
-      ]
-    },
-    {
-      "title": "emiten",
-      "published": "Sun, 15 Nov 2026 15:30:00 -0800",
-      "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "DMAS Tebar Dividen Interim Rp1,4 Triliun, Raih Rp29 per Saham",
-          "url": "https://cetro.or.id/artikel/banjir-cuan-dividen-jumbo-dmas-rp1-4-triliun-yield-menggiurkan-di-tengah-penguatan-kinerja",
-          "source": "https://cetro.or.id/"
-        },
-        {
-          "title": "DMAS Bagikan Dividen Interim Rp1,39 Triliun",
-          "url": "https://demokratis.co.id/dmas-bagikan-dividen-interim-rp139-triliun",
-          "source": "Demokratis.co.id"
-        },
-        {
-          "title": "DMAS Bagikan Dividen Rp 1,39 Triliun dengan Yield 13,8%",
-          "url": "https://koridor.co.id/dmas-bagikan-dividen-139-triliun",
-          "source": "Koridor.co.id"
-        }
-      ]
-    },
-    {
-      "title": "celtics vs mavericks",
-      "published": "Sun, 15 Nov 2026 15:20:00 -0800",
+      "title": "hojlund",
+      "published": "Sun, 15 Nov 2026 21:50:00 -0800",
       "traffic": "500+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "Mavericks at Celtics preview: Cooper Flagg and Dallas look to end Boston’s five-game winning streak",
-          "url": "https://www.bostonglobe.com/2026/11/15/sports/celtics-mavericks-preview-for-november-15-2026/",
-          "source": "The Boston Globe"
+          "title": "Tanpa Cristiano Ronaldo Portugal Kalah Telak 1-4 dari Denmark",
+          "url": "https://tribratanews.polri.go.id/article/tanpa-cristiano-ronaldo-portugal-kalah-telak-1-4-dari-denmark",
+          "source": "Tribratanews"
         },
         {
-          "title": "Dallas Mavericks (7-6) at Boston Celtics (10-2) Game #13 11/15/26",
-          "url": "https://sports.yahoo.com/articles/dallas-mavericks-7-6-boston-200000817.html",
-          "source": "Yahoo Sports"
+          "title": "Awal Buruk Era Baru Portugal dan Argentina",
+          "url": "https://www.kompas.id/artikel/awal-buruk-era-baru-portugal-dan-argentina",
+          "source": "Kompas.id"
         },
         {
-          "title": "Rested Celtics Catch Flagg, Tired Mavs on Back-to-Back: Injury Report, 3 Keys, Prediction",
-          "url": "https://www.si.com/nba/celtics/onsi/rested-celtics-catch-flagg-tired-mavs-on-back-to-back-injury-report-3-keys-prediction-01m7g9s8crpj",
-          "source": "Sports Illustrated"
+          "title": "Apakah Jesus terprovokasi? Hojlund dukung Cristiano lewat pesan tak biasa usai menjatuhkan Portugal",
+          "url": "https://www.goal.com/id/berita/apakah-jesus-terprovokasi-hojlund-dukung-cristiano-lewat-pesan-tak-biasa-usai-menjatuhkan-portugal/bltbcea45de20eb00c2",
+          "source": "Goal.com"
+        }
+      ]
+    },
+    {
+      "title": "pramono anung",
+      "published": "Sun, 15 Nov 2026 21:30:00 -0800",
+      "traffic": "500+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Pramono Sudah Konsultasi dengan Pemerintah Pusat soal Penurunan Foto Gibran",
+          "url": "https://news.detik.com/berita/d-8754691/pramono-sudah-konsultasi-dengan-pemerintah-pusat-soal-penurunan-foto-gibran",
+          "source": "detikNews"
+        },
+        {
+          "title": "KDM Sayangkan Penurunan Sepihak Foto Wapres Gibran di Ruang Banggar DPRD Jabar, Ajak Berdemokrasi dengan Santun",
+          "url": "https://jabarprov.go.id/berita/kdm-sayangkan-penurunan-sepihak-foto-wapres-gibran-di-ruang-banggar-dprd-jabar-ajak-berd-26815",
+          "source": "Jabarprov"
+        },
+        {
+          "title": "Telanjur Cetak Ratusan Foto Gibran, Pedagang Rugi Rp 15 Juta: Enggak Nyangka Mundur",
+          "url": "https://megapolitan.kompas.com/read/2026/11/15/21271281/telanjur-cetak-ratusan-foto-gibran-pedagang-rugi-rp-15-juta-enggak",
+          "source": "Kompas.com"
+        }
+      ]
+    },
+    {
+      "title": "bahlil lahadalia",
+      "published": "Sun, 15 Nov 2026 21:10:00 -0800",
+      "traffic": "200+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Said Didu Balas Somasi Golkar, Kuasa Hukum: Tuduhan Bahlil Terlibat Penyadapan Salah Alamat",
+          "url": "https://www.gonews.co/berita/baca/2026/11/13/said-didu-balas-somasi-golkar-kuasa-hukum-tuduhan-bahlil-terlibat-penyadapan-salah-alamat",
+          "source": "GoNews.co"
+        },
+        {
+          "title": "Bahlil Lahadalia dan Ujian Loyalitas Politik: Golkar Bukan Sekoci Jokowi, Melainkan Mesin Kekuasan",
+          "url": "https://rakyatsumbar.id/bahlil-lahadalia-dan-ujian-loyalitas-politik-golkar-bukan-sekoci-jokowi-melainkan-mesin-kekuasan/",
+          "source": "rakyatsumbar.id"
+        },
+        {
+          "title": "Dugaan Penyadapan Presiden Prabowo Disorot, Nama Bahlil dan Tito Karnavian Ikut Terseret dalam Pemberitaan",
+          "url": "https://faktapers.id/2026/11/16/dugaan-penyadapan-presiden-prabowo-disorot-nama-bahlil-dan-tito-karnavian-ikut-terseret-dalam-pemberitaan/",
+          "source": "faktapers.id"
+        }
+      ]
+    },
+    {
+      "title": "doomsday",
+      "published": "Sun, 15 Nov 2026 20:50:00 -0800",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Avengers: Doomsday Will ‘Culminate A Quarter-Century Of Storytelling’ With The Original X-Men",
+          "url": "https://www.empireonline.com/movies/news/avengers-doomsday-culminate-original-x-men-exclusive/",
+          "source": "Empire"
+        },
+        {
+          "title": "‘Avengers: Doomsday’ Including the Original X-Men ‘Just Felt Right,’ Says Kevin Feige: It’s a ‘Fun Way to Culminate’ 25 Years",
+          "url": "https://variety.com/2026/film/news/kevin-feige-original-x-men-avengers-doomsday-1236948220/",
+          "source": "Variety"
+        },
+        {
+          "title": "‘Avengers: Doomsday’ Will Make the X-Men Worth It",
+          "url": "https://gizmodo.com/avengers-doomsday-will-make-the-x-men-worth-it-2000840107",
+          "source": "Gizmodo"
+        }
+      ]
+    },
+    {
+      "title": "felix gallardo",
+      "published": "Sun, 15 Nov 2026 20:40:00 -0800",
+      "traffic": "200+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Muere Miguel Ángel Félix Gallardo, el “Jefe de Jefes”",
+          "url": "https://mexiquensedigital.com/noticias/muere-miguel-angel-felix-gallardo-el-jefe-de-jefes/21_20261115180725_27285",
+          "source": "Sistema Mexiquense"
+        },
+        {
+          "title": "Caso “Kiki” Camarena: el crimen que cambió el combate al narco entre México y EU",
+          "url": "https://grupoanimal.mx/seguridad/caso-kiki-camarena-crimen-combate-narco-mexico-eu",
+          "source": "Grupo Animal"
+        },
+        {
+          "title": "Muere fundador del Cártel de Guadalajara en hospital mexicano",
+          "url": "https://www.prensa-latina.cu/2026/11/15/muere-fundador-del-cartel-de-guadalajara-en-hospital-mexicano/",
+          "source": "Prensa Latina"
         }
       ]
     }
