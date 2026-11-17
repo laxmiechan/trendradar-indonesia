@@ -1008,6 +1008,54 @@
           "traffic": "100+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-17T09:01:46.886773+00:00",
+      "trends_updated_at": "2026-11-17T08:58:58.846082+00:00",
+      "total_trends": 10,
+      "news_count": 21,
+      "topics": [
+        {
+          "title": "indonesia vs afghanistan u17",
+          "traffic": "1000+"
+        },
+        {
+          "title": "megaspeed",
+          "traffic": "200+"
+        },
+        {
+          "title": "tri adhianto",
+          "traffic": "100+"
+        },
+        {
+          "title": "batam",
+          "traffic": "100+"
+        },
+        {
+          "title": "penipuan",
+          "traffic": "500+"
+        },
+        {
+          "title": "cctv",
+          "traffic": "200+"
+        },
+        {
+          "title": "jkn",
+          "traffic": "100+"
+        },
+        {
+          "title": "warren buffett",
+          "traffic": "200+"
+        },
+        {
+          "title": "thomas frank",
+          "traffic": "200+"
+        },
+        {
+          "title": "mahkamah agung",
+          "traffic": "500+"
+        }
+      ]
     }
   ]
 }
