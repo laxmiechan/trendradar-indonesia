@@ -960,6 +960,54 @@
           "traffic": "200+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-17T01:03:05.713043+00:00",
+      "trends_updated_at": "2026-11-17T01:00:02.338031+00:00",
+      "total_trends": 10,
+      "news_count": 21,
+      "topics": [
+        {
+          "title": "pelicans vs warriors",
+          "traffic": "200+"
+        },
+        {
+          "title": "nets vs 76ers",
+          "traffic": "200+"
+        },
+        {
+          "title": "celtics vs magic",
+          "traffic": "200+"
+        },
+        {
+          "title": "cavaliers vs bulls",
+          "traffic": "200+"
+        },
+        {
+          "title": "barack obama",
+          "traffic": "100+"
+        },
+        {
+          "title": "brazil u20",
+          "traffic": "100+"
+        },
+        {
+          "title": "komisi pemberantasan korupsi republik indonesia",
+          "traffic": "200+"
+        },
+        {
+          "title": "singapura vs brazil",
+          "traffic": "100+"
+        },
+        {
+          "title": "perwira menengah",
+          "traffic": "200+"
+        },
+        {
+          "title": "maximilian mittelstädt",
+          "traffic": "100+"
+        }
+      ]
     }
   ]
 }
