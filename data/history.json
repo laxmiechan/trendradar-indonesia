@@ -1152,6 +1152,54 @@
           "traffic": "200+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-18T09:03:26.594839+00:00",
+      "trends_updated_at": "2026-11-18T09:01:07.269227+00:00",
+      "total_trends": 10,
+      "news_count": 21,
+      "topics": [
+        {
+          "title": "windy",
+          "traffic": "200+"
+        },
+        {
+          "title": "gta 6 countdown",
+          "traffic": "200+"
+        },
+        {
+          "title": "borneo vs manila digger",
+          "traffic": "100+"
+        },
+        {
+          "title": "shopee cup",
+          "traffic": "200+"
+        },
+        {
+          "title": "the remarried empress episode 7",
+          "traffic": "200+"
+        },
+        {
+          "title": "nitto atp finals",
+          "traffic": "1000+"
+        },
+        {
+          "title": "qeshm",
+          "traffic": "100+"
+        },
+        {
+          "title": "kementerian keuangan republik indonesia",
+          "traffic": "200+"
+        },
+        {
+          "title": "siam",
+          "traffic": "200+"
+        },
+        {
+          "title": "gareth bale",
+          "traffic": "200+"
+        }
+      ]
     }
   ]
 }
