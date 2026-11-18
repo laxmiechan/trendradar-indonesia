@@ -1104,6 +1104,54 @@
           "traffic": "2000+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-18T01:15:15.839750+00:00",
+      "trends_updated_at": "2026-11-18T01:12:49.809407+00:00",
+      "total_trends": 10,
+      "news_count": 21,
+      "topics": [
+        {
+          "title": "spurs vs pistons",
+          "traffic": "200+"
+        },
+        {
+          "title": "uruguay",
+          "traffic": "100+"
+        },
+        {
+          "title": "raptors vs knicks",
+          "traffic": "200+"
+        },
+        {
+          "title": "colombia vs",
+          "traffic": "100+"
+        },
+        {
+          "title": "argentina vs costa rica 2026",
+          "traffic": "1000+"
+        },
+        {
+          "title": "bahrain",
+          "traffic": "200+"
+        },
+        {
+          "title": "ecuador vs bolivia",
+          "traffic": "100+"
+        },
+        {
+          "title": "craig bellamy",
+          "traffic": "500+"
+        },
+        {
+          "title": "ekuador vs bolivia",
+          "traffic": "200+"
+        },
+        {
+          "title": "penusukan",
+          "traffic": "200+"
+        }
+      ]
     }
   ]
 }
