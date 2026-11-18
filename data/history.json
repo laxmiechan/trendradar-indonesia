@@ -1200,6 +1200,54 @@
           "traffic": "200+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-18T17:59:23.791940+00:00",
+      "trends_updated_at": "2026-11-18T17:56:58.579816+00:00",
+      "total_trends": 10,
+      "news_count": 21,
+      "topics": [
+        {
+          "title": "suku bunga bi rate",
+          "traffic": "10000+"
+        },
+        {
+          "title": "häcken vs manchester city w.f.c.",
+          "traffic": "500+"
+        },
+        {
+          "title": "real madrid femenino vs inter milan",
+          "traffic": "2000+"
+        },
+        {
+          "title": "the body netflix",
+          "traffic": "200+"
+        },
+        {
+          "title": "anne hathaway",
+          "traffic": "200+"
+        },
+        {
+          "title": "livy renata",
+          "traffic": "500+"
+        },
+        {
+          "title": "terikat janji rcti malam ini",
+          "traffic": "500+"
+        },
+        {
+          "title": "line of duty",
+          "traffic": "200+"
+        },
+        {
+          "title": "pkh tahap 4 2026 kapan cair?",
+          "traffic": "1000+"
+        },
+        {
+          "title": "terikat janji rcti",
+          "traffic": "200+"
+        }
+      ]
     }
   ]
 }
