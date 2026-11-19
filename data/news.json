@@ -1,155 +1,113 @@
 {
-  "updated_at": "2026-11-16T07:09:58.405162+00:00",
-  "fetched_at": "2026-11-16T07:09:58.405162+00:00",
-  "latest_seen_at": "2026-11-15T07:45:00+00:00",
+  "updated_at": "2026-11-19T00:11:35.650352+00:00",
+  "fetched_at": "2026-11-19T00:11:35.650352+00:00",
+  "latest_seen_at": "2026-11-18T17:30:00+00:00",
   "search_window_hours": 24,
-  "total_news": 21,
+  "total_news": 15,
   "articles": [
     {
-      "title": "Sasar Pencari Kerja , Dicoding - IBM Buka 40 . 000 Beasiswa AI",
-      "url": "https://www.merdeka.com/uang/read/8335591/sasar-pencari-kerja-dicoding-ibm-buka-40000-beasiswa-ai",
-      "source": "merdeka.com",
-      "published": "20261115T074500Z",
+      "title": "UNG dan IPDN Jajaki Kerja Sama Strategis Penguatan Tri Dharma Perguruan Tinggi",
+      "url": "https://news.republika.co.id/berita/topj8h2130000/ung-dan-ipdn-jajaki-kerja-sama-strategis-penguatan-tri-dharma-perguruan-tinggi",
+      "source": "news.republika.co.id",
+      "published": "20261118T173000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Zulhas : Wapres Pengganti Gibran dari Gerindra : Okezone News",
-      "url": "https://news.okezone.com/read/2026/11/15/337/3254154/zulhas-wapres-pengganti-gibran-dari-gerindra",
-      "source": "news.okezone.com",
-      "published": "20261115T074500Z",
+      "title": "AS Bakal Batasi Ekspor Cip ke China usai Skandal NVIDIA",
+      "url": "https://www.viva.co.id/berita/dunia/1944698-as-bakal-batasi-ekspor-cip-ke-china-usai-skandal-nvidia",
+      "source": "viva.co.id",
+      "published": "20261118T173000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Sempat Terpuruk , Petani Stroberi di Garut Bangkit dan Kembangkan Usaha Berkat Dukungan BRI",
-      "url": "https://www.merdeka.com/uang/read/8335594/sempat-terpuruk-petani-stroberi-di-garut-bangkit-dan-kembangkan-usaha-berkat-dukungan-bri",
-      "source": "merdeka.com",
-      "published": "20261115T074500Z",
+      "title": "Jumpscare Film Horor Bisa Picu Detak Jantung Meningkat Mendadak",
+      "url": "https://kesehatan.liputan6.com/info-sehat/read/8337049/jumpscare-film-horor-bisa-picu-detak-jantung-meningkat-mendadak",
+      "source": "kesehatan.liputan6.com",
+      "published": "20261118T011500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Bank BSN dan Muhammadiyah Rilis KPR RumahMU , Dukung Target 73 . 700 Unit Subsidi",
-      "url": "https://keuangan.kontan.co.id/news/bank-bsn-dan-muhammadiyah-rilis-kpr-rumahmu-dukung-target-73700-unit-subsidi",
-      "source": "keuangan.kontan.co.id",
-      "published": "20261115T074500Z",
+      "title": "Bantah Peras WNA , Silmy Karim Klaim Hentikan Pungli",
+      "url": "https://www.liputan6.com/news/read/8337341/bantah-peras-wna-silmy-karim-klaim-hentikan-pungli",
+      "source": "liputan6.com",
+      "published": "20261118T011500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Ruben Onsu Pantau Perkembangan 3 Kasus Hukum Betrand Peto lewat WAG : Okezone Celebrity",
-      "url": "https://celebrity.okezone.com/read/2026/11/15/33/3254112/ruben-onsu-pantau-perkembangan-3-kasus-hukum-betrand-peto-lewat-wag",
-      "source": "celebrity.okezone.com",
-      "published": "20261115T074500Z",
+      "title": "Prabowo Ingatkan Dampak Luas Konflik di Indo - Pasifik",
+      "url": "https://www.liputan6.com/news/read/8337348/prabowo-ingatkan-dampak-luas-konflik-di-indo-pasifik",
+      "source": "liputan6.com",
+      "published": "20261118T011500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Nadira Shafa Minta Maaf usai Dihujat karena Sebut Tuhan Egois : Okezone Celebrity",
-      "url": "https://celebrity.okezone.com/read/2026/11/15/33/3254130/nadira-shafa-minta-maaf-usai-dihujat-karena-sebut-tuhan-egois",
-      "source": "celebrity.okezone.com",
-      "published": "20261115T074500Z",
+      "title": "Sejarah UI , Tadinya di Ciputat Jadi Pindah ke Depok",
+      "url": "https://berita.liputan6.com/peristiwa/read/8337296/sejarah-ui-tadinya-di-ciputat-jadi-pindah-ke-depok",
+      "source": "berita.liputan6.com",
+      "published": "20261118T011500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Perasaan Justin Hubner Campur Aduk Sambut Kehamilan Jennifer Coppen , Ungkap Rasa Syukur Mendalam : Okezone Bola",
-      "url": "https://bola.okezone.com/read/2026/11/15/51/3254142/perasaan-justin-hubner-campur-aduk-sambut-kehamilan-jennifer-coppen-ungkap-rasa-syukur-mendalam",
-      "source": "bola.okezone.com",
-      "published": "20261115T074500Z",
+      "title": "Google Tutup 19 . 372 Kanal YouTube Pro Pemerintah Indonesia , Begini Polanya",
+      "url": "https://www.liputan6.com/tekno/read/8337361/google-tutup-19372-kanal-youtube-pro-pemerintah-indonesia-begini-polanya",
+      "source": "liputan6.com",
+      "published": "20261118T011500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Gerindra Sumbar hingga Sumut Usung Sufmi Dasco Jadi Wapres",
-      "url": "https://www.merdeka.com/politik/read/8335634/gerindra-sumbar-hingga-sumut-usung-sufmi-dasco-jadi-wapres",
-      "source": "merdeka.com",
-      "published": "20261115T074500Z",
+      "title": "Kumpulan Sholawat Rajab Teks Arab Latin Arti , Syafaat di Hari Kiamat dan Terbukanya Pintu Surga",
+      "url": "https://www.liputan6.com/islami/read/8336585/kumpulan-sholawat-rajab-teks-arab-latin-arti-syafaat-di-hari-kiamat-dan-terbukanya-pintu-surga",
+      "source": "liputan6.com",
+      "published": "20261118T011500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Gerindra Banten Dukung Sufmi Dasco Ahmad Jadi Wapres Prabowo",
-      "url": "https://www.merdeka.com/politik/read/8335629/gerindra-banten-dukung-sufmi-dasco-ahmad-jadi-wapres-prabowo",
-      "source": "merdeka.com",
-      "published": "20261115T074500Z",
+      "title": "Dulu Jadi Kuli Kapal demi Kuliah , Kini Punya Harta Rp 20 Triliun",
+      "url": "https://www.liputan6.com/bisnis/read/8337144/dulu-jadi-kuli-kapal-demi-kuliah-kini-punya-harta-rp-20-triliun",
+      "source": "liputan6.com",
+      "published": "20261118T011500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Jadi Restoran , Bekas Vila Soekarno di Puncak Ternyata Milik Pribadi",
-      "url": "https://www.merdeka.com/uang/read/8335577/jadi-restoran-bekas-vila-soekarno-di-puncak-ternyata-milik-pribadi",
-      "source": "merdeka.com",
-      "published": "20261115T074500Z",
+      "title": "Olahraga untuk Cegah Burnout , Kenali Aturan 25 – 30 yang Bisa Diterapkan Setiap Hari",
+      "url": "https://www.liputan6.com/lifestyle/read/8336073/olahraga-untuk-cegah-burnout-kenali-aturan-2530-yang-bisa-diterapkan-setiap-hari",
+      "source": "liputan6.com",
+      "published": "20261118T011500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Bekas Vila Soekarno di Puncak Jadi Restoran , Bupati Bogor Buka Suara",
-      "url": "https://www.merdeka.com/peristiwa/read/8335564/bekas-vila-soekarno-di-puncak-jadi-restoran-bupati-bogor-buka-suara",
-      "source": "merdeka.com",
-      "published": "20261115T074500Z",
+      "title": "Cerita Pilu Musofa , Badak Jawa yang Tak Selamat di Habitat Baru",
+      "url": "https://www.liputan6.com/news/read/8337182/cerita-pilu-musofa-badak-jawa-yang-tak-selamat-di-habitat-baru",
+      "source": "liputan6.com",
+      "published": "20261118T011500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Hari Terakhir Pertamina SMEXPO 2026 , Belanja UMKM Dapat Hadiah",
-      "url": "https://www.merdeka.com/uang/read/8335600/hari-terakhir-pertamina-smexpo-2026-belanja-umkm-dapat-hadiah",
-      "source": "merdeka.com",
-      "published": "20261115T074500Z",
+      "title": "Prediksi IHSG dan Rekomendasi Saham 18 November 2026",
+      "url": "https://www.liputan6.com/saham/read/8337353/prediksi-ihsg-dan-rekomendasi-saham-18-november-2026",
+      "source": "liputan6.com",
+      "published": "20261118T011500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Durasi tayangan Ko Kyung Pyo dikurangi usai mengemudi saat mabuk",
-      "url": "https://www.antaranews.com/berita/5855459/durasi-tayangan-ko-kyung-pyo-dikurangi-usai-mengemudi-saat-mabuk",
-      "source": "antaranews.com",
-      "published": "20261115T074500Z",
+      "title": "Top 3 : Harga Emas Anjlok",
+      "url": "https://www.liputan6.com/bisnis/read/8337257/top-3-harga-emas-anjlok",
+      "source": "liputan6.com",
+      "published": "20261118T011500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Gerebek Kampung Ambon , Polisi Tangkap 5 Pria Positif Sabu",
-      "url": "https://www.merdeka.com/peristiwa/read/8335605/gerebek-kampung-ambon-polisi-tangkap-5-pria-positif-sabu",
-      "source": "merdeka.com",
-      "published": "20261115T074500Z",
+      "title": "Serangan di Selat Hormuz Dorong Harga Minyak Dunia",
+      "url": "https://www.liputan6.com/bisnis/read/8337362/serangan-di-selat-hormuz-dorong-harga-minyak-dunia",
+      "source": "liputan6.com",
+      "published": "20261118T011500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Panitia harapkan peserta Junior Series dari luar negeri kian banyak",
-      "url": "https://www.antaranews.com/berita/5855455/panitia-harapkan-peserta-junior-series-dari-luar-negeri-kian-banyak",
-      "source": "antaranews.com",
-      "published": "20261115T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Gerindra Jambi : Sufmi Dasco layak dipertimbangkan jadi Wapres",
-      "url": "https://www.antaranews.com/berita/5855447/gerindra-jambi-sufmi-dasco-layak-dipertimbangkan-jadi-wapres",
-      "source": "antaranews.com",
-      "published": "20261115T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Heboh Bupati Kupang Yosef Lede Diduga Perkosa Mahasiswi , Gerindra : Kita Akan Pecat ! : Okezone News",
-      "url": "https://news.okezone.com:443/read/2026/11/15/337/3254117/heboh-bupati-kupang-yosef-lede-diduga-perkosa-mahasiswi-gerindra-kita-akan-pecat",
-      "source": "news.okezone.com",
-      "published": "20261115T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Koreksi Harga Emas Jadi Peluang Akumulasi Bertahap , Simak Proyeksi Akhir 2026",
-      "url": "https://insight.kontan.co.id/news/koreksi-harga-emas-jadi-peluang-akumulasi-bertahap-simak-proyeksi-akhir-2026",
-      "source": "insight.kontan.co.id",
-      "published": "20261115T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Pemkab Bangli tebarkan nilai patriotisme pahlawan I Gusti Ngurah Rai",
-      "url": "https://www.antaranews.com/berita/5855439/pemkab-bangli-tebarkan-nilai-patriotisme-pahlawan-i-gusti-ngurah-rai",
-      "source": "antaranews.com",
-      "published": "20261115T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Fundamental Kuat dan Kas Rp 3 , 678 Triliun Topang Dividen AVIA Usai Keluar dari MSCI",
-      "url": "https://insight.kontan.co.id/news/fundamental-kuat-dan-kas-rp-3678-triliun-topang-dividen-avia-usai-keluar-dari-msci",
-      "source": "insight.kontan.co.id",
-      "published": "20261115T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Cegah Lonjakan NPL Akibat Bencana , Bank Siapkan Restrukturisasi dan Cadangan",
-      "url": "https://keuangan.kontan.co.id/news/cegah-lonjakan-npl-akibat-bencana-bank-siapkan-restrukturisasi-dan-cadangan",
-      "source": "keuangan.kontan.co.id",
-      "published": "20261115T074500Z",
+      "title": "Ada Lowongan Kerja di Traktor Nusantara , Lulusan Baru Bisa Melamar",
+      "url": "https://www.liputan6.com/bisnis/read/8337104/ada-lowongan-kerja-di-traktor-nusantara-lulusan-baru-bisa-melamar",
+      "source": "liputan6.com",
+      "published": "20261118T011500Z",
       "language": "Indonesian"
     }
   ]

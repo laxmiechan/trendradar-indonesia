@@ -1248,6 +1248,54 @@
           "traffic": "200+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-19T00:13:56.616994+00:00",
+      "trends_updated_at": "2026-11-19T00:11:35.573691+00:00",
+      "total_trends": 10,
+      "news_count": 15,
+      "topics": [
+        {
+          "title": "magic vs 76ers",
+          "traffic": "200+"
+        },
+        {
+          "title": "peringkat",
+          "traffic": "200+"
+        },
+        {
+          "title": "gemini neon",
+          "traffic": "100+"
+        },
+        {
+          "title": "remo vs chapecoense",
+          "traffic": "200+"
+        },
+        {
+          "title": "flamengo vs atlético paranaense",
+          "traffic": "500+"
+        },
+        {
+          "title": "cruzeiro vs palmeiras",
+          "traffic": "200+"
+        },
+        {
+          "title": "harga emas antam hari ini",
+          "traffic": "100+"
+        },
+        {
+          "title": "brazil serie a",
+          "traffic": "200+"
+        },
+        {
+          "title": "prakiraan cuaca hari ini",
+          "traffic": "500+"
+        },
+        {
+          "title": "hujan",
+          "traffic": "200+"
+        }
+      ]
     }
   ]
 }
