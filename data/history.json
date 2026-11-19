@@ -1296,6 +1296,54 @@
           "traffic": "200+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-19T07:52:06.469298+00:00",
+      "trends_updated_at": "2026-11-19T07:49:27.972280+00:00",
+      "total_trends": 10,
+      "news_count": 15,
+      "topics": [
+        {
+          "title": "thunderstorm warning",
+          "traffic": "200+"
+        },
+        {
+          "title": "menang untuk kalah",
+          "traffic": "100+"
+        },
+        {
+          "title": "joe hart",
+          "traffic": "100+"
+        },
+        {
+          "title": "apec",
+          "traffic": "100+"
+        },
+        {
+          "title": "deco",
+          "traffic": "100+"
+        },
+        {
+          "title": "pangkat bintang empat",
+          "traffic": "2000+"
+        },
+        {
+          "title": "msci standalone",
+          "traffic": "500+"
+        },
+        {
+          "title": "josh green",
+          "traffic": "100+"
+        },
+        {
+          "title": "sanae takaichi",
+          "traffic": "200+"
+        },
+        {
+          "title": "sinetron terikat janji rcti",
+          "traffic": "2000+"
+        }
+      ]
     }
   ]
 }
