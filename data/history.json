@@ -1344,6 +1344,54 @@
           "traffic": "2000+"
         }
       ]
+    },
+    {
+      "timestamp": "2026-11-19T17:17:35.750426+00:00",
+      "trends_updated_at": "2026-11-19T17:15:30.054985+00:00",
+      "total_trends": 10,
+      "news_count": 2,
+      "topics": [
+        {
+          "title": "the body netflix",
+          "traffic": "100+"
+        },
+        {
+          "title": "hunger games 2023",
+          "traffic": "200+"
+        },
+        {
+          "title": "iphone 20",
+          "traffic": "500+"
+        },
+        {
+          "title": "al ain vs al dhafra",
+          "traffic": "500+"
+        },
+        {
+          "title": "hotel mumbai",
+          "traffic": "500+"
+        },
+        {
+          "title": "cong an hanoi fc",
+          "traffic": "100+"
+        },
+        {
+          "title": "mudryk",
+          "traffic": "200+"
+        },
+        {
+          "title": "kabinet",
+          "traffic": "100+"
+        },
+        {
+          "title": "al wasl",
+          "traffic": "100+"
+        },
+        {
+          "title": "anthropic stock",
+          "traffic": "2000+"
+        }
+      ]
     }
   ]
 }

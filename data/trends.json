@@ -1,234 +1,219 @@
 {
-  "updated_at": "2026-11-19T07:49:27.972280+00:00",
+  "updated_at": "2026-11-19T17:15:30.054985+00:00",
   "total_trends": 10,
   "trends": [
     {
-      "title": "thunderstorm warning",
-      "published": "Wed, 18 Nov 2026 23:30:00 -0800",
+      "title": "the body netflix",
+      "published": "Thu, 19 Nov 2026 08:30:00 -0800",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Daftar 10 Pemain The Body, Serial Horor Terbaru di Netflix",
+          "url": "https://www.idntimes.com/hype/entertainment/daftar-pemain-the-body-q9t01-00-6sxgf-wpjtrq",
+          "source": "IDN Times"
+        },
+        {
+          "title": "Sinopsis The Body Netflix dan Daftar Pemainnya, Sudah Nonton?",
+          "url": "https://www.popbela.com/lifestyle/news/sinopsis-the-body-netflix-n3v01-00-3hqh1-qgxztf",
+          "source": "Popbela.com"
+        },
+        {
+          "title": "The Body Raih Peringkat 6 di Seri Teratas Netflix Indonesia, Ini Alur dan Detail Penting Ceritanya",
+          "url": "https://radarbatu.jawapos.com/lifestyle/2611180005/the-body-raih-peringkat-6-di-seri-teratas-netflix-indonesia-ini-alur-dan-detail-penting-ceritanya",
+          "source": "Radar Batu"
+        }
+      ]
+    },
+    {
+      "title": "hunger games 2023",
+      "published": "Thu, 19 Nov 2026 08:30:00 -0800",
       "traffic": "200+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "Severe Thunderstorm Warning issued for parts of San Mateo County",
-          "url": "https://abc7news.com/live-updates/live-bay-area-storm-updates-tornado-warning-issued-santa-cruz-county-waterspouts-spotted-san-francisco/20045464/entry/20051983/",
-          "source": "ABC7 Bay Area"
+          "title": "‘The Hunger Games: Sunrise on the Reaping’ Review: Not as Deadly as ‘Songbirds & Snakes,’ the Haymitch Origin Story Makes for a Watchable if Meandering Prequel",
+          "url": "https://variety.com/2026/film/reviews/the-hunger-games-sunrise-on-the-reaping-review-1236944341/",
+          "source": "Variety"
         },
         {
-          "title": "Half Moon Bay trees fall and block highway in Bay Area storm",
-          "url": "https://www.kron4.com/news/bay-area/half-moon-bay-trees-fall-and-block-highway-in-bay-area-storm/",
-          "source": "KRON4"
+          "title": "'The Hunger Games: Sunrise on the Reaping' Review: A Rousing Prequel",
+          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/the-hunger-games-sunrise-on-the-reaping-review-joseph-zada-1236755773/",
+          "source": "The Hollywood Reporter"
         },
         {
-          "title": "UPDATE: The current severe thunderstorm warning for San Mateo County will expire at 11 a.m.",
-          "url": "https://www.mercedsunstar.com/news/weather-news/article318141098.html",
-          "source": "Merced Sun-Star"
+          "title": "‘Hunger Games’ Is About to Score a Huge Box Office Opening, ‘GTA VI’ or Not",
+          "url": "https://www.thewrap.com/creative-content/movies/hunger-games-box-office-preview/",
+          "source": "TheWrap"
         }
       ]
     },
     {
-      "title": "menang untuk kalah",
-      "published": "Wed, 18 Nov 2026 23:10:00 -0800",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Sinopsis Film Menang untuk Kalah, Kisah Keluarga yang Terdampak Judi Online",
-          "url": "https://radarmalang.jawapos.com/lifestyle/2611190019/sinopsis-film-menang-untuk-kalah-kisah-keluarga-yang-terdampak-judi-online",
-          "source": "Radar Malang"
-        },
-        {
-          "title": "Angkat Bahaya Judi Online, Film Menang untuk Kalah Sapa Penonton Bandung",
-          "url": "https://beritakbb.pikiran-rakyat.com/hiburan/pr-9610565139/angkat-bahaya-judi-online-film-menang-untuk-kalah-sapa-penonton-bandung",
-          "source": "Berita KBB"
-        },
-        {
-          "title": "Film Menang untuk Kalah tayang 19 November, Angkat isu jeratan judol dan pinjol",
-          "url": "https://jabar.antaranews.com/berita/719915/film-menang-untuk-kalah-tayang-19-november-angkat-isu-jeratan-judol-dan-pinjol",
-          "source": "ANTARA News Jawa Barat"
-        }
-      ]
-    },
-    {
-      "title": "joe hart",
-      "published": "Wed, 18 Nov 2026 22:50:00 -0800",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Simpati Joe Hart ke Donnarumma",
-          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8758275/simpati-joe-hart-ke-donnarumma",
-          "source": "detikSport"
-        },
-        {
-          "title": "Apa yang mengganggu Marc Guehi dan Gianluigi Donnarumma? Eks kapten Man City Richard Dunne jelaskan kesalahan tak biasa mereka, Pep Guardiola turut disalahkan",
-          "url": "https://www.goal.com/id/berita/apa-yang-mengganggu-marc-guehi-dan-gianluigi-donnarumma-eks-kapten-man-city-richard-dunne-jelaskan-kesalahan-tak-biasa-mereka-pep-guardiola-turut-disalahkan/blt72a73fddfa65cb91",
-          "source": "Goal.com"
-        },
-        {
-          "title": "Gianluigi Donnarumma Catat Empat Kesalahan, Joe Hart Nilai Ia Tetap Kiper Terbaik",
-          "url": "https://gadget.qoo10.co.id/news/gianluigi-donnarumma-empat-kesalahan-joe-hart-2/",
-          "source": "gadget.qoo10.co.id"
-        }
-      ]
-    },
-    {
-      "title": "apec",
-      "published": "Wed, 18 Nov 2026 22:20:00 -0800",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Villa Where Trump, Xi and Putin Will Meet Once Hosted Kim Jong-il",
-          "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin-kylin-villa.html",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Nuclear arms and ending wars in Iran and Ukraine will top the agenda at Trump-Xi-Putin meeting",
-          "url": "https://thehill.com/homenews/ap/ap-international/ap-nuclear-arms-and-ending-wars-in-iran-and-ukraine-will-top-the-agenda-at-trump-xi-putin-meeting/",
-          "source": "The Hill"
-        },
-        {
-          "title": "Russia and China are not America’s friends. Why does Trump think they are?",
-          "url": "https://www.cnn.com/2026/11/18/politics/trump-china-russia-putin-xi",
-          "source": "CNN"
-        }
-      ]
-    },
-    {
-      "title": "deco",
-      "published": "Wed, 18 Nov 2026 22:10:00 -0800",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Do Barcelona really value Frenkie de Jong?",
-          "url": "https://www.nytimes.com/athletic/7791744/2026/11/18/barcelona-de-jong-atletico-flick-value/",
-          "source": "The New York Times"
-        },
-        {
-          "title": "Deco assesses Araujo’s future, De Jong’s injury, Rodri’s signing, Raphinha and Schlotterbeck",
-          "url": "https://sports.yahoo.com/articles/deco-assesses-araujo-future-jong-072000211.html",
-          "source": "Yahoo Sports"
-        },
-        {
-          "title": "'Nobody is angry with him' - Barcelona sporting director Deco insists club never imposed surgery on Frenkie de Jong after World Cup knee injury",
-          "url": "https://www.goal.com/en/news/deco-insists-barcelona-did-not-pressure-frenkie-de-jong-into-surgery/blt5ed6415b3e68b111",
-          "source": "Goal.com"
-        }
-      ]
-    },
-    {
-      "title": "pangkat bintang empat",
-      "published": "Wed, 18 Nov 2026 21:50:00 -0800",
-      "traffic": "2000+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Terbukti Langgar Etik Kasus Penyadapan, EHS Dipecat dari Polri",
-          "url": "https://tribratanews.polri.go.id/article/terbukti-langgar-etik-kasus-penyadapan-ehs-dipecat-dari-polri",
-          "source": "Tribratanews"
-        },
-        {
-          "title": "Kapolri Terbitkan Aturan Baru Jelang Sidang Etik Jenderal Listyo Sigit",
-          "url": "https://news.detik.com/berita/d-8758732/kapolri-terbitkan-aturan-baru-jelang-sidang-etik-jenderal-listyo-sigit",
-          "source": "detikNews"
-        },
-        {
-          "title": "Eko Hadi Santoso Dipecat, Sidang Etik Listyo Dinanti",
-          "url": "https://www.kompas.id/artikel/eko-hadi-santoso-dipecat-sidang-etik-listyo-menanti",
-          "source": "Kompas.id"
-        }
-      ]
-    },
-    {
-      "title": "msci standalone",
-      "published": "Wed, 18 Nov 2026 21:40:00 -0800",
+      "title": "iphone 20",
+      "published": "Thu, 19 Nov 2026 07:50:00 -0800",
       "traffic": "500+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "Pasar Saham RI Kian tak Berarti, Market Cap MSCI Indonesia Kalah Jauh dari Vietnam",
-          "url": "https://insight.kontan.co.id/news/pasar-saham-ri-kian-tak-berarti-market-cap-msci-indonesia-kalah-jauh-dari-vietnam",
-          "source": "KONTAN"
+          "title": "What Leaks Reveal About Apple's iPhone 20 Pro Design",
+          "url": "https://en.tempo.co/read/2123828/what-leaks-reveal-about-apples-iphone-20-pro-design",
+          "source": "Tempo.co English"
         },
         {
-          "title": "FSA Jepang Sambangi OJK, Bahas Transparansi Indeks MSCI - kumparan.com",
-          "url": "https://kumparan.com/kumparanbisnis/fsa-jepang-sambangi-ojk-bahas-transparansi-indeks-msci-28b5gqAdiRe",
-          "source": "kumparan"
-        },
-        {
-          "title": "Jika RI Standalone MSCI, Dana Asing US$8–11 Miliar Bisa Dialihkan",
-          "url": "https://www.bareksa.com/berita/saham/2026-11-17/jika-ri-standalone-msci-dana-asing-us811-miliar-bisa-dialihkan",
-          "source": "Bareksa.com"
+          "title": "iPhone 20 Pro Could Return to Titanium Frame, Leaker Says",
+          "url": "https://journalarta.com/en/2026/11/19/iphone-20-pro-titanium-frame-rumor/",
+          "source": "JournalArta"
         }
       ]
     },
     {
-      "title": "josh green",
-      "published": "Wed, 18 Nov 2026 21:40:00 -0800",
+      "title": "al ain vs al dhafra",
+      "published": "Thu, 19 Nov 2026 07:30:00 -0800",
+      "traffic": "500+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Today's matches and broadcast channels: Al Ain vs Al Dhafra and anticipated matches in the Egyptian Cup",
+          "url": "https://www.voiceofemirates.com/en/sport/2026/11/19/todays-matches-and-broadcast-channels-al-ain-vs-al-dhafra-and-anticipated-matches-in-the-egyptian-cup/",
+          "source": "صوت الإمارات"
+        }
+      ]
+    },
+    {
+      "title": "hotel mumbai",
+      "published": "Thu, 19 Nov 2026 07:30:00 -0800",
+      "traffic": "500+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Sinopsis Hotel Mumbai, Dibintangi Dev Patel dan Armie Hammer",
+          "url": "https://wolipop.detik.com/entertainment-news/d-8760185/sinopsis-hotel-mumbai-dibintangi-dev-patel-dan-armie-hammer",
+          "source": "Wolipop"
+        },
+        {
+          "title": "Sinopsis Aftermath (2024), Bioskop Trans TV 19 November 2026",
+          "url": "https://www.cnnindonesia.com/hiburan/20261119114016-220-1428928/sinopsis-aftermath-2024-bioskop-trans-tv-19-november-2026",
+          "source": "CNN Indonesia"
+        },
+        {
+          "title": "Sinopsis Film Aftermath: Dylan Sprouse Beraksi Selamatkan Sandera di Jembatan Tobin",
+          "url": "https://www.inforiau.co/sinopsis-film-aftermath-dylan-sprouse-beraksi-selamatkan-sandera-di-jembatan-tobin-20046",
+          "source": "Inforiau"
+        }
+      ]
+    },
+    {
+      "title": "cong an hanoi fc",
+      "published": "Thu, 19 Nov 2026 07:20:00 -0800",
       "traffic": "100+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "Josh Green Scores Nine Points in Jazz Win Over Clippers",
-          "url": "https://peradaban.id/en/josh-green-jazz-clippers-win",
-          "source": "Peradaban.id"
+          "title": "Cúp các CLB Đông Nam Á: CLB Công an Hà Nội thua ngược Johor Darul Ta'zim",
+          "url": "https://baoxaydung.vn/cup-cac-clb-dong-nam-a-clb-cong-an-ha-noi-thua-nguoc-johor-darul-tazim-19226111921511744.htm",
+          "source": "Báo Xây dựng"
         },
         {
-          "title": "Jalen Green plays well in win Monday",
-          "url": "https://www.fantasypros.com/nba/news/620723/jalen-green-plays-well-win-monday.php",
-          "source": "FantasyPros"
+          "title": "HLV Polking: 'Không có thời gian khóc lóc đâu'",
+          "url": "https://znews.vn/hlv-polking-khong-co-thoi-gian-khoc-loc-dau-post1697703.html",
+          "source": "Znews"
         },
         {
-          "title": "Jazz's Josh Green: Efficient shooting in limited minutes",
-          "url": "https://www.cbssports.com/fantasy/basketball/news/jazzs-josh-green-efficient-shooting-in-limited-minutes/",
-          "source": "CBS Sports"
+          "title": "Công An Hà Nội thua ngược đại diện Malaysia trong trận cầu quá 'đen đủi'",
+          "url": "https://tin.skydoor.net/news/the-thao-cong-an-ha-noi-thua-nguoc-dai-dien-malaysia-trong-tran-cau-8442370",
+          "source": "tin.skydoor.net"
         }
       ]
     },
     {
-      "title": "sanae takaichi",
-      "published": "Wed, 18 Nov 2026 21:20:00 -0800",
+      "title": "mudryk",
+      "published": "Thu, 19 Nov 2026 07:10:00 -0800",
       "traffic": "200+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "China gives Japan PM frosty welcome at Apec amid fanfare for other leaders",
-          "url": "https://www.theguardian.com/world/2026/nov/19/china-gives-japan-pm-frosty-welcome-apec",
-          "source": "The Guardian"
+          "title": "Mudryk: Ukraina Penyebab Saya Diskors, Saya Sempat Berpikir untuk Bunuh Diri",
+          "url": "https://www.goal.com/id/berita/mudryk-ukraina-penyebab-saya-diskors-saya-sempat-berpikir-untuk-bunuh-diri/blt298cb2dd852506e9",
+          "source": "Goal.com"
         },
         {
-          "title": "Takaichi and Xi exchange warm greetings amid questions over diplomatic protocol",
-          "url": "https://www.japantimes.co.jp/news/2026/11/19/japan/politics/xi-takaichi-apec-greeting-protocol/",
-          "source": "The Japan Times"
+          "title": "Mudryk Salahkan Timnas Ukraina atas Kasus Dopingnya",
+          "url": "https://sport.detik.com/sepakbola/liga-inggris/d-8760202/mudryk-salahkan-timnas-ukraina-atas-kasus-dopingnya",
+          "source": "detikSport"
         },
         {
-          "title": "Takaichi makes low-key arrival in Shenzhen after South Korea’s Lee greeted by dancers",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3374921/takaichi-makes-low-key-arrival-shenzhen-while-lee-greeted-dancers",
-          "source": "South China Morning Post"
+          "title": "Mudryk Blames Ukrainian FA for Failed Doping Test and Football Ban",
+          "url": "https://riaurealita.com/news/detail/35436/mudryk-blames-ukrainian-fa-for-failed-doping-test-and-football-ban",
+          "source": "riaurealita.com"
         }
       ]
     },
     {
-      "title": "sinetron terikat janji rcti",
-      "published": "Wed, 18 Nov 2026 21:10:00 -0800",
+      "title": "kabinet",
+      "published": "Thu, 19 Nov 2026 06:50:00 -0800",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Oppositie is argwanend bij doorstart coalitie: ‘Het is geen fundamentele reset. Het is fundamenteel vooruitschuiven’",
+          "url": "https://www.volkskrant.nl/politiek/oppositie-is-argwanend-bij-doorstart-coalitie-het-is-geen-fundamentele-reset-het-is-fundamenteel-vooruitschuiven~bca6cd21/",
+          "source": "de Volkskrant"
+        },
+        {
+          "title": "Ruzie in de regering weer opgelost",
+          "url": "https://www.kidsweek.nl/nieuws/ruzie-in-de-regering-weer-opgelost~af82839",
+          "source": "Kidsweek"
+        },
+        {
+          "title": "Inleidend statement persconferentie na ministerraad 17 november 2026",
+          "url": "https://www.rijksoverheid.nl/documenten/videos/2026/11/17/inleidend-statement-persconferentie-na-ministerraad-17-november-2026",
+          "source": "Rijksoverheid.nl"
+        }
+      ]
+    },
+    {
+      "title": "al wasl",
+      "published": "Thu, 19 Nov 2026 06:40:00 -0800",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Al Wasl Kalahkan Hatta 2-1 di Stadion Zabeel",
+          "url": "https://chatnews.id/al-wasl-kalahkan-hatta-stadion-zabeel",
+          "source": "ChatNews.id"
+        },
+        {
+          "title": "Al Wasl defeats Hatta 2-1 in ADNOC Pro League",
+          "url": "https://sharjah24.ae/en/Articles/2026/11/19/Al-Wasl-defeats-Hatta-2-1-in-ADNOC-Pro-League",
+          "source": "Sharjah24"
+        },
+        {
+          "title": "Al Wasl defeats Hatta and takes second place in the UAE Pro League (video)",
+          "url": "https://www.voiceofemirates.com/en/sport/2026/11/19/al-wasl-defeats-hatta-and-takes-second-place-in-the-uae-pro-league-video/",
+          "source": "صوت الإمارات"
+        }
+      ]
+    },
+    {
+      "title": "anthropic stock",
+      "published": "Thu, 19 Nov 2026 06:30:00 -0800",
       "traffic": "2000+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "Dari RCTI ke YouTube Shorts, Bagaimana Terikat Janji Menjangkau Penonton? - kumparan.com",
-          "url": "https://kumparan.com/farisakram907/dari-rcti-ke-youtube-shorts-bagaimana-terikat-janji-menjangkau-penonton-28YeLivnj85",
-          "source": "kumparan"
+          "title": "Stocks tumble as investors take profits following blockbuster Anthropic IPO: Live updates",
+          "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+          "source": "CNBC"
         },
         {
-          "title": "Terikat Janji Episode 221: Mayang Bongkar Identitas Sena ke Arman, Rahasia Besar Keluarga Henry Terancam",
-          "url": "https://www.satumedia.id/hiburan/35732/terikat-janji-episode-221-mayang-bongkar-identitas-sena-ke-arman-rahasia-besar-keluarga-henry-terancam/",
-          "source": "Satumedia.id"
+          "title": "Anthropic IPO live: Anthropic stock begins trading at $111.50 per share",
+          "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Terikat Janji Absen 2 Hari, Tayang Lagi 20 November",
-          "url": "https://journalarta.com/news/2026/11/19/terikat-janji-tidak-tayang-20-november-2026/",
-          "source": "JournalArta"
+          "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
+          "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
+          "source": "The New York Times"
         }
       ]
     }
