@@ -1,10 +1,25 @@
 {
-  "updated_at": "2026-11-20T06:58:53.550597+00:00",
+  "updated_at": "2026-11-20T16:03:43.529573+00:00",
   "categories": {
     "Politik": [],
     "Ekonomi": [],
     "Teknologi": [],
     "Olahraga": [],
-    "Entertainment": []
+    "Entertainment": [
+      {
+        "title": "Amar Bank : Tata kelola keuangan yang baik perluas kredit industri film",
+        "url": "https://www.antaranews.com/berita/5866959/amar-bank-tata-kelola-keuangan-yang-baik-perluas-kredit-industri-film",
+        "source": "antaranews.com",
+        "published": "20261120T064500Z",
+        "category": "Entertainment"
+      },
+      {
+        "title": "Wihaji : Golkar Beri Ruang Anak Muda untuk Berkreasi di Bidang Film",
+        "url": "https://www.viva.co.id/berita/nasional/1945048-wihaji-golkar-beri-ruang-anak-muda-untuk-berkreasi-di-bidang-film",
+        "source": "viva.co.id",
+        "published": "20261120T033000Z",
+        "category": "Entertainment"
+      }
+    ]
   }
 }

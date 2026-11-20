@@ -2,342 +2,6 @@
   "retention_days": 7,
   "snapshots": [
     {
-      "timestamp": "2026-11-13T07:10:03.549885+00:00",
-      "trends_updated_at": "2026-11-13T07:07:54.765588+00:00",
-      "total_trends": 10,
-      "news_count": 50,
-      "topics": [
-        {
-          "title": "kapan bsu 2026 cair?",
-          "traffic": "1000+"
-        },
-        {
-          "title": "cek bansos kemensos go id 2026",
-          "traffic": "200+"
-        },
-        {
-          "title": "marinir",
-          "traffic": "100+"
-        },
-        {
-          "title": "bulgaria vs islandia",
-          "traffic": "100+"
-        },
-        {
-          "title": "jaguar land rover",
-          "traffic": "500+"
-        },
-        {
-          "title": "jaden smith",
-          "traffic": "200+"
-        },
-        {
-          "title": "andorra vs gibraltar",
-          "traffic": "200+"
-        },
-        {
-          "title": "bali",
-          "traffic": "100+"
-        },
-        {
-          "title": "slovenia vs swiss",
-          "traffic": "100+"
-        },
-        {
-          "title": "estonia vs luksemburg",
-          "traffic": "100+"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-11-13T08:25:07.910162+00:00",
-      "trends_updated_at": "2026-11-13T08:23:13.349015+00:00",
-      "total_trends": 10,
-      "news_count": 50,
-      "topics": [
-        {
-          "title": "siap kerja",
-          "traffic": "1000+"
-        },
-        {
-          "title": "siapkerja",
-          "traffic": "200+"
-        },
-        {
-          "title": "bpjs kesehatan",
-          "traffic": "200+"
-        },
-        {
-          "title": "kemenaker",
-          "traffic": "100+"
-        },
-        {
-          "title": "disney",
-          "traffic": "100+"
-        },
-        {
-          "title": "covid 19",
-          "traffic": "1000+"
-        },
-        {
-          "title": "kapan bsu 2026 cair?",
-          "traffic": "2000+"
-        },
-        {
-          "title": "cek bansos kemensos go id 2026",
-          "traffic": "1000+"
-        },
-        {
-          "title": "marinir",
-          "traffic": "100+"
-        },
-        {
-          "title": "bulgaria vs islandia",
-          "traffic": "100+"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-11-13T08:34:23.574117+00:00",
-      "trends_updated_at": "2026-11-13T08:31:40.891081+00:00",
-      "total_trends": 10,
-      "news_count": 50,
-      "topics": [
-        {
-          "title": "ishowspeed",
-          "traffic": "100+"
-        },
-        {
-          "title": "siap kerja",
-          "traffic": "1000+"
-        },
-        {
-          "title": "siapkerja",
-          "traffic": "500+"
-        },
-        {
-          "title": "bpjs kesehatan",
-          "traffic": "200+"
-        },
-        {
-          "title": "kemenaker",
-          "traffic": "200+"
-        },
-        {
-          "title": "bwf kumamoto masters japan 2026",
-          "traffic": "200+"
-        },
-        {
-          "title": "disney",
-          "traffic": "100+"
-        },
-        {
-          "title": "covid 19",
-          "traffic": "1000+"
-        },
-        {
-          "title": "kapan bsu 2026 cair?",
-          "traffic": "5000+"
-        },
-        {
-          "title": "cek bansos kemensos go id 2026",
-          "traffic": "1000+"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-11-13T11:14:29.632526+00:00",
-      "trends_updated_at": "2026-11-13T11:12:06.230479+00:00",
-      "total_trends": 10,
-      "news_count": 50,
-      "topics": [
-        {
-          "title": "cek bansos bpnt 2026",
-          "traffic": "100+"
-        },
-        {
-          "title": "azerbaijan vs liechtenstein",
-          "traffic": "100+"
-        },
-        {
-          "title": "slovakia vs",
-          "traffic": "100+"
-        },
-        {
-          "title": "ramayana film",
-          "traffic": "100+"
-        },
-        {
-          "title": "hasil kumamoto masters japan 2026",
-          "traffic": "500+"
-        },
-        {
-          "title": "senayan",
-          "traffic": "200+"
-        },
-        {
-          "title": "new zealand vs india",
-          "traffic": "100+"
-        },
-        {
-          "title": "kepolisian daerah metropolitan jakarta raya",
-          "traffic": "1000+"
-        },
-        {
-          "title": "indonesia vs yordania",
-          "traffic": "200+"
-        },
-        {
-          "title": "sufmi dasco ahmad",
-          "traffic": "100+"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-11-13T11:22:04.155855+00:00",
-      "trends_updated_at": "2026-11-13T11:19:58.720368+00:00",
-      "total_trends": 10,
-      "news_count": 23,
-      "topics": [
-        {
-          "title": "cek bansos bpnt 2026",
-          "traffic": "100+"
-        },
-        {
-          "title": "azerbaijan vs liechtenstein",
-          "traffic": "100+"
-        },
-        {
-          "title": "slovakia vs",
-          "traffic": "100+"
-        },
-        {
-          "title": "ramayana film",
-          "traffic": "100+"
-        },
-        {
-          "title": "hasil kumamoto masters japan 2026",
-          "traffic": "500+"
-        },
-        {
-          "title": "senayan",
-          "traffic": "200+"
-        },
-        {
-          "title": "new zealand vs india",
-          "traffic": "100+"
-        },
-        {
-          "title": "kepolisian daerah metropolitan jakarta raya",
-          "traffic": "1000+"
-        },
-        {
-          "title": "indonesia vs yordania",
-          "traffic": "200+"
-        },
-        {
-          "title": "sufmi dasco ahmad",
-          "traffic": "100+"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-11-13T11:42:39.911261+00:00",
-      "trends_updated_at": "2026-11-13T11:40:34.725224+00:00",
-      "total_trends": 10,
-      "news_count": 23,
-      "topics": [
-        {
-          "title": "qatar vs australia",
-          "traffic": "100+"
-        },
-        {
-          "title": "biarkan hati bicara",
-          "traffic": "100+"
-        },
-        {
-          "title": "hakim",
-          "traffic": "1000+"
-        },
-        {
-          "title": "cek bansos bpnt 2026",
-          "traffic": "100+"
-        },
-        {
-          "title": "azerbaijan vs liechtenstein",
-          "traffic": "100+"
-        },
-        {
-          "title": "slovakia vs",
-          "traffic": "100+"
-        },
-        {
-          "title": "ramayana film",
-          "traffic": "200+"
-        },
-        {
-          "title": "hasil kumamoto masters japan 2026",
-          "traffic": "1000+"
-        },
-        {
-          "title": "senayan",
-          "traffic": "200+"
-        },
-        {
-          "title": "new zealand vs india",
-          "traffic": "100+"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-11-13T15:40:58.720457+00:00",
-      "trends_updated_at": "2026-11-13T15:38:36.545919+00:00",
-      "total_trends": 10,
-      "news_count": 23,
-      "topics": [
-        {
-          "title": "korea",
-          "traffic": "100+"
-        },
-        {
-          "title": "korea vs arab saudi",
-          "traffic": "200+"
-        },
-        {
-          "title": "zanadin fariz",
-          "traffic": "100+"
-        },
-        {
-          "title": "arab saudi vs korea selatan",
-          "traffic": "500+"
-        },
-        {
-          "title": "bruno fernandes",
-          "traffic": "200+"
-        },
-        {
-          "title": "australia vs",
-          "traffic": "200+"
-        },
-        {
-          "title": "zambia vs",
-          "traffic": "200+"
-        },
-        {
-          "title": "cam skattebo",
-          "traffic": "200+"
-        },
-        {
-          "title": "comoros vs",
-          "traffic": "100+"
-        },
-        {
-          "title": "ppi",
-          "traffic": "100+"
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-13T21:56:28.452917+00:00",
       "trends_updated_at": "2026-11-13T21:54:11.000525+00:00",
       "total_trends": 10,
@@ -1438,6 +1102,54 @@
         {
           "title": "aturan baru polri ubah syarat sidang etik menjelang pemeriksaan listyo sigit",
           "traffic": "200+"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-20T16:03:43.566638+00:00",
+      "trends_updated_at": "2026-11-20T16:00:27.854325+00:00",
+      "total_trends": 10,
+      "news_count": 59,
+      "topics": [
+        {
+          "title": "fp1 moto3 portugal",
+          "traffic": "200+"
+        },
+        {
+          "title": "troyes vs",
+          "traffic": "200+"
+        },
+        {
+          "title": "fc andorra",
+          "traffic": "100+"
+        },
+        {
+          "title": "hellas verona",
+          "traffic": "100+"
+        },
+        {
+          "title": "spanyol vs prancis",
+          "traffic": "200+"
+        },
+        {
+          "title": "byd titan 7",
+          "traffic": "100+"
+        },
+        {
+          "title": "umuh muchtar",
+          "traffic": "100+"
+        },
+        {
+          "title": "sabah fk",
+          "traffic": "200+"
+        },
+        {
+          "title": "barito putera",
+          "traffic": "100+"
+        },
+        {
+          "title": "hasil liga 2",
+          "traffic": "100+"
         }
       ]
     }
