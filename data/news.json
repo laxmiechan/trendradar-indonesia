@@ -1,22 +1,421 @@
 {
-  "updated_at": "2026-11-19T17:15:30.118561+00:00",
-  "fetched_at": "2026-11-19T17:15:30.118561+00:00",
-  "latest_seen_at": "2026-11-18T17:30:00+00:00",
-  "search_window_hours": 24,
-  "total_news": 2,
+  "updated_at": "2026-11-20T06:57:19.278299+00:00",
+  "fetched_at": "2026-11-20T06:57:19.278299+00:00",
+  "latest_seen_at": "2026-11-20T06:30:00+00:00",
+  "search_window_hours": 3,
+  "total_news": 59,
   "articles": [
     {
-      "title": "UNG dan IPDN Jajaki Kerja Sama Strategis Penguatan Tri Dharma Perguruan Tinggi",
-      "url": "https://news.republika.co.id/berita/topj8h2130000/ung-dan-ipdn-jajaki-kerja-sama-strategis-penguatan-tri-dharma-perguruan-tinggi",
-      "source": "news.republika.co.id",
-      "published": "20261118T173000Z",
+      "title": "Profil Alireza Beiranvand , Kiper Iran yang Raih AFC Player of the Year 2026 : Pernah Jadi Buruh Pabrik",
+      "url": "https://www.viva.co.id/bola/1945088-profil-alireza-beiranvand-kiper-iran-yang-raih-afc-player-of-the-year-2026-pernah-jadi-buruh-pabrik",
+      "source": "viva.co.id",
+      "published": "20261120T063000Z",
       "language": "Indonesian"
     },
     {
-      "title": "AS Bakal Batasi Ekspor Cip ke China usai Skandal NVIDIA",
-      "url": "https://www.viva.co.id/berita/dunia/1944698-as-bakal-batasi-ekspor-cip-ke-china-usai-skandal-nvidia",
+      "title": "Kios Laundry di Kemayoran Terbakar , Rute Transjakarta 14B Dialihkan : Okezone News",
+      "url": "https://news.okezone.com/read/2026/11/20/338/3255105/kios-laundry-di-kemayoran-terbakar-rute-transjakarta-14b-dialihkan",
+      "source": "news.okezone.com",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Huni Sel Isolasi , Ammar Zoni Terancam Lumpuh di Lapas Nusakambangan : Okezone Celebrity",
+      "url": "https://celebrity.okezone.com/read/2026/11/20/33/3255104/huni-sel-isolasi-ammar-zoni-terancam-lumpuh-di-lapas-nusakambangan",
+      "source": "celebrity.okezone.com",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Prabowo Bertemu Xi Jinping di Shenzhen , Empat Kali dalam 2 Tahun Terakhir : Okezone News",
+      "url": "https://news.okezone.com/read/2026/11/20/18/3255131/prabowo-bertemu-xi-jinping-di-shenzhen-empat-kali-dalam-2-tahun-terakhir",
+      "source": "news.okezone.com",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Warga Duri Kepa Bahagia Terima Bantuan Paket Makanan dari MNC Peduli dan Park Hyatt Jakarta : Okezone News",
+      "url": "https://news.okezone.com/read/2026/11/20/338/3255137/warga-duri-kepa-bahagia-terima-bantuan-paket-makanan-dari-mnc-peduli-dan-park-hyatt-jakarta",
+      "source": "news.okezone.com",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Prabowo Kemukakan Empat Poin Pandangan di KTT APEC 2026 Shenzhen , dari Ekonomi hingga Inovasi : Okezone News",
+      "url": "https://news.okezone.com/read/2026/11/20/337/3255114/prabowo-kemukakan-empat-poin-pandangan-di-ktt-apec-2026-shenzhen-dari-ekonomi-hingga-inovasi",
+      "source": "news.okezone.com",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Ketum PKB sebut Prabowo sedang Lakukan Reset Indonesia , Cak Imin Singgung Angka Kemiskinan",
+      "url": "https://www.viva.co.id/berita/nasional/1945082-ketum-pkb-sebut-prabowo-sedang-lakukan-reset-indonesia-cak-imin-singgung-angka-kemiskinan",
       "source": "viva.co.id",
-      "published": "20261118T173000Z",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Skutik Premium Suzuki Burgman Street Resmi Dijual , Simak Harga dan Fitur Andalannya",
+      "url": "https://www.jawapos.com/otomotif/2611200162/skutik-premium-suzuki-burgman-street-resmi-dijual-simak-harga-dan-fitur-andalannya",
+      "source": "jawapos.com",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Viral Sekuriti Naik Kap Mobil yang Dikemudikan Polisi di PIK , Ini Kronologinya : Okezone News",
+      "url": "https://news.okezone.com/read/2026/11/20/337/3255100/viral-sekuriti-naik-kap-mobil-yang-dikemudikan-polisi-di-pik-ini-kronologinya",
+      "source": "news.okezone.com",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Tombol Like Threads Kini Bisa Diganti , Begini Caranya",
+      "url": "https://lampost.co/teknologi/custom-like-threads-cara-mengganti-tombol-like/",
+      "source": "lampost.co",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Cetak Prestasi , BULOG Raih Penghargaan Penjaga Stabilitas Ketahanan Pangan Nasional : Okezone News",
+      "url": "https://news.okezone.com/read/2026/11/19/340/3255107/cetak-prestasi-bulog-raih-penghargaan-penjaga-stabilitas-ketahanan-pangan-nasional",
+      "source": "news.okezone.com",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Usai Pecah Telur , Megawati Hangestri Cs Hadapi Ujian Berat dari Pink Spiders",
+      "url": "https://bandung.viva.co.id/olahraga/59046-usai-pecah-telur-megawati-hangestri-cs-hadapi-ujian-berat-lawan-pink-spiders",
+      "source": "bandung.viva.co.id",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Guru Besar UPN Vetaran Jakarta soroti dugaan Pelanggaran Etik proses Pemilihan Rektor",
+      "url": "https://www.lensaindonesia.com/guru-besar-upn-vetaran-jakarta-soroti-dugaan-pelanggaran-etik-proses-pemilihan-rektor/",
+      "source": "lensaindonesia.com",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Pendidikan Iklim di Sekolah , Bekal Anak Hadapi Perubahan Lingkungan",
+      "url": "https://momsmoney.kontan.co.id/news/pendidikan-iklim-di-sekolah-bekal-anak-hadapi-perubahan-lingkungan",
+      "source": "momsmoney.kontan.co.id",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Siklon Akvan dan Bibit Siklon 96S Terpantau Dekat Indonesia , BMKG Minta Warga Waspada : Okezone News",
+      "url": "https://news.okezone.com/read/2026/11/20/337/3255109/siklon-akvan-dan-bibit-siklon-96s-terpantau-dekat-indonesia-bmkg-minta-warga-waspada",
+      "source": "news.okezone.com",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Harga Komoditas Melemah , Kinerja PT Timah ( TINS ) Diproyeksi Melambat",
+      "url": "https://insight.kontan.co.id/news/harga-komoditas-melemah-kinerja-pt-timah-tins-diproyeksi-melambat",
+      "source": "insight.kontan.co.id",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Tok ! UMP DKI Jakarta 2027 Naik Jadi Rp6 , 1 Juta : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/20/320/3255112/tok-ump-dki-jakarta-2027-naik-jadi-rp6-1-juta",
+      "source": "economy.okezone.com",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kekerasan perempuan dan anak hadir berbagai bentuk , Akademisi Ubhara : Negara harus pastikan pemulihan korban",
+      "url": "https://www.lensaindonesia.com/kekerasan-perempuan-dan-anak-hadir-berbagai-bentuk-akademisi-ubhara-negara-harus-pastikan-pemulihan-korban/",
+      "source": "lensaindonesia.com",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "KPK Panggil Pengusaha Kaji Edan sebagai Saksi Kasus Dugaan Korupsi LPEI",
+      "url": "https://www.jawapos.com/nasional/2611200142/kpk-panggil-pengusaha-kaji-edan-sebagai-saksi-kasus-dugaan-korupsi-lpei",
+      "source": "jawapos.com",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kecelakaan Tunggal , Honda Jazz Hantam Tiang Pancang di Jaksel : Okezone News",
+      "url": "https://news.okezone.com/read/2026/11/20/338/3255129/kecelakaan-tunggal-honda-jazz-hantam-tiang-pancang-di-jaksel",
+      "source": "news.okezone.com",
+      "published": "20261120T061500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Indonesia ikut sambut baik Inggris - Australia beri sanksi ke Israel",
+      "url": "https://www.antaranews.com/berita/5866867/indonesia-ikut-sambut-baik-inggris-australia-beri-sanksi-ke-israel",
+      "source": "antaranews.com",
+      "published": "20261120T054500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "ICW Laporkan Puan dan Habiburokhman ke MKD Terkait Pengesahan RUU Perampasan Aset",
+      "url": "https://www.jpnn.com/news/icw-laporkan-puan-dan-habiburokhman-ke-mkd-terkait-pengesahan-ruu-perampasan-aset",
+      "source": "jpnn.com",
+      "published": "20261120T054500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kisah Tragis Fiona , Kuda Nil Kesayangan Dunia yang Mati Usai Menelan Topi Pengunjung",
+      "url": "https://www.viva.co.id/berita/dunia/1945075-kisah-tragis-fiona-kuda-nil-kesayangan-dunia-yang-mati-usai-menelan-topi-pengunjung",
+      "source": "viva.co.id",
+      "published": "20261120T054500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Ratusan Lansia di Cikarang Dapat Layanan Pemeriksaan Sendi Gratis",
+      "url": "https://www.jpnn.com/news/ratusan-lansia-di-cikarang-dapat-layanan-pemeriksaan-sendi-gratis",
+      "source": "jpnn.com",
+      "published": "20261120T054500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Prabowo dan Putin Bertemu 4 Mata di KTT APEC 2026 , Ini Pembahasannya",
+      "url": "https://www.jpnn.com/news/prabowo-dan-putin-bertemu-4-mata-di-ktt-apec-2026-ini-pembahasannya",
+      "source": "jpnn.com",
+      "published": "20261120T054500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "KPK Periksa David Gunawan sebagai Saksi Kasus Korupsi Pengerukan Alur Pelayaran KSOP",
+      "url": "https://www.jpnn.com/news/kpk-periksa-david-gunawan-sebagai-saksi-kasus-korupsi-pengerukan-alur-pelayaran-ksop",
+      "source": "jpnn.com",
+      "published": "20261120T054500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Maruf Amin Mundur dari Ketua Dewan Pertimbangan MUI",
+      "url": "https://www.liputan6.com/news/read/8338922/maruf-amin-mundur-dari-ketua-dewan-pertimbangan-mui",
+      "source": "liputan6.com",
+      "published": "20261120T054500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Menhut Janji Tak Terbitkan Izin Tambang di Ujung Kulon – News",
+      "url": "https://news.batampos.co.id/menhut-janji-tak-terbitkan-izin-tambang-di-ujung-kulon/",
+      "source": "news.batampos.co.id",
+      "published": "20261120T054500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "BMKG Prediksi Hujan Ringan di Mayoritas Wilayah RI , Jogja Diguyur Hujan Sedang",
+      "url": "https://news.harianjogja.com/r-1279585/bmkg-prediksi-hujan-ringan-di-mayoritas-wilayah-ri-jogja-diguyur-hujan-sedang",
+      "source": "news.harianjogja.com",
+      "published": "20261120T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Leo Pictures Hadirkan Gak Masuk Akal , Komedi Absurd Berbalut Horor",
+      "url": "https://leisure.harianjogja.com/r-1279593/leo-pictures-hadirkan-gak-masuk-akal-komedi-absurd-berbalut-horor",
+      "source": "leisure.harianjogja.com",
+      "published": "20261120T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Yamaha XMAX Baru Dijual Rp77 Jutaan , Ini yang Berbeda",
+      "url": "https://www.viva.co.id/otomotif/1945074-yamaha-xmax-baru-dijual-rp77-jutaan-ini-yang-berbeda",
+      "source": "viva.co.id",
+      "published": "20261120T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "10 Hal Unik di GTA 6 yang Bikin Dunia Leonida Terlihat Berbeda dari GTA 5",
+      "url": "https://www.viva.co.id/gaya-hidup/games/1945073-10-hal-unik-di-gta-6-yang-bikin-dunia-leonida-terlihat-berbeda-dari-gta-5",
+      "source": "viva.co.id",
+      "published": "20261120T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Angkat Isu Alam dan Perubahan Iklim , Dua Buku Indonesia Hadir di COP31",
+      "url": "https://ecologic.harianjogja.com/r-1279584/angkat-isu-alam-dan-perubahan-iklim-dua-buku-indonesia-hadir-di-cop31",
+      "source": "ecologic.harianjogja.com",
+      "published": "20261120T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Indonesia Bawa Tiga Proyek Karbon Biru ke COP31 , Ini Potensinya",
+      "url": "https://ecologic.harianjogja.com/r-1279596/indonesia-bawa-tiga-proyek-karbon-biru-ke-cop31-ini-potensinya",
+      "source": "ecologic.harianjogja.com",
+      "published": "20261120T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Gas Murah Bikin Industri Cuan Rp592 Triliun , Kok Bisa ?",
+      "url": "https://koran-jakarta.com/2026-11-20/gas-murah-bikin-industri-cuan-rp592-triliun-kok-bisa",
+      "source": "koran-jakarta.com",
+      "published": "20261120T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Menhut Tegaskan Tak Terbitkan Izin Tambang di TN Ujung Kulon",
+      "url": "https://news.harianjogja.com/r-1279590/menhut-tegaskan-tak-terbitkan-izin-tambang-di-tn-ujung-kulon",
+      "source": "news.harianjogja.com",
+      "published": "20261120T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "UU Perampasan Aset Disahkan , Ini 2 PR Besar yang Masih Menanti",
+      "url": "https://koran-jakarta.com/2026-11-20/uu-perampasan-aset-disahkan-ini-2-pr-besar-yang-masih-menanti",
+      "source": "koran-jakarta.com",
+      "published": "20261120T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Rupiah Dibuka Melemah ke Rp18 . 254 per dolar AS , IHSG Berpeluang Rebound ke Level 5 . 520",
+      "url": "https://ekbis.harianjogja.com/r-1279589/rupiah-dibuka-melemah-ke-rp18254-per-dolar-as-ihsg-berpeluang-rebound-ke-level-5520",
+      "source": "ekbis.harianjogja.com",
+      "published": "20261120T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Suahasil Bantah Anggaran MBG Dipotong , Ini Penjelasannya",
+      "url": "https://news.harianjogja.com/r-1279583/suahasil-bantah-anggaran-mbg-dipotong-ini-penjelasannya",
+      "source": "news.harianjogja.com",
+      "published": "20261120T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Laba Bersih BTN Melesat 22 , 6 % jadi Rp 2 , 82 Triliun",
+      "url": "https://analisadaily.com/berita/baca/2026/11/20/1079713/laba-bersih-btn-melesat-22-6-jadi-rp-2-82-triliun/",
+      "source": "analisadaily.com",
+      "published": "20261120T051500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kemenag Akan Buka Formasi CPNS Guru 2027 , PPPK Bisa Daftar",
+      "url": "https://edukasi.sindonews.com/read/1774181/211/kemenag-akan-buka-formasi-cpns-guru-2027-pppk-bisa-daftar-1795144261",
+      "source": "edukasi.sindonews.com",
+      "published": "20261120T051500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kejagung Periksa Mantan Wali Kota Bekasi terkait Dugaan Korupsi Tata Kelola KSO Migas",
+      "url": "https://nasional.sindonews.com/read/1774203/13/kejagung-periksa-mantan-wali-kota-bekasi-terkait-dugaan-korupsi-tata-kelola-kso-migas-1795147868",
+      "source": "nasional.sindonews.com",
+      "published": "20261120T051500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Gus Ipul Raih Penghargaan Tokoh Pemerataan Akses Pendidikan Kelompok Rentan",
+      "url": "https://beritajatim.com/gus-ipul-raih-penghargaan-tokoh-pemerataan-akses-pendidikan-kelompok-rentan",
+      "source": "beritajatim.com",
+      "published": "20261120T051500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Masih lakukan penggeledahan , Polri undur ekspose perkara kasus makar",
+      "url": "https://www.antaranews.com/berita/5866823/masih-lakukan-penggeledahan-polri-undur-ekspose-perkara-kasus-makar",
+      "source": "antaranews.com",
+      "published": "20261120T051500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Terima Kunjungan Kehormatan Kuasa Usaha Ad Interim AS , Khofifah Buka Peluang Kerja Sama Teknologi hingga Pendidikan",
+      "url": "https://beritajatim.com/terima-kunjungan-kehormatan-kuasa-usaha-ad-interim-as-khofifah-buka-peluang-kerja-sama-teknologi-hingga-pendidikan",
+      "source": "beritajatim.com",
+      "published": "20261120T051500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Penerapan UU Perampasan Aset , KPK : Kami Tentunya Patuh dan Taat",
+      "url": "https://nasional.sindonews.com/read/1774191/13/penerapan-uu-perampasan-aset-kpk-kami-tentunya-patuh-dan-taat-1795144276",
+      "source": "nasional.sindonews.com",
+      "published": "20261120T051500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kemendagri dorong inovasi daerah guna tingkatkan produktivitas ekonomi",
+      "url": "https://www.antaranews.com/berita/5866831/kemendagri-dorong-inovasi-daerah-guna-tingkatkan-produktivitas-ekonomi",
+      "source": "antaranews.com",
+      "published": "20261120T051500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Derbi Banten Memanas ! Osmar Loss Ungkap Alasan Persita Bisa Jegal Dewa United",
+      "url": "https://www.jpnn.com/news/derbi-banten-memanas-osmar-loss-ungkap-alasan-persita-bisa-jegal-dewa-united",
+      "source": "jpnn.com",
+      "published": "20261120T043000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Laba Perusahaan Anak BRI Tumbuh 43 , 5 % Jadi Rp 11 , 8 Triliun hingga September 2026",
+      "url": "https://keuangan.kontan.co.id/news/laba-perusahaan-anak-bri-tumbuh-435-jadi-rp-118-triliun-hingga-september-2026",
+      "source": "keuangan.kontan.co.id",
+      "published": "20261120T043000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Tanoto Foundation Ungkap Dampak Pengasuhan Responsif pada Tumbuh Kembang Anak",
+      "url": "https://www.jpnn.com/news/tanoto-foundation-ungkap-dampak-pengasuhan-responsif-pada-tumbuh-kembang-anak",
+      "source": "jpnn.com",
+      "published": "20261120T043000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Raja Juli sebut Ide Relokasi Badak Jawa Bukan Gagasan Adik Prabowo , Menhut Beberkan Faktanya",
+      "url": "https://www.viva.co.id/berita/nasional/1945062-raja-juli-sebut-ide-relokasi-badak-jawa-bukan-gagasan-adik-prabowo-menhut-beberkan-faktanya",
+      "source": "viva.co.id",
+      "published": "20261120T043000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Jadwal Siaran Langsung Timnas Indonesia U - 17 vs Myanmar : Tayang di TV Mana , Jam Berapa ?",
+      "url": "https://www.viva.co.id/bola/1945057-jadwal-siaran-langsung-timnas-indonesia-u-17-vs-myanmar-tayang-di-tv-mana-jam-berapa",
+      "source": "viva.co.id",
+      "published": "20261120T043000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Indo Premier Integrasikan INAI di IPOT X , Investor Bisa Analisis Saham Lewat Chat",
+      "url": "https://keuangan.kontan.co.id/news/indo-premier-integrasikan-inai-di-ipot-x-investor-bisa-analisis-saham-lewat-chat",
+      "source": "keuangan.kontan.co.id",
+      "published": "20261120T043000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Komdigi Akan Minta Klarifikasi Google soal Penutupan 19 . 372 Kanal YouTube : Okezone Ototekno",
+      "url": "https://ototekno.okezone.com/read/2026/11/20/16/3255090/komdigi-akan-minta-klarifikasi-google-soal-penutupan-19-372-kanal-youtube",
+      "source": "ototekno.okezone.com",
+      "published": "20261120T043000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "OJK Cabut Izin Usaha BPR LPN Labuh Gunung , LPS Lakukan Likuidasi",
+      "url": "https://keuangan.kontan.co.id/news/ojk-cabut-izin-usaha-bpr-lpn-labuh-gunung-lps-lakukan-likuidasi",
+      "source": "keuangan.kontan.co.id",
+      "published": "20261120T043000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Harga Perak Antam Hari Ini Turun Rp 1 . 650 Jadi Rp 29 . 900 Per Gram",
+      "url": "https://www.beritasatu.com/ekonomi/3042504/harga-perak-antam-hari-ini-turun-rp-1650-jadi-rp-29900-per-gram",
+      "source": "beritasatu.com",
+      "published": "20261120T041500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Potret Cantik Mila DA7 di Masjidil Haram Mekkah",
+      "url": "https://www.liputan6.com/showbiz/read/8338792/potret-cantik-mila-da7-di-masjidil-haram-mekkah",
+      "source": "liputan6.com",
+      "published": "20261120T041500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "IHSG Hari Ini Langsung Dibuka Melemah ke 5 . 159 , 8",
+      "url": "https://www.beritasatu.com/ekonomi/3042480/ihsg-hari-ini-langsung-dibuka-melemah-ke-51598",
+      "source": "beritasatu.com",
+      "published": "20261120T041500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Harga Minyak Menguat Tipis Akibat Serangan Houthi ke Riyadh",
+      "url": "https://www.beritasatu.com/ekonomi/3042488/harga-minyak-menguat-tipis-akibat-serangan-houthi-ke-riyadh",
+      "source": "beritasatu.com",
+      "published": "20261120T041500Z",
       "language": "Indonesian"
     }
   ]
