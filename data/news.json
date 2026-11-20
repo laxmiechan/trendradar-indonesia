@@ -1,10 +1,367 @@
 {
-  "updated_at": "2026-11-20T06:57:19.278299+00:00",
-  "fetched_at": "2026-11-20T06:57:19.278299+00:00",
-  "latest_seen_at": "2026-11-20T06:30:00+00:00",
-  "search_window_hours": 3,
-  "total_news": 59,
+  "updated_at": "2026-11-20T22:35:48.152759+00:00",
+  "fetched_at": "2026-11-20T22:35:48.152759+00:00",
+  "latest_seen_at": "2026-11-20T06:45:00+00:00",
+  "search_window_hours": 24,
+  "total_news": 94,
   "articles": [
+    {
+      "title": "Ribuan Serangan Siber Intai Sistem Perbankan RI Setiap Hari : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/20/320/3255111/ribuan-serangan-siber-intai-sistem-perbankan-ri-setiap-hari",
+      "source": "economy.okezone.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Amar Bank : Tata kelola keuangan yang baik perluas kredit industri film",
+      "url": "https://www.antaranews.com/berita/5866959/amar-bank-tata-kelola-keuangan-yang-baik-perluas-kredit-industri-film",
+      "source": "antaranews.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Koleksi Tas Hermes Shandy Aulia Capai Rp 8 Miliar , Warganet Penasaran",
+      "url": "https://www.beritasatu.com/lifestyle/3042507/koleksi-tas-hermes-shandy-aulia-capai-rp-8-miliar-warganet-penasaran",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "KPA Papeg : Eliminasi kasus ATM pada 2030 perlu kolaborasi semua pihak",
+      "url": "https://www.antaranews.com/berita/5866931/kpa-papeg-eliminasi-kasus-atm-pada-2030-perlu-kolaborasi-semua-pihak",
+      "source": "antaranews.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "7 Tindak Pidana Sasaran UU Perampasan Aset yang Disahkan DPR",
+      "url": "https://www.beritasatu.com/nasional/3042496/7-tindak-pidana-sasaran-uu-perampasan-aset-yang-disahkan-dpr",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Pengamat Ungkap 3 PR Besar Shin Tae - yong Jelang Persija vs PSM Makassar",
+      "url": "https://bandung.viva.co.id/bola/59060-pengamat-ungkap-3-pr-besar-shin-tae-yong-jelang-persija-vs-psm-makassar",
+      "source": "bandung.viva.co.id",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "SUV Listrik 7 Penumpang Hyundai Neira Dijual Mulai Rp 388 Juta",
+      "url": "https://www.beritasatu.com/ototekno/3042533/suv-listrik-7-penumpang-hyundai-neira-dijual-mulai-rp-388-juta",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Prabowo Bawa Komitmen Investasi China Rp1 . 300 Triliun , Bukti Kepercayaan Investor : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/20/320/3255116/prabowo-bawa-komitmen-investasi-china-rp1-300-triliun-bukti-kepercayaan-investor",
+      "source": "economy.okezone.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Awas Phishing Bansos 2026 ! Kenali 7 Ciri Penipuan BLT Rp 900 . 000",
+      "url": "https://www.beritasatu.com/ototekno/3042520/awas-phishing-bansos-2026-kenali-7-ciri-penipuan-blt-rp-900000",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "BTN Raup Laba Bersih Rp2 , 82 Triliun di Kuartal III - 2026 : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/20/278/3255106/btn-raup-laba-bersih-rp2-82-triliun-di-kuartal-iii-2026",
+      "source": "economy.okezone.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Pelatih Dewa United waspadai kebangkitan Persita jelang Derbi Banten",
+      "url": "https://www.antaranews.com/berita/5866971/pelatih-dewa-united-waspadai-kebangkitan-persita-jelang-derbi-banten",
+      "source": "antaranews.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "IHSG Anjlok 1 Persen , Dibuka Melemah ke 5 . 152 : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/20/278/3255099/ihsg-anjlok-1-persen-dibuka-melemah-ke-5-152",
+      "source": "economy.okezone.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Toyota resmi buka penjualan Land Cruiser FJ , harga mulai Rp835 juta",
+      "url": "https://otomotif.antaranews.com/berita/5866987/toyota-resmi-buka-penjualan-land-cruiser-fj-harga-mulai-rp835-juta",
+      "source": "otomotif.antaranews.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "MRT Jakarta layani 42 , 6 juta penumpang hingga Oktober 2026",
+      "url": "https://www.antaranews.com/berita/5866923/mrt-jakarta-layani-426-juta-penumpang-hingga-oktober-2026",
+      "source": "antaranews.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Suahasil Buka Rekening Kas Valas Yuan China , Ini Nomornya : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/20/320/3255145/suahasil-buka-rekening-kas-valas-yuan-china-ini-nomornya",
+      "source": "economy.okezone.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Shuttle bus gratis disiapkan untuk penonton konser Guns N  Roses",
+      "url": "https://www.antaranews.com/berita/5866919/shuttle-bus-gratis-disiapkan-untuk-penonton-konser-guns-n-roses",
+      "source": "antaranews.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Buruh Tolak UMP DKI Jakarta 2027 Cuma Rp6 , 1 Juta , Minta Naik Lagi Jadi Rp6 , 2 Juta : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/20/320/3255147/buruh-tolak-ump-dki-jakarta-2027-cuma-rp6-1-juta-minta-naik-lagi-jadi-rp6-2-juta",
+      "source": "economy.okezone.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kursi Wapres Kosong ( 1 ): Bisakah Prabowo Memimpin Tanpa Wakil ?",
+      "url": "https://www.beritasatu.com/nasional/3042529/kursi-wapres-kosong-1-bisakah-prabowo-memimpin-tanpa-wakil",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Neraca Pembayaran Indonesia Surplus USD100 Juta di Kuartal III - 2026 : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/20/320/3255127/neraca-pembayaran-indonesia-surplus-usd100-juta-di-kuartal-iii-2026",
+      "source": "economy.okezone.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Adopsi AI di Indonesia Mulai Masif , Ini Tantangannya : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/20/320/3255132/adopsi-ai-di-indonesia-mulai-masif-ini-tantangannya",
+      "source": "economy.okezone.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "BRIN : Pemindahan Badak Jawa Bukan Sekadar Pindah Habitat",
+      "url": "https://www.beritasatu.com/nasional/3042531/brin-pemindahan-badak-jawa-bukan-sekadar-pindah-habitat",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Verrell Bramasta Dorong Tata Kelola AI Berpihak pada Rakyat",
+      "url": "https://www.beritasatu.com/lifestyle/3042522/verrell-bramasta-dorong-tata-kelola-ai-berpihak-pada-rakyat",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Cinta Laura Raih Penghargaan The Alpha Under 40 2026 dari HighEnd Magazine , Beri Pesan Inspiratif : Okezone Women",
+      "url": "https://women.okezone.com/read/2026/11/19/612/3255039/cinta-laura-raih-penghargaan-the-alpha-under-40-2026-dari-highend-magazine-beri-pesan-inspiratif",
+      "source": "women.okezone.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "KESDM catat pengalihan hak partisipasi 10 persen selesai di 13 WK",
+      "url": "https://www.antaranews.com/berita/5866975/kesdm-catat-pengalihan-hak-partisipasi-10-persen-selesai-di-13-wk",
+      "source": "antaranews.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Apa Saja Perbedaan Hari Anak Sedunia dengan Hari Anak Nasional ? : Okezone Women",
+      "url": "https://women.okezone.com/read/2026/11/20/629/3255130/apa-saja-perbedaan-hari-anak-sedunia-dengan-hari-anak-nasional",
+      "source": "women.okezone.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "PP Pemuda Muhammadiyah Nilai Dasco Layak Jadi Wapres , Dzul Fikar : Sosok Konsolidator Multitalenta",
+      "url": "https://www.viva.co.id/berita/nasional/1945086-pp-pemuda-muhammadiyah-nilai-dasco-layak-jadi-wapres-dzul-fikar-sosok-konsolidator-multitalenta",
+      "source": "viva.co.id",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Harga Emas Antam Turun Rp11 . 000 , Buyback Anjlok Rp78 . 000 ! : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/20/622/3255108/harga-emas-antam-turun-rp11-000-buyback-anjlok-rp78-000",
+      "source": "economy.okezone.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Bertemu Xi Jinping , Prabowo Bahas 10 Kota Pintar di Indonesia",
+      "url": "https://www.beritasatu.com/internasional/3042534/bertemu-xi-jinping-prabowo-bahas-10-kota-pintar-di-indonesia",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "UU Perampasan Aset Sasar Harta Koruptor yang Meninggal hingga Buron",
+      "url": "https://www.beritasatu.com/nasional/3042523/uu-perampasan-aset-sasar-harta-koruptor-yang-meninggal-hingga-buron",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "XLSmart Siapkan Rp 1 Triliun untuk Buyback Saham",
+      "url": "https://www.beritasatu.com/ekonomi/3042535/xlsmart-siapkan-rp-1-triliun-untuk-buyback-saham",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Reza Arap Biayai Operasi Kru Marapthon hingga Puluhan Juta",
+      "url": "https://www.beritasatu.com/lifestyle/3042508/reza-arap-biayai-operasi-kru-marapthon-hingga-puluhan-juta",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Auto2000 Buka Panggung bagi Anak Berkebutuhan Khusus lewat Seni",
+      "url": "https://www.beritasatu.com/ototekno/3042530/auto2000-buka-panggung-bagi-anak-berkebutuhan-khusus-lewat-seni",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kepala BGN : Belanja Bahan Baku MBG Rp145 Triliun : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/20/320/3255097/kepala-bgn-belanja-bahan-baku-mbg-rp145-triliun",
+      "source": "economy.okezone.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Reuni 75 Tahun SMA Xaverius 1 Palembang , Buku Sejarah Diluncurkan",
+      "url": "https://www.beritasatu.com/sumsel/3042541/reuni-75-tahun-sma-xaverius-1-palembang-buku-sejarah-diluncurkan",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Besok Ada Konser Guns N  Roses , Cek Jalur Alternatif , Parkir , dan Shuttle Bus Gratis di GBK",
+      "url": "https://www.viva.co.id/berita/metro/1945091-besok-ada-konser-guns-n-roses-cek-jalur-alternatif-parkir-dan-shuttle-bus-gratis-di-gbk",
+      "source": "viva.co.id",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Eks Pelatih Klub Liga Indonesia Masuk Bursa Bos Akademi Ajax Amsterdam , Kemampuannya Dianggap Sesuai",
+      "url": "https://www.viva.co.id/bola/1945090-eks-pelatih-klub-liga-indonesia-masuk-bursa-bos-akademi-ajax-amsterdam-kemampuannya-dianggap-sesuai",
+      "source": "viva.co.id",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Dua SUV Toyota Berubah di GAW 2026 , Satu Harganya Bikin Kaget",
+      "url": "https://www.viva.co.id/otomotif/1945079-dua-suv-toyota-berubah-di-gaw-2026-satu-harganya-bikin-kaget",
+      "source": "viva.co.id",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Maarten Paes Ketiban Durian Runtuh , Ter Stegen Dikabarkan Ingin Tinggalkan Ajax",
+      "url": "https://www.viva.co.id/bola/1945092-maarten-paes-ketiban-durian-runtuh-ter-stegen-dikabarkan-ingin-tinggalkan-ajax",
+      "source": "viva.co.id",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "KSP perkuat peran jadi lokomotif kawal program prioritas nasional",
+      "url": "https://www.antaranews.com/berita/5866951/ksp-perkuat-peran-jadi-lokomotif-kawal-program-prioritas-nasional",
+      "source": "antaranews.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Look Back  versi Koreeda , pahit manis dunia komikus",
+      "url": "https://www.antaranews.com/berita/5866935/look-back-versi-koreeda-pahit-manis-dunia-komikus",
+      "source": "antaranews.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Anggota DPR minta BNPB perkuat mitigasi bencana hidrometeorologi",
+      "url": "https://www.antaranews.com/berita/5866955/anggota-dpr-minta-bnpb-perkuat-mitigasi-bencana-hidrometeorologi",
+      "source": "antaranews.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "UMP Jakarta 2027 Naik 7 , 1 Persen Menjadi Rp 6 , 13 Juta",
+      "url": "https://www.beritasatu.com/dki-jakarta/3042525/ump-jakarta-2027-naik-71-persen-menjadi-rp-613-juta",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Viral Satpam PIK Naik Kap Mobil Polisi , Begini Kronologi Sebenarnya",
+      "url": "https://www.beritasatu.com/dki-jakarta/3042505/viral-satpam-pik-naik-kap-mobil-polisi-begini-kronologi-sebenarnya",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Penutupan Sesi I , IHSG Hari Ini Merosot 1 , 5 Persen",
+      "url": "https://www.beritasatu.com/ekonomi/3042527/penutupan-sesi-i-ihsg-hari-ini-merosot-15-persen",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "UU Perampasan Aset Ikut Sasar Pelaku Investasi Bodong",
+      "url": "https://www.beritasatu.com/ekonomi/3042521/uu-perampasan-aset-ikut-sasar-pelaku-investasi-bodong",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Dishub DKI rekayasa lalu lintas saat konser Guns N  Roses",
+      "url": "https://www.antaranews.com/berita/5866907/dishub-dki-rekayasa-lalu-lintas-saat-konser-guns-n-roses",
+      "source": "antaranews.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Elnusa Bakal Buyback Saham Rp 84 , 5 Miliar",
+      "url": "https://www.beritasatu.com/ekonomi/3042545/elnusa-bakal-buyback-saham-rp-845-miliar",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kakak Beradik Warga Baduy Luar Terseret Banjir Bandang , 1 Orang Tewas",
+      "url": "https://www.beritasatu.com/banten/3042509/kakak-beradik-warga-baduy-luar-terseret-banjir-bandang-1-orang-tewas",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Polemik Badak Jawa , Menhut Janji Tolak Izin Tambang Ujung Kulon",
+      "url": "https://www.beritasatu.com/nasional/3042537/polemik-badak-jawa-menhut-janji-tolak-izin-tambang-ujung-kulon",
+      "source": "beritasatu.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Alex Marquez peroleh lampu hijau untuk tampil di GP Portugal",
+      "url": "https://www.antaranews.com/berita/5866983/alex-marquez-peroleh-lampu-hijau-untuk-tampil-di-gp-portugal",
+      "source": "antaranews.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kepala BGN Sudaryono : Prioritas MBG ke Daerah Terpencil dan Stunting Tinggi : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/20/320/3255150/kepala-bgn-sudaryono-prioritas-mbg-ke-daerah-terpencil-dan-stunting-tinggi",
+      "source": "economy.okezone.com",
+      "published": "20261120T064500Z",
+      "language": "Indonesian"
+    },
     {
       "title": "Profil Alireza Beiranvand , Kiper Iran yang Raih AFC Player of the Year 2026 : Pernah Jadi Buruh Pabrik",
       "url": "https://www.viva.co.id/bola/1945088-profil-alireza-beiranvand-kiper-iran-yang-raih-afc-player-of-the-year-2026-pernah-jadi-buruh-pabrik",
@@ -279,41 +636,6 @@
       "language": "Indonesian"
     },
     {
-      "title": "Laba Bersih BTN Melesat 22 , 6 % jadi Rp 2 , 82 Triliun",
-      "url": "https://analisadaily.com/berita/baca/2026/11/20/1079713/laba-bersih-btn-melesat-22-6-jadi-rp-2-82-triliun/",
-      "source": "analisadaily.com",
-      "published": "20261120T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Kemenag Akan Buka Formasi CPNS Guru 2027 , PPPK Bisa Daftar",
-      "url": "https://edukasi.sindonews.com/read/1774181/211/kemenag-akan-buka-formasi-cpns-guru-2027-pppk-bisa-daftar-1795144261",
-      "source": "edukasi.sindonews.com",
-      "published": "20261120T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Kejagung Periksa Mantan Wali Kota Bekasi terkait Dugaan Korupsi Tata Kelola KSO Migas",
-      "url": "https://nasional.sindonews.com/read/1774203/13/kejagung-periksa-mantan-wali-kota-bekasi-terkait-dugaan-korupsi-tata-kelola-kso-migas-1795147868",
-      "source": "nasional.sindonews.com",
-      "published": "20261120T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Gus Ipul Raih Penghargaan Tokoh Pemerataan Akses Pendidikan Kelompok Rentan",
-      "url": "https://beritajatim.com/gus-ipul-raih-penghargaan-tokoh-pemerataan-akses-pendidikan-kelompok-rentan",
-      "source": "beritajatim.com",
-      "published": "20261120T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Masih lakukan penggeledahan , Polri undur ekspose perkara kasus makar",
-      "url": "https://www.antaranews.com/berita/5866823/masih-lakukan-penggeledahan-polri-undur-ekspose-perkara-kasus-makar",
-      "source": "antaranews.com",
-      "published": "20261120T051500Z",
-      "language": "Indonesian"
-    },
-    {
       "title": "Terima Kunjungan Kehormatan Kuasa Usaha Ad Interim AS , Khofifah Buka Peluang Kerja Sama Teknologi hingga Pendidikan",
       "url": "https://beritajatim.com/terima-kunjungan-kehormatan-kuasa-usaha-ad-interim-as-khofifah-buka-peluang-kerja-sama-teknologi-hingga-pendidikan",
       "source": "beritajatim.com",
@@ -335,87 +657,10 @@
       "language": "Indonesian"
     },
     {
-      "title": "Derbi Banten Memanas ! Osmar Loss Ungkap Alasan Persita Bisa Jegal Dewa United",
-      "url": "https://www.jpnn.com/news/derbi-banten-memanas-osmar-loss-ungkap-alasan-persita-bisa-jegal-dewa-united",
-      "source": "jpnn.com",
-      "published": "20261120T043000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Laba Perusahaan Anak BRI Tumbuh 43 , 5 % Jadi Rp 11 , 8 Triliun hingga September 2026",
-      "url": "https://keuangan.kontan.co.id/news/laba-perusahaan-anak-bri-tumbuh-435-jadi-rp-118-triliun-hingga-september-2026",
-      "source": "keuangan.kontan.co.id",
-      "published": "20261120T043000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Tanoto Foundation Ungkap Dampak Pengasuhan Responsif pada Tumbuh Kembang Anak",
-      "url": "https://www.jpnn.com/news/tanoto-foundation-ungkap-dampak-pengasuhan-responsif-pada-tumbuh-kembang-anak",
-      "source": "jpnn.com",
-      "published": "20261120T043000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Raja Juli sebut Ide Relokasi Badak Jawa Bukan Gagasan Adik Prabowo , Menhut Beberkan Faktanya",
-      "url": "https://www.viva.co.id/berita/nasional/1945062-raja-juli-sebut-ide-relokasi-badak-jawa-bukan-gagasan-adik-prabowo-menhut-beberkan-faktanya",
-      "source": "viva.co.id",
-      "published": "20261120T043000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Jadwal Siaran Langsung Timnas Indonesia U - 17 vs Myanmar : Tayang di TV Mana , Jam Berapa ?",
-      "url": "https://www.viva.co.id/bola/1945057-jadwal-siaran-langsung-timnas-indonesia-u-17-vs-myanmar-tayang-di-tv-mana-jam-berapa",
-      "source": "viva.co.id",
-      "published": "20261120T043000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Indo Premier Integrasikan INAI di IPOT X , Investor Bisa Analisis Saham Lewat Chat",
-      "url": "https://keuangan.kontan.co.id/news/indo-premier-integrasikan-inai-di-ipot-x-investor-bisa-analisis-saham-lewat-chat",
-      "source": "keuangan.kontan.co.id",
-      "published": "20261120T043000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Komdigi Akan Minta Klarifikasi Google soal Penutupan 19 . 372 Kanal YouTube : Okezone Ototekno",
-      "url": "https://ototekno.okezone.com/read/2026/11/20/16/3255090/komdigi-akan-minta-klarifikasi-google-soal-penutupan-19-372-kanal-youtube",
-      "source": "ototekno.okezone.com",
-      "published": "20261120T043000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "OJK Cabut Izin Usaha BPR LPN Labuh Gunung , LPS Lakukan Likuidasi",
-      "url": "https://keuangan.kontan.co.id/news/ojk-cabut-izin-usaha-bpr-lpn-labuh-gunung-lps-lakukan-likuidasi",
-      "source": "keuangan.kontan.co.id",
-      "published": "20261120T043000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Harga Perak Antam Hari Ini Turun Rp 1 . 650 Jadi Rp 29 . 900 Per Gram",
-      "url": "https://www.beritasatu.com/ekonomi/3042504/harga-perak-antam-hari-ini-turun-rp-1650-jadi-rp-29900-per-gram",
-      "source": "beritasatu.com",
-      "published": "20261120T041500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Potret Cantik Mila DA7 di Masjidil Haram Mekkah",
-      "url": "https://www.liputan6.com/showbiz/read/8338792/potret-cantik-mila-da7-di-masjidil-haram-mekkah",
-      "source": "liputan6.com",
-      "published": "20261120T041500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "IHSG Hari Ini Langsung Dibuka Melemah ke 5 . 159 , 8",
-      "url": "https://www.beritasatu.com/ekonomi/3042480/ihsg-hari-ini-langsung-dibuka-melemah-ke-51598",
-      "source": "beritasatu.com",
-      "published": "20261120T041500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Harga Minyak Menguat Tipis Akibat Serangan Houthi ke Riyadh",
-      "url": "https://www.beritasatu.com/ekonomi/3042488/harga-minyak-menguat-tipis-akibat-serangan-houthi-ke-riyadh",
-      "source": "beritasatu.com",
-      "published": "20261120T041500Z",
+      "title": "Laba Bersih BTN Melesat 22 , 6 % jadi Rp 2 , 82 Triliun",
+      "url": "https://analisadaily.com/berita/baca/2026/11/20/1079713/laba-bersih-btn-melesat-22-6-jadi-rp-2-82-triliun/",
+      "source": "analisadaily.com",
+      "published": "20261120T051500Z",
       "language": "Indonesian"
     }
   ]
