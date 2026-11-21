@@ -2,54 +2,6 @@
   "retention_days": 7,
   "snapshots": [
     {
-      "timestamp": "2026-11-14T16:01:24.480095+00:00",
-      "trends_updated_at": "2026-11-14T15:59:32.612966+00:00",
-      "total_trends": 10,
-      "news_count": 25,
-      "topics": [
-        {
-          "title": "real sociedad b vs gijon",
-          "traffic": "100+"
-        },
-        {
-          "title": "georgia vs hungary",
-          "traffic": "100+"
-        },
-        {
-          "title": "tottenham hotspur ladies vs everton l. f. c.",
-          "traffic": "200+"
-        },
-        {
-          "title": "palestina vs iran",
-          "traffic": "200+"
-        },
-        {
-          "title": "taiwan",
-          "traffic": "100+"
-        },
-        {
-          "title": "bangladesh vs pakistan",
-          "traffic": "1000+"
-        },
-        {
-          "title": "le havre vs paris fc",
-          "traffic": "200+"
-        },
-        {
-          "title": "faa ground stop flights cancelled",
-          "traffic": "500+"
-        },
-        {
-          "title": "man utd vs crystal palace",
-          "traffic": "500+"
-        },
-        {
-          "title": "xavi hernandez",
-          "traffic": "200+"
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-14T20:36:42.545465+00:00",
       "trends_updated_at": "2026-11-14T20:34:49.510866+00:00",
       "total_trends": 10,
@@ -1150,6 +1102,54 @@
         {
           "title": "bmkg",
           "traffic": "5000+"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-21T19:04:46.117622+00:00",
+      "trends_updated_at": "2026-11-21T19:02:14.610796+00:00",
+      "total_trends": 10,
+      "news_count": 2,
+      "topics": [
+        {
+          "title": "gustavo varela",
+          "traffic": "100+"
+        },
+        {
+          "title": "pendaftaran cpns",
+          "traffic": "100+"
+        },
+        {
+          "title": "klasemen ogc nice vs psg",
+          "traffic": "2000+"
+        },
+        {
+          "title": "donyell malen",
+          "traffic": "500+"
+        },
+        {
+          "title": "utrecht",
+          "traffic": "100+"
+        },
+        {
+          "title": "st pauli",
+          "traffic": "100+"
+        },
+        {
+          "title": "76ers vs bucks",
+          "traffic": "200+"
+        },
+        {
+          "title": "peringkat",
+          "traffic": "100+"
+        },
+        {
+          "title": "palermo",
+          "traffic": "200+"
+        },
+        {
+          "title": "grand theft auto",
+          "traffic": "100+"
         }
       ]
     }

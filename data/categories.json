@@ -1,63 +1,14 @@
 {
-  "updated_at": "2026-11-21T11:40:25.295977+00:00",
+  "updated_at": "2026-11-21T19:04:46.078883+00:00",
   "categories": {
     "Politik": [],
     "Ekonomi": [],
     "Teknologi": [
       {
-        "title": "Ribuan Serangan Siber Intai Sistem Perbankan RI Setiap Hari : Okezone Economy",
-        "url": "https://economy.okezone.com/read/2026/11/20/320/3255111/ribuan-serangan-siber-intai-sistem-perbankan-ri-setiap-hari",
-        "source": "economy.okezone.com",
-        "published": "20261120T064500Z",
-        "category": "Teknologi"
-      },
-      {
-        "title": "Verrell Bramasta Dorong Tata Kelola AI Berpihak pada Rakyat",
-        "url": "https://www.beritasatu.com/lifestyle/3042522/verrell-bramasta-dorong-tata-kelola-ai-berpihak-pada-rakyat",
+        "title": "Bio Farma dan BPOM Kaji Pemanfaatan AI untuk Uji Mutu Vaksin Polio",
+        "url": "https://www.beritasatu.com/ekonomi/3042854/bio-farma-dan-bpom-kaji-pemanfaatan-ai-untuk-uji-mutu-vaksin-polio",
         "source": "beritasatu.com",
-        "published": "20261120T064500Z",
-        "category": "Teknologi"
-      },
-      {
-        "title": "IPO Anthropic Guncang Nasdaq , Valuasi AI Tembus Rp 36 . 400 Triliun",
-        "url": "https://www.beritasatu.com/ekonomi/3042516/ipo-anthropic-guncang-nasdaq-valuasi-ai-tembus-rp-36400-triliun",
-        "source": "beritasatu.com",
-        "published": "20261120T064500Z",
-        "category": "Teknologi"
-      },
-      {
-        "title": "Rentetan Sistem Vital AS Lumpuh Beruntun , Benarkah Serangan Siber ? ",
-        "url": "https://www.beritasatu.com/internasional/3042514/rentetan-sistem-vital-as-lumpuh-beruntun-benarkah-serangan-siber",
-        "source": "beritasatu.com",
-        "published": "20261120T064500Z",
-        "category": "Teknologi"
-      },
-      {
-        "title": "Terima Kunjungan Kehormatan Kuasa Usaha Ad Interim AS , Khofifah Buka Peluang Kerja Sama Teknologi hingga Pendidikan",
-        "url": "https://beritajatim.com/terima-kunjungan-kehormatan-kuasa-usaha-ad-interim-as-khofifah-buka-peluang-kerja-sama-teknologi-hingga-pendidikan",
-        "source": "beritajatim.com",
-        "published": "20261120T051500Z",
-        "category": "Teknologi"
-      },
-      {
-        "title": "Presiden Prabowo Tekankan Penguasaan AI di APEC , Bahlil Dorong Energi Andal dan Bersih",
-        "url": "https://www.antaranews.com/berita/5866627/presiden-prabowo-tekankan-penguasaan-ai-di-apec-bahlil-dorong-energi-andal-dan-bersih",
-        "source": "antaranews.com",
-        "published": "20261120T034500Z",
-        "category": "Teknologi"
-      },
-      {
-        "title": "Xtremax Indonesia : Adopsi AI di Indonesia Mulai Masif",
-        "url": "https://ekonomi.republika.co.id/berita/tos6u1522/xtremax-indonesia-adopsi-ai-di-indonesia-mulai-masif",
-        "source": "ekonomi.republika.co.id",
-        "published": "20261120T034500Z",
-        "category": "Teknologi"
-      },
-      {
-        "title": "Indodax : Aplikasi Anti - Scam OJK bantu masyarakat verifikasi transaksi",
-        "url": "https://www.antaranews.com/berita/5866615/indodax-aplikasi-anti-scam-ojk-bantu-masyarakat-verifikasi-transaksi",
-        "source": "antaranews.com",
-        "published": "20261120T034500Z",
+        "published": "20261121T163000Z",
         "category": "Teknologi"
       }
     ],
