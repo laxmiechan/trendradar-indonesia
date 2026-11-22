@@ -2,54 +2,6 @@
   "retention_days": 7,
   "snapshots": [
     {
-      "timestamp": "2026-11-15T00:13:10.494675+00:00",
-      "trends_updated_at": "2026-11-15T00:11:08.303139+00:00",
-      "total_trends": 10,
-      "news_count": 5,
-      "topics": [
-        {
-          "title": "chapecoense vs vasco",
-          "traffic": "200+"
-        },
-        {
-          "title": "belgia vs italia",
-          "traffic": "100+"
-        },
-        {
-          "title": "terafab",
-          "traffic": "100+"
-        },
-        {
-          "title": "alexander isak",
-          "traffic": "100+"
-        },
-        {
-          "title": "jokowi rizal fadillah",
-          "traffic": "1000+"
-        },
-        {
-          "title": "bahan bakar",
-          "traffic": "500+"
-        },
-        {
-          "title": "queretaro vs monterrey",
-          "traffic": "200+"
-        },
-        {
-          "title": "banfield vs boca juniors",
-          "traffic": "500+"
-        },
-        {
-          "title": "mirassol vs atletico mineiro",
-          "traffic": "200+"
-        },
-        {
-          "title": "latvia vs armenia",
-          "traffic": "200+"
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-15T07:06:08.912999+00:00",
       "trends_updated_at": "2026-11-15T07:03:42.093778+00:00",
       "total_trends": 10,
@@ -1150,6 +1102,54 @@
         {
           "title": "inter miami vs columbus crew",
           "traffic": "5000+"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-22T06:28:41.878762+00:00",
+      "trends_updated_at": "2026-11-22T06:26:09.691335+00:00",
+      "total_trends": 10,
+      "news_count": 100,
+      "topics": [
+        {
+          "title": "f1 2026",
+          "traffic": "100+"
+        },
+        {
+          "title": "f1",
+          "traffic": "2000+"
+        },
+        {
+          "title": "keanu reeves",
+          "traffic": "200+"
+        },
+        {
+          "title": "papua",
+          "traffic": "100+"
+        },
+        {
+          "title": "miley cyrus",
+          "traffic": "100+"
+        },
+        {
+          "title": "hari guru kapan",
+          "traffic": "200+"
+        },
+        {
+          "title": "hana malasan sean gelael",
+          "traffic": "100+"
+        },
+        {
+          "title": "marwan dasopang",
+          "traffic": "100+"
+        },
+        {
+          "title": "kecelakaan pesawat",
+          "traffic": "1000+"
+        },
+        {
+          "title": "kepolisian negara republik indonesia",
+          "traffic": "10000+"
         }
       ]
     }

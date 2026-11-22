@@ -1,10 +1,591 @@
 {
-  "updated_at": "2026-11-21T11:39:05.099310+00:00",
-  "fetched_at": "2026-11-21T11:39:05.099310+00:00",
-  "latest_seen_at": "2026-11-21T10:30:00+00:00",
-  "search_window_hours": 3,
-  "total_news": 2,
+  "updated_at": "2026-11-22T06:26:09.770108+00:00",
+  "fetched_at": "2026-11-22T06:26:09.770108+00:00",
+  "latest_seen_at": "2026-11-22T05:30:00+00:00",
+  "search_window_hours": 24,
+  "total_news": 100,
   "articles": [
+    {
+      "title": "KPAI soal Bullying Anak Dasco : Beda Politik Jangan Anak Jadi Sasaran",
+      "url": "https://www.cnnindonesia.com/nasional/20261122102729-32-1429990/kpai-soal-bullying-anak-dasco-beda-politik-jangan-anak-jadi-sasaran",
+      "source": "cnnindonesia.com",
+      "published": "20261122T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Ahrie Sonta Dicopot dari Kadivkum Polri di Tengah Kasus Dugaan Makar",
+      "url": "https://www.cnnindonesia.com/nasional/20261122072824-12-1429960/ahrie-sonta-dicopot-dari-kadivkum-polri-di-tengah-kasus-dugaan-makar",
+      "source": "cnnindonesia.com",
+      "published": "20261122T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Bukan Cuma Soal Teknik , Ini Bekal Penting agar Foto Punya  Nyawa  dan Cerita",
+      "url": "https://ameera.republika.co.id/berita/tow0r7425/bukan-cuma-soal-teknik-ini-bekal-penting-agar-foto-punya-nyawa-dan-cerita",
+      "source": "ameera.republika.co.id",
+      "published": "20261122T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "400 Delegasi Muda Kumpul di Bangkok , Pembangunan Berkelanjutan hingga Martabat Manusia jadi Sorotan",
+      "url": "https://www.jawapos.com/pendidikan/2611220188/400-delegasi-muda-kumpul-di-bangkok-pembangunan-berkelanjutan-hingga-martabat-manusia-jadi-sorotan",
+      "source": "jawapos.com",
+      "published": "20261122T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kapolri Rombak Jajaran Polda Metro , Kapolres - Dirresnarkoba Dirotasi",
+      "url": "https://www.cnnindonesia.com/nasional/20261122115728-12-1430010/kapolri-rombak-jajaran-polda-metro-kapolres-dirresnarkoba-dirotasi",
+      "source": "cnnindonesia.com",
+      "published": "20261122T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Polda Banten Siapkan Posko Identifikasi Korban Kebakaran Pabrik Permen",
+      "url": "https://www.cnnindonesia.com/nasional/20261122113341-20-1430006/polda-banten-siapkan-posko-identifikasi-korban-kebakaran-pabrik-permen",
+      "source": "cnnindonesia.com",
+      "published": "20261122T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Eks Presiden Bolsonaro Masuk ICU saat Jadi Tahanan Rumah Kasus Kudeta",
+      "url": "https://www.cnnindonesia.com/internasional/20261122102523-134-1429989/eks-presiden-bolsonaro-masuk-icu-saat-jadi-tahanan-rumah-kasus-kudeta",
+      "source": "cnnindonesia.com",
+      "published": "20261122T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Peran Strategis dan Tantangan Jawa - Bali dalam Laju Pertumbuhan Ekonomi",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261121192534-532-1429926/peran-strategis-dan-tantangan-jawa-bali-dalam-laju-pertumbuhan-ekonomi",
+      "source": "cnnindonesia.com",
+      "published": "20261122T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Promo Sepeda Cuma Rp1 Juta di Transmart Full Day Sale Hari Ini",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261120143241-97-1429494/promo-sepeda-cuma-rp1-juta-di-transmart-full-day-sale-hari-ini",
+      "source": "cnnindonesia.com",
+      "published": "20261122T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Jangan Asal Scan ! BRI Bagikan Tips Aman Bertransaksi agar Terhindar dari QRIS Palsu",
+      "url": "https://www.antaranews.com/berita/5870595/jangan-asal-scan-bri-bagikan-tips-aman-bertransaksi-agar-terhindar-dari-qris-palsu",
+      "source": "antaranews.com",
+      "published": "20261122T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Akademisi nilai Dasco punya pengalaman politik untuk posisi Wapres",
+      "url": "https://www.antaranews.com/berita/5870615/akademisi-nilai-dasco-punya-pengalaman-politik-untuk-posisi-wapres",
+      "source": "antaranews.com",
+      "published": "20261122T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Harga Tak Sampai Rp500 Juta , Hyundai Neira Bisa Tempuh 434 Km",
+      "url": "https://www.cnnindonesia.com/otomotif/20261122111315-603-1429998/harga-tak-sampai-rp500-juta-hyundai-neira-bisa-tempuh-434-km",
+      "source": "cnnindonesia.com",
+      "published": "20261122T053000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Indonesia Teken Kesepakatan Perdana Perdagangan Karbon",
+      "url": "https://esgnow.republika.co.id/berita/tovn6u393/indonesia-teken-kesepakatan-perdana-perdagangan-karbon",
+      "source": "esgnow.republika.co.id",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Barista hingga Desain Grafis , Kemnaker Siapkan Pelatihan Vokasi bagi Lulusan SLB",
+      "url": "https://www.liputan6.com/disabilitas/read/8339515/barista-hingga-desain-grafis-kemnaker-siapkan-pelatihan-vokasi-bagi-lulusan-slb",
+      "source": "liputan6.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Simak lagi warta soal pemenang MAMA Awards , penyegaran Burgman Street",
+      "url": "https://www.antaranews.com/berita/5870411/simak-lagi-warta-soal-pemenang-mama-awards-penyegaran-burgman-street",
+      "source": "antaranews.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Rendering Hyundai Tiburon Terbaru Beredar , Desainnya Bikin Melirik",
+      "url": "https://www.liputan6.com/otomotif/read/8336913/rendering-hyundai-tiburon-terbaru-beredar-desainnya-bikin-melirik",
+      "source": "liputan6.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Ada Tiga Lowongan Kerja di BSI , Cek Posisi hingga Syarat",
+      "url": "https://www.liputan6.com/bisnis/read/8339131/ada-tiga-lowongan-kerja-di-bsi-cek-posisi-hingga-syarat",
+      "source": "liputan6.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Ketahanan Keluarga : Benteng Terakhir Menyelamatkan Generasi Emas Indonesia 2045",
+      "url": "https://www.liputan6.com/opini/read/8339939/ketahanan-keluarga-benteng-terakhir-menyelamatkan-generasi-emas-indonesia-2045",
+      "source": "liputan6.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Ramen Halal dan Sandal Legendaris Berkolaborasi , Hadirkan Menu dan Produk Eksklusif",
+      "url": "https://www.liputan6.com/lifestyle/read/8339447/ramen-halal-dan-sandal-legendaris-berkolaborasi-hadirkan-menu-dan-produk-eksklusif",
+      "source": "liputan6.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Tipu Rp 1 , 3 M , Buronan Interpol asal Rusia Ditangkap di Bali",
+      "url": "https://www.liputan6.com/regional/read/8339957/tipu-rp-13-m-buronan-interpol-asal-rusia-ditangkap-di-bali",
+      "source": "liputan6.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Niat dan Tata Cara Puasa Rajab , Simak Jadwalnya",
+      "url": "https://www.liputan6.com/islami/read/8339479/niat-dan-tata-cara-puasa-rajab-simak-jadwalnya",
+      "source": "liputan6.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Percepatan Hilirisasi untuk Perkuat Ketahanan Energi Nasional",
+      "url": "https://www.jawapos.com/ekonomi/2611220021/percepatan-hilirisasi-untuk-perkuat-ketahanan-energi-nasional",
+      "source": "jawapos.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Fadli Zon , Pemerkosaan Massal , Kerusuhan Mei 1998 , Kecaman Produser Film",
+      "url": "https://www.jawapos.com/nasional/2611220022/fadli-zon-pemerkosaan-massal-kerusuhan-mei-1998-kecaman-produser-film",
+      "source": "jawapos.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Hujan Lebat hingga Petir Berpotensi Guyur Sejumlah Wilayah",
+      "url": "https://www.liputan6.com/news/read/8339960/hujan-lebat-hingga-petir-berpotensi-guyur-sejumlah-wilayah",
+      "source": "liputan6.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Bank Sentral Eropa Garap Sistem Keuangan Berbasis Blockchain",
+      "url": "https://www.liputan6.com/crypto/read/8339945/bank-sentral-eropa-garap-sistem-keuangan-berbasis-blockchain",
+      "source": "liputan6.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Hukum sepekan , Raffi Ahmad konsultasi ke KPK hingga PMI bermasalah",
+      "url": "https://www.antaranews.com/berita/5870415/hukum-sepekan-raffi-ahmad-konsultasi-ke-kpk-hingga-pmi-bermasalah",
+      "source": "antaranews.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Warren Buffett Salurkan Donasi Rp 208 Triliun Sepanjang 2026",
+      "url": "https://www.liputan6.com/bisnis/read/8339944/warren-buffett-salurkan-donasi-rp-208-triliun-sepanjang-2026",
+      "source": "liputan6.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kata Jorge Martin Usai Marc Marquez Jatuh di Sprint Race MotoGP Portugal 2026",
+      "url": "https://www.liputan6.com/bola/read/8339954/kata-jorge-martin-usai-marc-marquez-jatuh-di-sprint-race-motogp-portugal-2026",
+      "source": "liputan6.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Forum Kehutanan Sebut 1 . 000 Hektare Hutan Bukit Barisan Rusak",
+      "url": "https://www.liputan6.com/regional/read/8339959/forum-kehutanan-sebut-1000-hektare-hutan-bukit-barisan-rusak",
+      "source": "liputan6.com",
+      "published": "20261122T003000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Bio Farma dan BPOM Kaji Pemanfaatan AI untuk Uji Mutu Vaksin Polio",
+      "url": "https://www.beritasatu.com/ekonomi/3042854/bio-farma-dan-bpom-kaji-pemanfaatan-ai-untuk-uji-mutu-vaksin-polio",
+      "source": "beritasatu.com",
+      "published": "20261121T163000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Mentan Amran Tegaskan Bantuan Alsintan yang Disalahgunakan Langsung Ditarik dan Dialihkan",
+      "url": "https://www.beritasatu.com/nasional/3042857/mentan-amran-tegaskan-bantuan-alsintan-yang-disalahgunakan-langsung-ditarik-dan-dialihkan",
+      "source": "beritasatu.com",
+      "published": "20261121T163000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Longsor Susulan Putuskan Jalan dan Picu Banjir di Pejaten Timur",
+      "url": "https://cedarnews.net/indonesian/1175952/longsor-susulan-putuskan-jalan-picu-banjir-di/",
+      "source": "cedarnews.net",
+      "published": "20261121T163000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Airlangga : Penandatanganan IEU - CEPA akhiri 10 tahun proses perundingan",
+      "url": "https://www.antaranews.com/berita/5870211/airlangga-penandatanganan-ieu-cepa-akhiri-10-tahun-proses-perundingan",
+      "source": "antaranews.com",
+      "published": "20261121T163000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Polda NTT Ungkap 4 Perkara TPPO , 11 Orang Jadi Tersangka",
+      "url": "https://www.beritasatu.com/nusantara/3042855/polda-ntt-ungkap-4-perkara-tppo-11-orang-jadi-tersangka",
+      "source": "beritasatu.com",
+      "published": "20261121T163000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "IEU - CEPA Buka Peluang Investasi Eropa ke Sektor Strategis RI",
+      "url": "https://www.beritasatu.com/ekonomi/3042852/ieu-cepa-buka-peluang-investasi-eropa-ke-sektor-strategis-ri",
+      "source": "beritasatu.com",
+      "published": "20261121T163000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Jalan Perindustrian Jaktim Banjir 50 Cm , Rumah Warga Tergenang",
+      "url": "https://www.beritasatu.com/dki-jakarta/3042850/jalan-perindustrian-jaktim-banjir-50-cm-rumah-warga-tergenang",
+      "source": "beritasatu.com",
+      "published": "20261121T163000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Upaya IFG Perkuat Kompetensi dan Integritas SDM",
+      "url": "https://keuangan.kontan.co.id/news/upaya-ifg-perkuat-kompetensi-dan-integritas-sdm",
+      "source": "keuangan.kontan.co.id",
+      "published": "20261121T163000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Longsor Putus Akses Jalan Warga di Pejaten Timur , 5 Keluarga Mengungsi",
+      "url": "https://www.beritasatu.com/dki-jakarta/3042862/longsor-putus-akses-jalan-warga-di-pejaten-timur-5-keluarga-mengungsi",
+      "source": "beritasatu.com",
+      "published": "20261121T163000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Indonesia dan Uni Eropa Resmi Tanda Tangani IEU - CEPA dan IPA , Perkuat Kerja Sama Perdagangan dan Investasi Berkelanjutan",
+      "url": "https://www.beritasatu.com/internasional/3042861/indonesia-dan-uni-eropa-resmi-tanda-tangani-ieu-cepa-dan-ipa-perkuat-kerja-sama-perdagangan-dan-investasi-berkelanjutan",
+      "source": "beritasatu.com",
+      "published": "20261121T163000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Para Perasuk Raih Film Terbaik FFI 2026 , Ini Daftar Pemenangnya",
+      "url": "https://leisure.harianjogja.com/r-1279756/para-perasuk-raih-film-terbaik-ffi-2026-ini-daftar-pemenangnya",
+      "source": "leisure.harianjogja.com",
+      "published": "20261121T143000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Daihatsu Kumpul Sahabat Makassar Meriah , Hadirkan Aktivitas Komunitas hingga Sosialisasi Lalu Lintas",
+      "url": "https://www.jawapos.com/otomotif/2611210474/daihatsu-kumpul-sahabat-makassar-meriah-hadirkan-aktivitas-komunitas-hingga-sosialisasi-lalu-lintas",
+      "source": "jawapos.com",
+      "published": "20261121T143000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Tambahan TKD Percepat Pemulihan Pascabencana di 53 Kabupaten dan Kota di Sumatera",
+      "url": "https://sumaterapulih.kontan.co.id/news/tambahan-tkd-percepat-pemulihan-pascabencana-di-53-kabupaten-dan-kota-di-sumatera",
+      "source": "sumaterapulih.kontan.co.id",
+      "published": "20261121T143000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Daihatsu Kumpul Sahabat Makassar Meriah , Hadirkan Aktivitas Komunitas hingga Sosialisasi Lalu Lintas",
+      "url": "https://www.jawapos.com/oto-dan-tekno/2611210474/daihatsu-kumpul-sahabat-makassar-meriah-hadirkan-aktivitas-komunitas-hingga-sosialisasi-lalu-lintas",
+      "source": "jawapos.com",
+      "published": "20261121T143000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Basral tempati peringkat 20 pada perempat final Piala Dunia Skateboard",
+      "url": "https://www.antaranews.com/berita/5869971/basral-tempati-peringkat-20-pada-perempat-final-piala-dunia-skateboard",
+      "source": "antaranews.com",
+      "published": "20261121T133000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "M . Khudri : Ketika Makar Berubah Wajah : Dari Lubang Buaya ke Ruang Penyadapan",
+      "url": "https://www.hariansinggalang.co.id/opini/3056/ketika-makar-berubah-wajah-dari-lubang-buaya-ke-ruang-penyadapan",
+      "source": "hariansinggalang.co.id",
+      "published": "20261121T133000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Berpihak pada Masyarakat , Danantara Prioritaskan Pekerja Lokal di Tiga Proyek BUMN Aceh",
+      "url": "https://www.hariansinggalang.co.id/berita/253397/berpihak-pada-masyarakat-danantara-prioritaskan-pekerja-lokal-di-tiga-proyek-bumn-aceh",
+      "source": "hariansinggalang.co.id",
+      "published": "20261121T133000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Pengelola Geopark Rinjani targetkan penanaman sejuta pohon kopi",
+      "url": "https://www.antaranews.com/berita/5869955/pengelola-geopark-rinjani-targetkan-penanaman-sejuta-pohon-kopi",
+      "source": "antaranews.com",
+      "published": "20261121T133000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Presiden  bantu beras 90 ton untuk warga badui korban kebakaran",
+      "url": "https://www.antaranews.com/berita/5869967/presiden-bantu-beras-90-ton-untuk-warga-badui-korban-kebakaran",
+      "source": "antaranews.com",
+      "published": "20261121T133000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Nama Dasco Diseret Isu Judi Online , Prof Yuddy : Ada yang Merasa Tersaingi",
+      "url": "https://www.jpnn.com/news/nama-dasco-diseret-isu-judi-online-prof-yuddy-ada-yang-merasa-tersaingi",
+      "source": "jpnn.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Dedi Mulyadi Siap Koordinasi dengan Kemenlu Soal Kepulangan Warga Cimahi Jadi Tentara Rusia",
+      "url": "https://jabar.jpnn.com/jabar-terkini/34471/dedi-mulyadi-siap-koordinasi-dengan-kemenlu-soal-kepulangan-warga-cimahi-jadi-tentara-rusia",
+      "source": "jabar.jpnn.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Pelukan keluarga dapat bantu pasien hadapi kecemasan sebelum operasi",
+      "url": "https://www.antaranews.com/berita/5869867/pelukan-keluarga-dapat-bantu-pasien-hadapi-kecemasan-sebelum-operasi",
+      "source": "antaranews.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Timnas Indonesia U - 17 Lolos ke Piala Asia 2027 , Ini Daftar Lengkap 16 Pesertanya",
+      "url": "https://bandung.viva.co.id/bola/59123-timnas-indonesia-u-17-lolos-ke-piala-asia-2027-ini-daftar-lengkap-16-pesertanya",
+      "source": "bandung.viva.co.id",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Resky dan Abimanyu pastikan gelar Thailand Talent Cup milik AHM",
+      "url": "https://www.antaranews.com/berita/5869839/resky-dan-abimanyu-pastikan-gelar-thailand-talent-cup-milik-ahm",
+      "source": "antaranews.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Dugaan Makar Penyadapan Prabowo , Bareskrim Temukan 4 Posko di Jakarta - Bogor - Tangerang",
+      "url": "https://nasional.sindonews.com/read/1774683/13/dugaan-makar-penyadapan-prabowo-bareskrim-temukan-4-posko-di-jakarta-bogor-tangerang-1795255909",
+      "source": "nasional.sindonews.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "UU Perampasan Aset Disahkan , Kejagung Singgung Buronan Kakap Riza Chalid hingga Jurist Tan",
+      "url": "https://nasional.sindonews.com/read/1774699/13/uu-perampasan-aset-disahkan-kejagung-singgung-buronan-kakap-riza-chalid-hingga-jurist-tan-1795259488",
+      "source": "nasional.sindonews.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Cerminku Retak Seribu , Buku Terbaru Rini Hastuti Ajak Pembaca Berdamai dengan Luka",
+      "url": "https://bogor.viva.co.id/gaya-hidup-dan-edukasi/8114-cerminku-retak-seribu-buku-terbaru-rini-hastuti-ajak-pembaca-berdamai-dengan-luka",
+      "source": "bogor.viva.co.id",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Sinopsis  Terbaik Itu Kamu  Eps 35 : Rahasia Kelahiran Sera Terungkap , Kenzi Temukan Fakta Mengejutkan !",
+      "url": "https://lifestyle.sindonews.com/read/1774673/158/sinopsis-terbaik-itu-kamu-eps-35-rahasia-kelahiran-sera-terungkap-kenzi-temukan-fakta-mengejutkan-1795255915",
+      "source": "lifestyle.sindonews.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "MNC Sekuritas Bekali Komite Orang Tua SMK Pariwisata Metland School Literasi Investasi Pasar Modal",
+      "url": "https://edukasi.sindonews.com/read/1774667/212/mnc-sekuritas-bekali-komite-orang-tua-smk-pariwisata-metland-school-literasi-investasi-pasar-modal-1795255866",
+      "source": "edukasi.sindonews.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Respons Kritikan Insan Perfilman , Fadli Zon Tegaskan Kutuk Keras Kekerasan Seksual Mei 1998",
+      "url": "https://www.viva.co.id/berita/nasional/1945395-respons-kritikan-insan-perfilman-fadli-zon-tegaskan-kutuk-keras-kekerasan-seksual-mei-1998",
+      "source": "viva.co.id",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Bassam Tariqakui tinggalkan proyek filmBlade garapan Marvel",
+      "url": "https://www.antaranews.com/berita/5869895/bassam-tariqakui-tinggalkan-proyek-filmblade-garapan-marvel",
+      "source": "antaranews.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "IPB University - INKINDO kolaborasi kawal ketahanan pangan daerah",
+      "url": "https://www.antaranews.com/berita/5869879/ipb-university-inkindo-kolaborasi-kawal-ketahanan-pangan-daerah",
+      "source": "antaranews.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "UMP Jabar Naik 29 , 44 % Menjadi Rp3 Juta",
+      "url": "https://www.jpnn.com/news/ump-jabar-naik-2944-menjadu-rp3-juta",
+      "source": "jpnn.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Suporternya Mengamuk , PSS Sleman Terancam Sanksi Berat Banget",
+      "url": "https://www.jpnn.com/news/suporternya-mengamuk-pss-sleman-terancam-sanksi-berat-banget",
+      "source": "jpnn.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Sahroni Setuju Revisi UU Perlindungan Anak Dipercepat : Sudah Sangat Urgent",
+      "url": "https://www.viva.co.id/berita/nasional/1945388-sahroni-setuju-revisi-uu-perlindungan-anak-dipercepat-sudah-sangat-urgent",
+      "source": "viva.co.id",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Dubes Belanda : Pemulihan Tugu Kunstkring jaga warisan budaya Jakarta",
+      "url": "https://www.antaranews.com/berita/5869851/dubes-belanda-pemulihan-tugu-kunstkring-jaga-warisan-budaya-jakarta",
+      "source": "antaranews.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Harga SUV BAIC Lebih Murah Rp90 Juta",
+      "url": "https://www.viva.co.id/otomotif/1945391-harga-suv-baic-lebih-murah-rp90-juta",
+      "source": "viva.co.id",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Gempa Magnitudo 7 , 2 Guncang Maluku Barat Daya , BMKG Pastikan Tak Berpotensi Tsunami",
+      "url": "https://www.viva.co.id/berita/nasional/1945394-gempa-magnitudo-72-guncang-maluku-barat-daya-bmkg-pastikan-tak-berpotensi-tsunami",
+      "source": "viva.co.id",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Soroti Dugaan Perundungan Putri Dasco , Pemuda Muhammadiyah Desak Ada Efek Jera di Ruang Digital",
+      "url": "https://www.viva.co.id/berita/nasional/1945390-soroti-dugaan-perundungan-putri-dasco-pemuda-muhammadiyah-desak-ada-efek-jera-di-ruang-digital",
+      "source": "viva.co.id",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Darmizal Apresiasi Diplomasi Prabowo dan Kinerja Dasco",
+      "url": "https://www.jpnn.com/news/darmizal-apresiasi-diplomasi-prabowo-dan-kinerja-dasco",
+      "source": "jpnn.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "OJK Bongkar Praktik Goreng Saham , Keuntungan Ilegal Tembus Rp23 , 77 Miliar",
+      "url": "https://www.viva.co.id/bisnis/1945389-ojk-bongkar-praktik-goreng-saham-keuntungan-ilegal-tembus-rp2377-miliar",
+      "source": "viva.co.id",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Bukan Sekadar Pindah Habitat , Ini Syarat Pembentukan Populasi Kedua Badak Jawa",
+      "url": "https://www.jpnn.com/news/bukan-sekadar-pindah-habitat-ini-syarat-pembentukan-populasi-kedua-badak-jawa",
+      "source": "jpnn.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Soal Cawapres , Said Didu : Prabowo Butuh Penyambung Lidah Rakyat dan Penata Pemerintahan yang Baik",
+      "url": "https://nasional.sindonews.com/read/1774701/12/soal-cawapres-said-didu-prabowo-butuh-penyambung-lidah-rakyat-dan-penata-pemerintahan-yang-baik-1795263105",
+      "source": "nasional.sindonews.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Perluas Pemerataan Energi , Pertamina Patra Niaga Realisasikan 588 Titik BBM Satu Harga dan Gandeng 966 KDKMP",
+      "url": "https://www.viva.co.id/bisnis/1945393-perluas-pemerataan-energi-pertamina-patra-niaga-realisasikan-588-titik-bbm-satu-harga-dan-gandeng-966-kdkmp",
+      "source": "viva.co.id",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "IOJI bantu optimalisasi sistem distribusi BBM subsidi bagi nelayan",
+      "url": "https://www.antaranews.com/berita/5869875/ioji-bantu-optimalisasi-sistem-distribusi-bbm-subsidi-bagi-nelayan",
+      "source": "antaranews.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kata Kadin soal UMP Jakarta 2027 Naik Jadi Rp6 , 1 Juta",
+      "url": "https://www.viva.co.id/bisnis/1945400-kata-kadin-soal-ump-jakarta-2027-naik-jadi-rp61-juta",
+      "source": "viva.co.id",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Usaha Motul Memberikan Pemahaman Mengenai Perawatan Mobil Diesel",
+      "url": "https://www.jpnn.com/news/usaha-motul-memberikan-pemahaman-mengenai-perawatan-mobil-diesel",
+      "source": "jpnn.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Ahli gizi jelaskan manfaat kombinasi ayam dan nasi bagi tubuh",
+      "url": "https://www.antaranews.com/berita/5869859/ahli-gizi-jelaskan-manfaat-kombinasi-ayam-dan-nasi-bagi-tubuh",
+      "source": "antaranews.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "UMP Jawa Tengah Naik 14 , 10 % Jadi Sebegini",
+      "url": "https://www.jpnn.com/news/ump-jawa-tengah-naik-1410-jadi-sebegini",
+      "source": "jpnn.com",
+      "published": "20261121T123000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Hasil Penggeledahan di Bogor dan Tangerang , Polisi Temukan Dokumen , Spanduk , Hingga Posko Makar",
+      "url": "https://www.jawapos.com/kasuistika/2611210383/hasil-penggeledahan-di-bogor-dan-tangerang-polisi-temukan-dokumen-spanduk-hingga-posko-makar",
+      "source": "jawapos.com",
+      "published": "20261121T113000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Usai Kereta Tabrakan dengan Angkot , KAI Tutup Permanen Perlintasan Liar di Simalungun",
+      "url": "https://www.jawapos.com/berita-daerah/2611210379/usai-kereta-tabrakan-dengan-angkot-kai-tutup-permanen-perlintasan-liar-di-simalungun",
+      "source": "jawapos.com",
+      "published": "20261121T113000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kisah Pejuang Kemanusiaan Dompet Dhuafa Menembus Gaza",
+      "url": "https://news.republika.co.id/berita/toukwe328/kisah-pejuang-kemanusiaan-dompet-dhuafa-menembus-gaza",
+      "source": "news.republika.co.id",
+      "published": "20261121T113000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Perjuangan Dokter Hadiki Hidupkan Kembali RS Indonesia di Gaza",
+      "url": "https://news.republika.co.id/berita/toumib416/perjuangan-dokter-hadiki-hidupkan-kembali-rs-indonesia-di-gaza",
+      "source": "news.republika.co.id",
+      "published": "20261121T113000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Wacana Penurunan Status Pasar Modal RI oleh MSCI Dinilai Berpotensi Tekan Laju Pertumbuhan Ekonomi",
+      "url": "https://www.jawapos.com/ekonomi/2611210381/wacana-penurunan-status-pasar-modal-ri-oleh-msci-dinilai-berpotensi-tekan-laju-pertumbuhan-ekonomi",
+      "source": "jawapos.com",
+      "published": "20261121T113000Z",
+      "language": "Indonesian"
+    },
     {
       "title": "Cegah ODOL saat Nataru , Sistem ETLE HUB Awasi Ketat Truk Logistik",
       "url": "https://www.metrotvnews.com/read/ba4CvaDZ-cegah-odol-saat-nataru-sistem-etle-hub-awasi-ketat-truk-logistik",
@@ -17,6 +598,111 @@
       "url": "https://koran-jakarta.com/2026-11-21/jelang-penetapan-wapres-publik-diminta-tahan-diri-dari-narasi-yang-memperkeruh",
       "source": "koran-jakarta.com",
       "published": "20261121T103000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kesehatan Sendi Menentukan Kualitas Hidup Lansia di Masa Tua",
+      "url": "https://kesehatan.liputan6.com/info-sehat/read/8339473/kesehatan-sendi-menentukan-kualitas-hidup-lansia-di-masa-tua",
+      "source": "kesehatan.liputan6.com",
+      "published": "20261121T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Jejak Marianna Sutadi , Perempuan Pelopor di Mahkamah Agung",
+      "url": "https://www.merdeka.com/peristiwa/read/8339530/jejak-marianna-sutadi-perempuan-pelopor-di-mahkamah-agung",
+      "source": "merdeka.com",
+      "published": "20261121T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Baru Mulai Berlari ? Ini 5 Panduan Sederhana untuk Pelari Pemula",
+      "url": "https://kesehatan.liputan6.com/diet-dan-kebugaran/read/8339207/baru-mulai-berlari-ini-5-panduan-sederhana-untuk-pelari-pemula",
+      "source": "kesehatan.liputan6.com",
+      "published": "20261121T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Pesan JK ke Politisi : Jangan Hanya Berpikir Politik Lima Tahunan",
+      "url": "https://www.merdeka.com/politik/read/8339618/pesan-jk-ke-politisi-jangan-hanya-berpikir-politik-lima-tahunan",
+      "source": "merdeka.com",
+      "published": "20261121T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Saham Tesla hingga Nvidia Masuk Pasar Derivatif , Apa Risikonya ? : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/21/278/3255327/saham-tesla-hingga-nvidia-masuk-pasar-derivatif-apa-risikonya",
+      "source": "economy.okezone.com",
+      "published": "20261121T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Zurich Syariah Tawarkan Asuransi Gratis Retak Layar HP untuk Penonton Joyland",
+      "url": "https://keuangan.kontan.co.id/news/zurich-syariah-tawarkan-asuransi-gratis-retak-layar-hp-untuk-penonton-joyland",
+      "source": "keuangan.kontan.co.id",
+      "published": "20261121T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "IHSG Sepekan Anjlok 3 , 71 Persen , Investor Asing Net Sell Rp100 , 23 Triliun : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/21/278/3255298/ihsg-sepekan-anjlok-3-71-persen-investor-asing-net-sell-rp100-23-triliun",
+      "source": "economy.okezone.com",
+      "published": "20261121T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kenali Bi - LED projector sebelum mengganti lampu standar mobil",
+      "url": "https://otomotif.antaranews.com/berita/5869311/kenali-bi-led-projector-sebelum-mengganti-lampu-standar-mobil",
+      "source": "otomotif.antaranews.com",
+      "published": "20261121T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Tiket Pesawat Bebas PPN , Ini Daftar Lengkap Diskon Libur Nataru",
+      "url": "https://www.merdeka.com/uang/read/8339056/tiket-pesawat-bebas-ppn-ini-daftar-lengkap-diskon-libur-nataru",
+      "source": "merdeka.com",
+      "published": "20261121T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Harga Emas Antam Turun Lagi , Hari Ini Cuma Rp2 . 495 . 000 per Gram",
+      "url": "https://www.merdeka.com/uang/read/8339613/harga-emas-antam-turun-lagi-hari-ini-cuma-rp2495000-per-gram",
+      "source": "merdeka.com",
+      "published": "20261121T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Mengapa Antrean Pelabuhan Ketapang Terus Berulang Sejak September ?",
+      "url": "https://www.merdeka.com/uang/read/8339582/mengapa-antrean-pelabuhan-ketapang-terus-berulang-sejak-september",
+      "source": "merdeka.com",
+      "published": "20261121T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Jadwal Hong Kong Open 2026 : 4 Wakil Indonesia Berlaga untuk Tiket Final",
+      "url": "https://momsmoney.kontan.co.id/news/jadwal-hong-kong-open-2026-4-wakil-indonesia-berlaga-untuk-tiket-final",
+      "source": "momsmoney.kontan.co.id",
+      "published": "20261121T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "5 Fakta Taman Nasional Ujung Kulon Bukan Wilayah Pertambangan : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/21/320/3255278/5-fakta-taman-nasional-ujung-kulon-bukan-wilayah-pertambangan",
+      "source": "economy.okezone.com",
+      "published": "20261121T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kapolri gagas  blue policing  cegah penggunaan bom ikan di perairan",
+      "url": "https://www.antaranews.com/berita/5869299/kapolri-gagas-blue-policing-cegah-penggunaan-bom-ikan-di-perairan",
+      "source": "antaranews.com",
+      "published": "20261121T064500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Perkuat Pengawasan , BEI Ajak Tim Nasdaq Berkantor di Bursa : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/21/278/3255326/perkuat-pengawasan-bei-ajak-tim-nasdaq-berkantor-di-bursa",
+      "source": "economy.okezone.com",
+      "published": "20261121T064500Z",
       "language": "Indonesian"
     }
   ]
