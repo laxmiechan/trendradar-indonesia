@@ -2,102 +2,6 @@
   "retention_days": 7,
   "snapshots": [
     {
-      "timestamp": "2026-11-15T07:06:08.912999+00:00",
-      "trends_updated_at": "2026-11-15T07:03:42.093778+00:00",
-      "total_trends": 10,
-      "news_count": 5,
-      "topics": [
-        {
-          "title": "cerezo osaka vs urawa reds",
-          "traffic": "500+"
-        },
-        {
-          "title": "dadang hartanto",
-          "traffic": "200+"
-        },
-        {
-          "title": "peringkat fifa timnas indonesia",
-          "traffic": "500+"
-        },
-        {
-          "title": "cinema xxi",
-          "traffic": "100+"
-        },
-        {
-          "title": "terikat janji episode 217",
-          "traffic": "2000+"
-        },
-        {
-          "title": "aldi satya mahendra",
-          "traffic": "100+"
-        },
-        {
-          "title": "suhu",
-          "traffic": "200+"
-        },
-        {
-          "title": "berita",
-          "traffic": "500+"
-        },
-        {
-          "title": "nadzira shafa",
-          "traffic": "500+"
-        },
-        {
-          "title": "j. league",
-          "traffic": "200+"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-11-15T14:42:43.997734+00:00",
-      "trends_updated_at": "2026-11-15T14:40:27.456550+00:00",
-      "total_trends": 10,
-      "news_count": 5,
-      "topics": [
-        {
-          "title": "granada vs las palmas",
-          "traffic": "100+"
-        },
-        {
-          "title": "alexander zverev",
-          "traffic": "200+"
-        },
-        {
-          "title": "inter milan vs juventus f.c.",
-          "traffic": "200+"
-        },
-        {
-          "title": "aston villa l. f. c. vs birmingham city wfc",
-          "traffic": "200+"
-        },
-        {
-          "title": "weather tomorrow",
-          "traffic": "5000+"
-        },
-        {
-          "title": "utang",
-          "traffic": "200+"
-        },
-        {
-          "title": "france vs turkey",
-          "traffic": "100+"
-        },
-        {
-          "title": "siprus vs montenegro",
-          "traffic": "2000+"
-        },
-        {
-          "title": "bumi saham",
-          "traffic": "500+"
-        },
-        {
-          "title": "ragnar oratmangoen",
-          "traffic": "200+"
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-15T20:19:41.258377+00:00",
       "trends_updated_at": "2026-11-15T20:17:18.918710+00:00",
       "total_trends": 10,
@@ -1150,6 +1054,54 @@
         {
           "title": "kepolisian negara republik indonesia",
           "traffic": "10000+"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-22T14:52:46.233523+00:00",
+      "trends_updated_at": "2026-11-22T14:50:22.722471+00:00",
+      "total_trends": 10,
+      "news_count": 100,
+      "topics": [
+        {
+          "title": "giacomo agostini",
+          "traffic": "200+"
+        },
+        {
+          "title": "kasimpasa",
+          "traffic": "100+"
+        },
+        {
+          "title": "paris",
+          "traffic": "100+"
+        },
+        {
+          "title": "racing santander vs real sociedad",
+          "traffic": "1000+"
+        },
+        {
+          "title": "gerard martín",
+          "traffic": "500+"
+        },
+        {
+          "title": "everton l. f. c. vs brighton & hove albion w.f.c.",
+          "traffic": "200+"
+        },
+        {
+          "title": "arsenal w.f.c. vs west ham united putri",
+          "traffic": "500+"
+        },
+        {
+          "title": "augsburg vs mainz 05",
+          "traffic": "200+"
+        },
+        {
+          "title": "casino royale",
+          "traffic": "200+"
+        },
+        {
+          "title": "marquez",
+          "traffic": "200+"
         }
       ]
     }
