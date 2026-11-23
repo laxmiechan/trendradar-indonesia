@@ -1,234 +1,234 @@
 {
-  "updated_at": "2026-11-22T20:59:14.904990+00:00",
+  "updated_at": "2026-11-23T01:30:35.239671+00:00",
   "total_trends": 10,
   "trends": [
     {
-      "title": "jadwal sholat surabaya",
-      "published": "Sun, 22 Nov 2026 12:30:00 -0800",
+      "title": "knicks vs pacers",
+      "published": "Sun, 22 Nov 2026 17:20:00 -0800",
+      "traffic": "200+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "After tough win, Knicks host longtime rival Pacers",
+          "url": "https://www.thesportsleader.com/2026/11/22/after-tough-win-knicks-host-longtime-rival-pacers/",
+          "source": "KNBR"
+        },
+        {
+          "title": "Pacers get good news on Pascal Siakam's injury vs. Knicks",
+          "url": "https://www.indystar.com/story/sports/nba/pacers/2026/11/22/pascal-siakam-injury-update-indiana-gets-good-news-on-forward-ahead-of-knicks-game/92918460007/",
+          "source": "IndyStar"
+        },
+        {
+          "title": "Bub Carrington (illness) upgraded to available",
+          "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-22/bub-carrington-illness-upgraded-to-available",
+          "source": "NBC Sports"
+        }
+      ]
+    },
+    {
+      "title": "kospi",
+      "published": "Sun, 22 Nov 2026 17:20:00 -0800",
+      "traffic": "200+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+          "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Kiwoom Securities Sets Worst-Case KOSPI Range of 4,200-4,300, Says 'Hold-and-Endure Strategy Still Valid' for South Korea's Market",
+          "url": "https://finance.biggo.com/news/33ff8fac-a283-48f9-9eb0-77e523098920",
+          "source": "BigGo Finance"
+        },
+        {
+          "title": "Japan & Korea stocks sink 5% in a 'Black Friday'; SK Hynix takes the helm at Kioxia | Daily News Recap",
+          "url": "https://longbridge.com/en/dolphin/post/45225779",
+          "source": "Longbridge"
+        }
+      ]
+    },
+    {
+      "title": "warriors vs celtics",
+      "published": "Sun, 22 Nov 2026 17:10:00 -0800",
+      "traffic": "200+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Celtics at Warriors: Boston looks to rebound after last-second loss",
+          "url": "https://www.bostonglobe.com/2026/11/22/sports/celtics-warriors-preview-november-22/",
+          "source": "The Boston Globe"
+        },
+        {
+          "title": "Preview: Home cooking without the chef?",
+          "url": "https://dubnationhq.com/p/preview-home-cooking-without-the",
+          "source": "Dub Nation HQ"
+        },
+        {
+          "title": "Jayson Tatum (rest) back in lineup Sunday",
+          "url": "https://www.fantasypros.com/nba/news/621894/jayson-tatum-rest-back-lineup-sunday.php",
+          "source": "FantasyPros"
+        }
+      ]
+    },
+    {
+      "title": "umk surabaya 2027",
+      "published": "Sun, 22 Nov 2026 17:10:00 -0800",
       "traffic": "100+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "Cek Jadwal Sholat Surabaya Hari Ini 23 November Beserta Niatnya",
-          "url": "https://www.detik.com/jatim/berita/d-8764613/cek-jadwal-sholat-surabaya-hari-ini-23-november-beserta-niatnya",
+          "title": "DPRD Jatim minta UMK 2027 berpihak kepada buruh",
+          "url": "https://jatim.antaranews.com/berita/1122235/dprd-jatim-minta-umk-2027-berpihak-kepada-buruh",
+          "source": "Antara News jatim"
+        },
+        {
+          "title": "Khofifah Tetapkan UMP Jatim Tahun 2027 Rp 2,7 Juta",
+          "url": "https://www.detik.com/jatim/bisnis/d-8763861/khofifah-tetapkan-ump-jatim-tahun-2027-rp-2-7-juta",
           "source": "detikcom"
         },
         {
-          "title": "Kemenag Rilis Jadwal Salat 19 November 2026 di Jawa Timur",
-          "url": "https://lensahukum.co.id/kemenag-rilis-jadwal-salat-19-november-2026-di-jawa-timur",
-          "source": "Lensa Hukum"
-        },
-        {
-          "title": "Bimas Islam Rilis Jadwal Salat Surabaya 19 November 2026",
-          "url": "https://centralbatam.co.id/jadwal-salat-surabaya-19-november-2026",
-          "source": "CentralBatam"
+          "title": "Tok! UMP Jawa Timur 2027 Ditetapkan Rp2,78 Juta, Naik 13,61%",
+          "url": "https://surabaya.bisnis.com/read/20261122/531/2023382/tok-ump-jawa-timur-2027-ditetapkan-rp278-juta-naik-1361",
+          "source": "Bisnis.com - Surabaya"
         }
       ]
     },
     {
-      "title": "atm vs getafe",
-      "published": "Sun, 22 Nov 2026 12:20:00 -0800",
+      "title": "wizards vs magic",
+      "published": "Sun, 22 Nov 2026 17:00:00 -0800",
       "traffic": "100+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "Asistencia de Julián Álvarez para el gol de Álex Baena en el 1-0 del Atlético de Madrid vs Getafe",
-          "url": "https://www.ole.com.ar/futbol-internacional/espana/asistencia-julian-alvarez-gol-alex-baena-1-0-atletico-madrid-vs-getafe_3_nv7afS3RWf.html",
-          "source": "Olé"
+          "title": "Anthony Davis, Wizards seek to extend streak as they take on Magic",
+          "url": "https://www.thesportsleader.com/2026/11/21/anthony-davis-wizards-seek-to-extend-streak-as-they-take-on-magic/",
+          "source": "KNBR"
         },
         {
-          "title": "El Getafe, uno de los rivales más especiales para un Kang-in que necesita recuperar gol",
-          "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261122/1004254058/getafe-rivales-especiales-kang-in-necesita-recuperar-gol.html",
-          "source": "Mundo Deportivo"
+          "title": "Orlando Magic at Washington Wizards: Game Preview",
+          "url": "https://www.nba.com/magic/news/orlando-magic-washington-wizards-game-preview-injury-report-20261122",
+          "source": "NBA.com"
         },
         {
-          "title": "DIRECTO | Getafe 0 - 2 Atlético de Madrid; Gol de Johnny",
-          "url": "https://www.cope.es/programas/tiempo-de-juego/cronica/directo-getafe-atletico-madrid-primera-division-jornada-13-22-20261122_3479847.html",
-          "source": "COPE"
+          "title": "Magic vs Wizards Player Prop Bets Tonight – NBA, Nov. 22",
+          "url": "https://sports.betmgm.com/en/blog/nba/magic-wizards-player-prop-bets-picks-nba-nov-22-jaa/",
+          "source": "sports.betmgm.com"
         }
       ]
     },
     {
-      "title": "marseille",
-      "published": "Sun, 22 Nov 2026 12:00:00 -0800",
+      "title": "bulls vs nuggets",
+      "published": "Sun, 22 Nov 2026 16:40:00 -0800",
+      "traffic": "200+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Can the Bulls Handle Jokić Without Powell? Nuggets vs Bulls LIVE Pregame",
+          "url": "https://bvmsports.com/2026/11/22/can-the-bulls-handle-jokic-without-powell-nuggets-vs-bulls-live-pregame/",
+          "source": "BVM Sports"
+        },
+        {
+          "title": "Nuggets play Bulls on Sunday",
+          "url": "https://nuggets.com/news/nuggets-play-bulls-on-sunday",
+          "source": "NBA.com"
+        },
+        {
+          "title": "Nikola Jokic, Nuggets look to build on surge vs. Bulls",
+          "url": "https://www.joxfm.com/2026/11/21/nikola-jokic-nuggets-look-to-build-on-surge-vs-bulls/",
+          "source": "WJOX-FM"
+        }
+      ]
+    },
+    {
+      "title": "siap",
+      "published": "Sun, 22 Nov 2026 16:40:00 -0800",
+      "traffic": "100+",
+      "link": "https://trends.google.com/trending/rss?geo=ID",
+      "related_news": [
+        {
+          "title": "Lewat Reses, Bang Qomal Siap Dorong Legalitas Musisi Banjarbaru, Agus Yong: Kami Rindu Festival Musik!",
+          "url": "https://redaksi8.com/lewat-reses-bang-qomal-siap-dorong-legalitas-musisi-banjarbaru-agus-yong-kami-rindu-festival-musik/",
+          "source": "Redaksi 8"
+        },
+        {
+          "title": "Orideko Burdam: NasDem PBD Bidik Posisi Puncak di Pemilu 2029",
+          "url": "https://koreri.com/2026/11/22/orideko-burdam-nasdem-pbd-bidik-posisi-puncak-di-pemilu-2029/",
+          "source": "Koreri"
+        },
+        {
+          "title": "Perkuat Soliditas Kader,DPD Partai NasDem Majalengka Ikuti Kemah Restorasi",
+          "url": "https://www.kompasiana.com/marhaen0252361/6b028fb3ed641509de5cfdde/perkuat-soliditas-kader-dpd-partai-nasdem-majalengka-ikuti-kemah-restorasi",
+          "source": "Kompasiana.com"
+        }
+      ]
+    },
+    {
+      "title": "jazz vs mavericks",
+      "published": "Sun, 22 Nov 2026 16:20:00 -0800",
       "traffic": "500+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "OM : malade, Pierre-Emile Hojbjerg devrait être forfait contre Le Mans",
-          "url": "https://www.laprovence.com/article/om/1412304239460815/om-malade-pierre-emile-hojbjerg-devrait-etre-forfait-contre-le-mans",
-          "source": "La Provence"
-        },
-        {
-          "title": "Olympique de Marseille - Le Mans : direct vidéo, streaming, chaîne TV... à quelle heure et comment regarder le match",
-          "url": "https://www.dazn.com/fr-FR/news/football/olympique-de-marseille-le-mans-direct-video-streaming-chaine-tv-a-quelle-heure-et-comment-regarder-le-match/8zsg9oifna2x1gqtxtnyn9462",
-          "source": "DAZN"
-        },
-        {
-          "title": "OM : Aguerd retrouve son statut, Rabillard s’apprête à vivre une soirée pas comme les autres !",
-          "url": "https://www.footballclubdemarseille.fr/om-actualites/om-aguerd-retrouve-son-statut-rabillard-soiree-particuliere.html",
-          "source": "Football Club de Marseille"
-        }
-      ]
-    },
-    {
-      "title": "saifullah yusuf",
-      "published": "Sun, 22 Nov 2026 11:50:00 -0800",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Mensos Apresiasi Pemkot Mataram, 45% KK Sudah Terdaftar di Perlinsos Digital",
-          "url": "https://news.detik.com/berita/d-8764419/mensos-apresiasi-pemkot-mataram-45-kk-sudah-terdaftar-di-perlinsos-digital",
-          "source": "detikNews"
-        },
-        {
-          "title": "Kota Mataram Peringkat Kedua Perlinsos Digital, Kader Posyandu Jadi Agen Paling Produktif - kumparan.com",
-          "url": "https://kumparan.com/kumparannews/kota-mataram-peringkat-kedua-perlinsos-digital-kader-posyandu-jadi-agen-paling-produktif-28cgj0yFvvY",
-          "source": "kumparan"
-        },
-        {
-          "title": "Pemkab Madiun Imbau Warga Daftar Perlinsos sebelum 2027",
-          "url": "https://rri.co.id/madiun/regional/2915374/pemkab-madiun-imbau-warga-daftar-perlinsos-sebelum-2027",
-          "source": "RRI.co.id"
-        }
-      ]
-    },
-    {
-      "title": "atlético madrid",
-      "published": "Sun, 22 Nov 2026 11:30:00 -0800",
-      "traffic": "1000+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Preview: Getafe vs Atletico Madrid - prediction, team news, lineups",
-          "url": "https://www.sportsmole.co.uk/football/atletico-madrid/preview/getafe-vs-atletico-prediction-team-news-lineups_609490.html",
-          "source": "Sports Mole"
-        },
-        {
-          "title": "Licensable picture: Getafe CF V Atletico De Madrid - LaLiga EA Sports 2026/27",
-          "url": "https://www.reutersconnect.com/item/getafe-cf-v-atletico-de-madrid-laliga-ea-sports-202627/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBJNDc0Rjk",
+          "title": "NBA: Dallas Mavericks at Utah Jazz",
+          "url": "https://www.reutersconnect.com/item/nba-dallas-mavericks-at-utah-jazz/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMzA0MjkzNzk",
           "source": "Reuters Connect"
         },
         {
-          "title": "Getafe Hosts Atletico Madrid in High Intensity Madrid Derby",
-          "url": "https://demokratis.co.id/en/getafe-hosts-atletico-madrid-derby",
-          "source": "Demokratis.co.id"
+          "title": "Mavericks-Jazz preview: Here's hoping this trip is better than the last one",
+          "url": "https://www.nba.com/mavs/news/mavericks-jazz-preview-heres-hoping-this-trip-is-better-than-the-last-one",
+          "source": "NBA.com"
+        },
+        {
+          "title": "Mavericks vs. Jazz Prediction, Odds and Best NBA Prop Bets for Sunday, Nov. 22",
+          "url": "https://www.si.com/betting/mavericks-vs-jazz-prediction-odds-and-best-nba-prop-bets-for-sunday-nov-22-2026",
+          "source": "Sports Illustrated"
         }
       ]
     },
     {
-      "title": "atm vs",
-      "published": "Sun, 22 Nov 2026 11:30:00 -0800",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Oklahoma 28-7 Texas A&M (Nov 21, 2026) Game Recap",
-          "url": "https://www.espn.com/college-football/recap/_/gameId/401856752",
-          "source": "ESPN"
-        },
-        {
-          "title": "John Mateer creates lasting memory in Oklahoma home finale",
-          "url": "https://247sports.com/college/oklahoma/article/john-mateer-creates-lasting-memory-in-oklahoma-home-finale-293171227/",
-          "source": "247Sports"
-        },
-        {
-          "title": "OU football defense puts stranglehold on Brady Hart, Texas A&M | Report card",
-          "url": "https://www.oklahoman.com/story/sports/college/sooners/2026/11/21/ou-football-grades-vs-texas-am-high-marks-defense-oklahoma-sooners/92906766007/",
-          "source": "The Oklahoman"
-        }
-      ]
-    },
-    {
-      "title": "rosario central",
-      "published": "Sun, 22 Nov 2026 11:20:00 -0800",
-      "traffic": "100+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Central inicia los playoffs con la obligación de dejar atrás la frustración por la tabla anual",
-          "url": "https://onefootball.com/es/noticias/central-inicia-los-playoffs-con-la-obligacion-de-dejar-atras-la-frustracion-por-la-tabla-anual-43819823",
-          "source": "OneFootball"
-        },
-        {
-          "title": "Rosario Central 3 - 1 Gimnasia (Mendoza): así fue la victoria en el Torneo Clausura 2026",
-          "url": "https://www.canal26.com/futbol/liga-profesional-de-futbol/rosario-central-vs-gimnasia-mendoza-en-vivo-hoy-resultado-goles-y-minuto-a-minuto-del-torneo-clausura-2026/",
-          "source": "Canal26"
-        },
-        {
-          "title": "Con goles de Campaz, Copetti y Carrera en contra, Central golea a Gimnasia (M) por 3 a 0",
-          "url": "https://www.conclusion.com.ar/deportes/con-goles-de-campaz-copetti-y-carrera-en-contra-central-golea-a-gimnasia-m-por-3-a-0/11/2026/",
-          "source": "Diario Digital Conclusión"
-        }
-      ]
-    },
-    {
-      "title": "1",
-      "published": "Sun, 22 Nov 2026 11:20:00 -0800",
+      "title": "garuda indonesia",
+      "published": "Sun, 22 Nov 2026 16:20:00 -0800",
       "traffic": "200+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "Georgia clinches SEC title game berth with win at South Carolina",
-          "url": "https://www.espn.com/college-football/story/_/id/50558713/georgia-clinches-sec-title-game-berth-win-south-carolina",
-          "source": "ESPN"
+          "title": "Garuda Indonesia Hadirkan Pilihan Tiket Baru Mulai 2027, Ini Kategorinya",
+          "url": "https://money.kompas.com/read/2026/11/22/203259626/garuda-indonesia-hadirkan-pilihan-tiket-baru-mulai-2027-ini-kategorinya",
+          "source": "Kompas.com"
         },
         {
-          "title": "Georgia QB Gunner Stockton on No. 1 Bulldogs win at South Carolina",
-          "url": "https://sports.yahoo.com/videos/georgia-qb-gunner-stockton-no-203246124.html",
-          "source": "Yahoo Sports"
+          "title": "Garuda Tawarkan Fleksibilitas Tiket di 2027, Ini Bocorannya",
+          "url": "https://finance.detik.com/berita-ekonomi-bisnis/d-8764704/garuda-tawarkan-fleksibilitas-tiket-di-2027-ini-bocorannya",
+          "source": "detikFinance"
         },
         {
-          "title": "Georgia has top College Football Playoff seed in sight with dominating road win over No 21 South Carolina | OutKick",
-          "url": "https://www.foxnews.com/outkick-sports/georgia-top-college-football-playoff-seed-sight-dominating-road-win-no-21-south-carolina",
-          "source": "Fox News"
+          "title": "Garuda Indonesia Beri Lebih Banyak Pilihan Tiket Mulai Awal Tahun 2027",
+          "url": "https://industri.kontan.co.id/news/garuda-indonesia-beri-lebih-banyak-pilihan-tiket-mulai-awal-tahun-2027",
+          "source": "kontan.co.id"
         }
       ]
     },
     {
-      "title": "alphadjo cisse",
-      "published": "Sun, 22 Nov 2026 11:00:00 -0800",
+      "title": "tertulis untuk kita rcti",
+      "published": "Sun, 22 Nov 2026 16:10:00 -0800",
       "traffic": "200+",
       "link": "https://trends.google.com/trending/rss?geo=ID",
       "related_news": [
         {
-          "title": "AC Milan vs. Frosinone, Serie A Enilive 2026/2027: the official line-ups",
-          "url": "https://www.acmilan.com/en/news/articles/serie-a/2026-11-22/ac-milan-vs-frosinone-official-line-ups",
-          "source": "AC Milan | Sito Ufficiale"
+          "title": "Stefan William dan Angela Gilsha Bakal Adu Akting di Sinetron Terbaru",
+          "url": "https://hot.detik.com/celeb/d-8764334/stefan-william-dan-angela-gilsha-bakal-adu-akting-di-sinetron-terbaru",
+          "source": "detikHOT"
         },
         {
-          "title": "AC Milan player ratings vs Frosinone: Christian Pulisic stars as Ruben Amorim's ruthless Rossoneri run riot",
-          "url": "https://www.goal.com/en-sa/news/ac-milan-player-ratings-frosinone-christian-pulisic-stars-ruben-amorim-rossoneri-/blt079c05dcdebf00a0",
-          "source": "Goal.com"
+          "title": "Sinetron \"Tertulis untuk Kita\" Segera Hadir di RCTI",
+          "url": "https://ceknricek.com/sinetron-tertulis-untuk-kita-segera-hadir-di-rcti/",
+          "source": "cek&ricek"
         },
         {
-          "title": "GdS: Wins, consistency and goals for Ramos – the next steps Amorim wants Milan to take",
-          "url": "https://sempremilan.com/next-steps-amorim-wants-milan-to-take",
-          "source": "SempreMilan"
-        }
-      ]
-    },
-    {
-      "title": "lillestrom",
-      "published": "Sun, 22 Nov 2026 11:00:00 -0800",
-      "traffic": "200+",
-      "link": "https://trends.google.com/trending/rss?geo=ID",
-      "related_news": [
-        {
-          "title": "Lillestrom Jaga Tren Positif Jelang Hadapi Kristiansund",
-          "url": "https://bsinews.id/lillestrom-hadapi-kristiansund-desember-2026",
-          "source": "bsinews.id"
-        },
-        {
-          "title": "Lillestrom Hadapi Kristiansund pada 6 Desember di Norwegia",
-          "url": "https://lensahukum.co.id/lillestrom-hadapi-kristiansund-desember",
-          "source": "Lensa Hukum"
-        },
-        {
-          "title": "Lillestrom Jaga Empat Kemenangan Jelang Hadapi Kristiansund",
-          "url": "https://www.limapagi.id/lillestrom-hadapi-kristiansund-desember",
-          "source": "Limapagi"
+          "title": "Ratusan Emak-Emak Antusias Nobar Episode Perdana Sinetron Tertulis untuk Kita",
+          "url": "https://www.rctiplus.com/news/detail/okezone/5522141/ratusan-emak-emak-antusias-nobar-episode-perdana-sinetron-tertulis-untuk-kita",
+          "source": "RCTI+"
         }
       ]
     }

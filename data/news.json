@@ -1,169 +1,92 @@
 {
-  "updated_at": "2026-11-22T20:59:14.984798+00:00",
-  "fetched_at": "2026-11-22T20:59:14.984798+00:00",
-  "latest_seen_at": "2026-11-22T20:30:00+00:00",
+  "updated_at": "2026-11-23T01:30:35.337686+00:00",
+  "fetched_at": "2026-11-23T01:30:35.337686+00:00",
+  "latest_seen_at": "2026-11-23T00:30:00+00:00",
   "search_window_hours": 3,
-  "total_news": 23,
+  "total_news": 12,
   "articles": [
     {
-      "title": "Menteri PKP Dukung PMN SMF Demi Perluasan Akses Rumah Subsidi",
-      "url": "https://news.republika.co.id/berita/tox68h5930000/menteri-pkp-dukung-pmn-smf-demi-perluasan-akses-rumah-subsidi",
-      "source": "news.republika.co.id",
-      "published": "20261122T203000Z",
+      "title": "PSSI Cari Pengganti John Herdman di Timnas Indonesia U - 23",
+      "url": "https://www.cnnindonesia.com/olahraga/20261122231739-142-1430190/pssi-cari-pengganti-john-herdman-di-timnas-indonesia-u-23",
+      "source": "cnnindonesia.com",
+      "published": "20261123T003000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Pemkot Bekasi Ajak Muhammadiyah Perkuat Sinergi Hadapi Tantangan Global",
-      "url": "https://news.republika.co.id/berita/tox5n88430000/pemkot-bekasi-ajak-muhammadiyah-perkuat-sinergi-hadapi-tantangan-global",
-      "source": "news.republika.co.id",
-      "published": "20261122T203000Z",
+      "title": "Danza D9 Premium Dijual Rp1 , 2 Miliar , Incar Xpeng X9 dan Toyota Alphard",
+      "url": "https://otomotif.sindonews.com/read/1775093/120/danza-d9-premium-dijual-rp12-miliar-incar-xpeng-x9-dan-toyota-alphard-1795389107",
+      "source": "otomotif.sindonews.com",
+      "published": "20261123T003000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Kapolres Metro Bekasi Imbau Waspada Curanmor Saat Kunjungan Minggu Kasih di Gereja Cikarang",
-      "url": "https://koran-jakarta.com/2026-11-23/kapolres-metro-bekasi-imbau-waspada-curanmor-saat-kunjungan-minggu-kasih-di-gereja-cikarang",
-      "source": "koran-jakarta.com",
-      "published": "20261122T193000Z",
+      "title": "Marc Marquez Klaim Sebagai GOAT Saat Perayaan Juara Dunia MotoGP 2026",
+      "url": "https://www.cnnindonesia.com/olahraga/20261123060520-156-1430199/marc-marquez-klaim-sebagai-goat-saat-perayaan-juara-dunia-motogp-2026",
+      "source": "cnnindonesia.com",
+      "published": "20261123T003000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Jajaran Polda Metro Jaya Kembali Dirombak",
-      "url": "https://koran-jakarta.com/2026-11-23/jajaran-polda-metro-jaya-kembali-dirombak",
-      "source": "koran-jakarta.com",
-      "published": "20261122T193000Z",
+      "title": "Igor Tolic setelah Persib Gulung Bali United : Kemenangan yang Pantas",
+      "url": "https://www.cnnindonesia.com/olahraga/20261123064356-142-1430206/igor-tolic-setelah-persib-gulung-bali-united-kemenangan-yang-pantas",
+      "source": "cnnindonesia.com",
+      "published": "20261123T003000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Peringatan Hari Transmigrasi Nasional , Wamen Viva Naik Sepeda Ontel Ikuti Gowes Kebangsaan : Okezone News",
-      "url": "https://news.okezone.com/read/2026/11/22/337/3255600/peringatan-hari-transmigrasi-nasional-wamen-viva-naik-sepeda-ontel-ikuti-gowes-kebangsaan",
-      "source": "news.okezone.com",
-      "published": "20261122T193000Z",
+      "title": "ZEEKR 009 dan 7X Tampil Lagi di GAW , Ini yang Perlu Dicek Pemesan Awal",
+      "url": "https://otomotif.sindonews.com/read/1775095/120/zeekr-009-dan-7x-tampil-lagi-di-gaw-ini-yang-perlu-dicek-pemesan-awal-1795389073",
+      "source": "otomotif.sindonews.com",
+      "published": "20261123T003000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Gunung Semeru 4 Kali Erupsi Malam Ini : Okezone News",
-      "url": "https://news.okezone.com/read/2026/11/22/340/3255599/gunung-semeru-4-kali-erupsi-malam-ini",
-      "source": "news.okezone.com",
-      "published": "20261122T193000Z",
+      "title": "5 Perwira Malaysia Selundup Narkoba ke RI & El Chapo Isidro Ditangkap",
+      "url": "https://www.cnnindonesia.com/internasional/20261123053731-106-1430196/5-perwira-malaysia-selundup-narkoba-ke-ri-el-chapo-isidro-ditangkap",
+      "source": "cnnindonesia.com",
+      "published": "20261123T003000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Potensi Raksasa yang Belum Tergarap , Masata Sumsel Desak Palembang Garap Wisata Religius",
-      "url": "https://koran-jakarta.com/2026-11-23/potensi-raksasa-yang-belum-tergarap-masata-sumsel-desak-palembang-garap-wisata-religius",
-      "source": "koran-jakarta.com",
-      "published": "20261122T193000Z",
+      "title": "IU Konser Dua Hari di JIS , 8 dan 9 Mei 2027",
+      "url": "https://www.cnnindonesia.com/hiburan/20261122224335-227-1430187/iu-akan-kembali-konser-di-jakarta-8-dan-9-mei-2027",
+      "source": "cnnindonesia.com",
+      "published": "20261123T003000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Creative Family Awards 2026 - 2027 Dorong Kreativitas Keluarga : Okezone Digital",
-      "url": "https://digital.okezone.com/view/2026/11/22/1/106549/creative-family-awards-2026-2027-dorong-kreativitas-keluarga",
-      "source": "digital.okezone.com",
-      "published": "20261122T193000Z",
+      "title": "IHSG Diproyeksi Unjuk Gigi Awali Pekan Ini",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261122201738-92-1430168/ihsg-diproyeksi-unjuk-gigi-awali-pekan-ini",
+      "source": "cnnindonesia.com",
+      "published": "20261123T003000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Kapolda Metro Rotasi Posisi Kasat dan Wakasat Reskrim , Berikut Daftarnya : Okezone News",
-      "url": "https://news.okezone.com/read/2026/11/22/338/3255594/kapolda-metro-rotasi-posisi-kasat-dan-wakasat-reskrim-berikut-daftarnya",
-      "source": "news.okezone.com",
-      "published": "20261122T193000Z",
+      "title": "Trump Isyarat Lanjut Serang Iran usai Tahun Baru jika Negosiasi Buntu",
+      "url": "https://www.cnnindonesia.com/internasional/20261123060009-134-1430198/trump-isyarat-lanjut-serang-iran-usai-tahun-baru-jika-negosiasi-buntu",
+      "source": "cnnindonesia.com",
+      "published": "20261123T003000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Sampah - sampah Cisadane Kini Dijerat agar Tak ke Hilir",
-      "url": "https://koran-jakarta.com/2026-11-23/sampah-sampah-cisadane-kini-dijerat-agar-tak-ke-hilir",
-      "source": "koran-jakarta.com",
-      "published": "20261122T193000Z",
+      "title": "Beli Kia Carens EV di GAW 2026 Dapat Hadiah Wall Charger",
+      "url": "https://www.cnnindonesia.com/otomotif/20261122225110-608-1430188/beli-kia-carens-ev-di-gaw-2026-dapat-hadiah-wall-charger",
+      "source": "cnnindonesia.com",
+      "published": "20261123T003000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Galaxy Z Fold 8 Ultra vs Google Pixel 11 Pro Fold : Duel Hp Kamera , Performa , dan Fitur AI",
-      "url": "https://www.viva.co.id/gaya-hidup/digilife/1945638-galaxy-z-fold-8-ultra-vs-google-pixel-11-pro-fold-duel-hp-kamera-performa-dan-fitur-ai",
-      "source": "viva.co.id",
-      "published": "20261122T184500Z",
+      "title": "Leny Yoro , Perusak Debut Pochettino di Manchester United",
+      "url": "https://www.cnnindonesia.com/olahraga/20261123061315-142-1430201/leny-yoro-perusak-debut-pochettino-di-manchester-united",
+      "source": "cnnindonesia.com",
+      "published": "20261123T003000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Mayoritas Warga Jerman Ogah Negara Terus Gelontorkan Bantuan ke Ukraina",
-      "url": "https://koran-jakarta.com/2026-11-23/mayoritas-warga-jerman-ogah-negara-terus-gelontorkan-bantuan-ke-ukraina",
-      "source": "koran-jakarta.com",
-      "published": "20261122T184500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Jerman dan Austria Dorong TikTok Beralih ke Pemilik Eropa",
-      "url": "https://koran-jakarta.com/2026-11-23/jerman-dan-austria-dorong-tiktok-beralih-ke-pemilik-eropa",
-      "source": "koran-jakarta.com",
-      "published": "20261122T184500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Kapolri Mutasi Dua Kapolres dan Pejabat Utama di Lingkungan Polda Kepri",
-      "url": "https://koran-jakarta.com/2026-11-23/kapolri-mutasi-dua-kapolres-dan-pejabat-utama-di-lingkungan-polda-kepri",
-      "source": "koran-jakarta.com",
-      "published": "20261122T184500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Super El Niño Mengancam ! MPR Dorong Aturan Iklim Lebih Kuat , Apa Dampaknya bagi Indonesia ?",
-      "url": "https://koran-jakarta.com/2026-11-23/super-el-ni%C3%B1o-mengancam-mpr-dorong-aturan-iklim-lebih-kuat-apa-dampaknya-bagi-indonesia",
-      "source": "koran-jakarta.com",
-      "published": "20261122T184500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Kritik Sineas Mengemuka di FFI 2026 , Kementerian Kebudayaan Klaim Terbuka untuk Berdialog",
-      "url": "https://koran-jakarta.com/2026-11-23/kritik-sineas-mengemuka-di-ffi-2026-kementerian-kebudayaan-klaim-terbuka-untuk-berdialog",
-      "source": "koran-jakarta.com",
-      "published": "20261122T184500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Upah di Sulawesi Selatan Dibagi ke dalam Tiga Kelompok",
-      "url": "https://koran-jakarta.com/2026-11-23/upah-di-sulawesi-selatan-dibagi-ke-dalam-tiga-kelompok",
-      "source": "koran-jakarta.com",
-      "published": "20261122T184500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Portugal Belum Bersahabat dengan Mario Aji , Finis Nomor 18",
-      "url": "https://koran-jakarta.com/2026-11-23/portugal-belum-bersahabat-dengan-mario-aji-finis-nomor-18",
-      "source": "koran-jakarta.com",
-      "published": "20261122T184500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Perjanjian Dagang Buka Peluang Ekspor , UMKM Jangan Cuma Jadi Penonton",
-      "url": "https://koran-jakarta.com/2026-11-23/perjanjian-dagang-buka-peluang-ekspor-umkm-jangan-cuma-jadi-penonton",
-      "source": "koran-jakarta.com",
-      "published": "20261122T184500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Milad ke - 114 Muhammadiyah , Wali Kota Bekasi Tri Adhianto Ajak Perkuat Sinergi Pembangunan",
-      "url": "https://koran-jakarta.com/2026-11-23/milad-ke-114-muhammadiyah-wali-kota-bekasi-tri-adhianto-ajak-perkuat-sinergi-pembangunan",
-      "source": "koran-jakarta.com",
-      "published": "20261122T184500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Cuma Finis Ke - 8 , Marc Marquez Kunci Gelar Juara Dunia MotoGP 2026 di Portugal",
-      "url": "https://koran-jakarta.com/2026-11-23/cuma-finis-ke-8-marc-marquez-kunci-gelar-juara-dunia-motogp-2026-di-portugal",
-      "source": "koran-jakarta.com",
-      "published": "20261122T184500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Baru Pimpin Sidang Pemecatan Irjen Eko Hadi , Komjen Hendro Pandowo Kini Dimutasi",
-      "url": "https://www.viva.co.id/berita/nasional/1945651-baru-pimpin-sidang-pemecatan-irjen-eko-hadi-komjen-hendro-pandowo-kini-dimutasi",
-      "source": "viva.co.id",
-      "published": "20261122T184500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Gowes Bersama Komunitas , Wali Kota Bekasi Buka Ruang Aspirasi Anak Muda",
-      "url": "https://koran-jakarta.com/2026-11-23/gowes-bersama-komunitas-wali-kota-bekasi-buka-ruang-aspirasi-anak-muda",
-      "source": "koran-jakarta.com",
-      "published": "20261122T184500Z",
+      "title": "Kapolri Lakukan Mutasi Besar - besaran , Termasuk 3 Tersangka Penyadapan",
+      "url": "https://www.cnnindonesia.com/nasional/20261123060829-12-1430200/kapolri-lakukan-mutasi-besar-besaran-termasuk-3-tersangka-penyadapan",
+      "source": "cnnindonesia.com",
+      "published": "20261123T003000Z",
       "language": "Indonesian"
     }
   ]

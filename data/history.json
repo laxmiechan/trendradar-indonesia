@@ -2,54 +2,6 @@
   "retention_days": 7,
   "snapshots": [
     {
-      "timestamp": "2026-11-16T00:19:23.456540+00:00",
-      "trends_updated_at": "2026-11-16T00:16:50.903196+00:00",
-      "total_trends": 10,
-      "news_count": 5,
-      "topics": [
-        {
-          "title": "raptors vs knicks",
-          "traffic": "100+"
-        },
-        {
-          "title": "mo bamba",
-          "traffic": "100+"
-        },
-        {
-          "title": "pengadilan",
-          "traffic": "100+"
-        },
-        {
-          "title": "boeing",
-          "traffic": "200+"
-        },
-        {
-          "title": "quentin grimes",
-          "traffic": "200+"
-        },
-        {
-          "title": "clippers vs hornets",
-          "traffic": "100+"
-        },
-        {
-          "title": "weather",
-          "traffic": "5000+"
-        },
-        {
-          "title": "abdülkerim bardakcı",
-          "traffic": "200+"
-        },
-        {
-          "title": "emiten",
-          "traffic": "200+"
-        },
-        {
-          "title": "celtics vs mavericks",
-          "traffic": "500+"
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-16T07:12:27.090780+00:00",
       "trends_updated_at": "2026-11-16T07:09:58.338933+00:00",
       "total_trends": 10,
@@ -1101,6 +1053,54 @@
         },
         {
           "title": "lillestrom",
+          "traffic": "200+"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-23T01:32:10.142964+00:00",
+      "trends_updated_at": "2026-11-23T01:30:35.239671+00:00",
+      "total_trends": 10,
+      "news_count": 12,
+      "topics": [
+        {
+          "title": "knicks vs pacers",
+          "traffic": "200+"
+        },
+        {
+          "title": "kospi",
+          "traffic": "200+"
+        },
+        {
+          "title": "warriors vs celtics",
+          "traffic": "200+"
+        },
+        {
+          "title": "umk surabaya 2027",
+          "traffic": "100+"
+        },
+        {
+          "title": "wizards vs magic",
+          "traffic": "100+"
+        },
+        {
+          "title": "bulls vs nuggets",
+          "traffic": "200+"
+        },
+        {
+          "title": "siap",
+          "traffic": "100+"
+        },
+        {
+          "title": "jazz vs mavericks",
+          "traffic": "500+"
+        },
+        {
+          "title": "garuda indonesia",
+          "traffic": "200+"
+        },
+        {
+          "title": "tertulis untuk kita rcti",
           "traffic": "200+"
         }
       ]
