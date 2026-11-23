@@ -2,54 +2,6 @@
   "retention_days": 7,
   "snapshots": [
     {
-      "timestamp": "2026-11-16T17:24:01.648018+00:00",
-      "trends_updated_at": "2026-11-16T17:21:10.073543+00:00",
-      "total_trends": 10,
-      "news_count": 21,
-      "topics": [
-        {
-          "title": "calon wapres pengganti gibran",
-          "traffic": "2000+"
-        },
-        {
-          "title": "germany vs netherland",
-          "traffic": "100+"
-        },
-        {
-          "title": "estonia",
-          "traffic": "100+"
-        },
-        {
-          "title": "guinea vs",
-          "traffic": "100+"
-        },
-        {
-          "title": "kevin de bruyne",
-          "traffic": "100+"
-        },
-        {
-          "title": "benin vs",
-          "traffic": "200+"
-        },
-        {
-          "title": "lithuania vs liechtenstein",
-          "traffic": "200+"
-        },
-        {
-          "title": "ghana fc",
-          "traffic": "200+"
-        },
-        {
-          "title": "estonia vs",
-          "traffic": "500+"
-        },
-        {
-          "title": "moldova",
-          "traffic": "200+"
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-17T01:03:05.713043+00:00",
       "trends_updated_at": "2026-11-17T01:00:02.338031+00:00",
       "total_trends": 10,
@@ -1101,6 +1053,54 @@
         },
         {
           "title": "levante vs elche",
+          "traffic": "200+"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-23T22:00:06.267326+00:00",
+      "trends_updated_at": "2026-11-23T21:58:52.872475+00:00",
+      "total_trends": 10,
+      "news_count": 22,
+      "topics": [
+        {
+          "title": "pensiun",
+          "traffic": "200+"
+        },
+        {
+          "title": "jadwal sholat",
+          "traffic": "1000+"
+        },
+        {
+          "title": "nico paz",
+          "traffic": "200+"
+        },
+        {
+          "title": "ad ceuta fc vs almería",
+          "traffic": "100+"
+        },
+        {
+          "title": "subuh surabaya",
+          "traffic": "200+"
+        },
+        {
+          "title": "martín zubimendi",
+          "traffic": "200+"
+        },
+        {
+          "title": "niat puasa ayyamul bidh",
+          "traffic": "1000+"
+        },
+        {
+          "title": "gopay",
+          "traffic": "100+"
+        },
+        {
+          "title": "queven inacio",
+          "traffic": "100+"
+        },
+        {
+          "title": "elche",
           "traffic": "200+"
         }
       ]
