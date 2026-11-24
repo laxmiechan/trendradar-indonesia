@@ -1,31 +1,38 @@
 {
-  "updated_at": "2026-11-23T22:00:06.230142+00:00",
+  "updated_at": "2026-11-24T17:30:03.259081+00:00",
   "categories": {
     "Politik": [],
     "Ekonomi": [],
     "Teknologi": [
       {
-        "title": "Bio Farma dan BPOM Kaji Pemanfaatan AI untuk Uji Mutu Vaksin Polio",
-        "url": "https://www.beritasatu.com/ekonomi/3042854/bio-farma-dan-bpom-kaji-pemanfaatan-ai-untuk-uji-mutu-vaksin-polio",
-        "source": "beritasatu.com",
-        "published": "20261121T163000Z",
+        "title": "Merepotkan Pegawai & Turis , Minimarket Jepang Pakai Robot AI Dikritik",
+        "url": "https://www.cnnindonesia.com/gaya-hidup/20261123113231-269-1430331/merepotkan-pegawai-turis-minimarket-jepang-pakai-robot-ai-dikritik",
+        "source": "cnnindonesia.com",
+        "published": "20261124T044500Z",
+        "category": "Teknologi"
+      },
+      {
+        "title": "BNC : Tata kelola kuat kunci pengembangan perbankan cerdas berbasis AI",
+        "url": "https://www.antaranews.com/berita/5873971/bnc-tata-kelola-kuat-kunci-pengembangan-perbankan-cerdas-berbasis-ai",
+        "source": "antaranews.com",
+        "published": "20261124T023000Z",
+        "category": "Teknologi"
+      },
+      {
+        "title": "Asosiasi Ingatkan Fintech Waspadai Serangan Siber Berbasis AI",
+        "url": "https://www.liputan6.com/bisnis/read/8341137/asosiasi-ingatkan-fintech-waspadai-serangan-siber-berbasis-ai",
+        "source": "liputan6.com",
+        "published": "20261124T021500Z",
         "category": "Teknologi"
       }
     ],
     "Olahraga": [],
     "Entertainment": [
       {
-        "title": "Para Perasuk Raih Film Terbaik FFI 2026 , Ini Daftar Pemenangnya",
-        "url": "https://leisure.harianjogja.com/r-1279756/para-perasuk-raih-film-terbaik-ffi-2026-ini-daftar-pemenangnya",
-        "source": "leisure.harianjogja.com",
-        "published": "20261121T143000Z",
-        "category": "Entertainment"
-      },
-      {
-        "title": "7 Alasan Psikologis Mengapa Gagal Menonton Konser Idola Bisa Begitu Menyakitkan",
-        "url": "https://www.liputan6.com/citizen6/read/8339731/alasan-psikologis-mengapa-gagal-menonton-konser-idola-bisa-begitu-menyakitkan",
-        "source": "liputan6.com",
-        "published": "20261121T113000Z",
+        "title": "Skandal DUI Go Kyung Pyo Ancam Perilisan Film Terbaru , Industri Perfilman Korea Hadapi Kerugian",
+        "url": "https://www.jawapos.com/music-movie/2611240166/skandal-dui-go-kyung-pyo-ancam-perilisan-film-terbaru-industri-perfilman-korea-hadapi-kerugian",
+        "source": "jawapos.com",
+        "published": "20261124T044500Z",
         "category": "Entertainment"
       }
     ]

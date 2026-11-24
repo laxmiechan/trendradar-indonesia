@@ -2,54 +2,6 @@
   "retention_days": 7,
   "snapshots": [
     {
-      "timestamp": "2026-11-17T09:01:46.886773+00:00",
-      "trends_updated_at": "2026-11-17T08:58:58.846082+00:00",
-      "total_trends": 10,
-      "news_count": 21,
-      "topics": [
-        {
-          "title": "indonesia vs afghanistan u17",
-          "traffic": "1000+"
-        },
-        {
-          "title": "megaspeed",
-          "traffic": "200+"
-        },
-        {
-          "title": "tri adhianto",
-          "traffic": "100+"
-        },
-        {
-          "title": "batam",
-          "traffic": "100+"
-        },
-        {
-          "title": "penipuan",
-          "traffic": "500+"
-        },
-        {
-          "title": "cctv",
-          "traffic": "200+"
-        },
-        {
-          "title": "jkn",
-          "traffic": "100+"
-        },
-        {
-          "title": "warren buffett",
-          "traffic": "200+"
-        },
-        {
-          "title": "thomas frank",
-          "traffic": "200+"
-        },
-        {
-          "title": "mahkamah agung",
-          "traffic": "500+"
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-17T18:26:46.722614+00:00",
       "trends_updated_at": "2026-11-17T18:24:23.937595+00:00",
       "total_trends": 10,
@@ -1102,6 +1054,54 @@
         {
           "title": "arsenal vs dortmund",
           "traffic": "1000+"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-24T17:30:03.302296+00:00",
+      "trends_updated_at": "2026-11-24T17:27:26.271551+00:00",
+      "total_trends": 10,
+      "news_count": 100,
+      "topics": [
+        {
+          "title": "abiyoso seno aji",
+          "traffic": "500+"
+        },
+        {
+          "title": "bodø/glimt vs lask linz",
+          "traffic": "1000+"
+        },
+        {
+          "title": "timnas indonesia",
+          "traffic": "200+"
+        },
+        {
+          "title": "zenit",
+          "traffic": "200+"
+        },
+        {
+          "title": "komisi nasional hak asasi manusia",
+          "traffic": "100+"
+        },
+        {
+          "title": "pt garuda adidaya nusantara",
+          "traffic": "100+"
+        },
+        {
+          "title": "kementerian ketenagakerjaan republik indonesia",
+          "traffic": "2000+"
+        },
+        {
+          "title": "psim yogyakarta",
+          "traffic": "200+"
+        },
+        {
+          "title": "david warner",
+          "traffic": "100+"
+        },
+        {
+          "title": "cska",
+          "traffic": "200+"
         }
       ]
     }
