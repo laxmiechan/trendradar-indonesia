@@ -2,54 +2,6 @@
   "retention_days": 7,
   "snapshots": [
     {
-      "timestamp": "2026-11-18T17:59:23.791940+00:00",
-      "trends_updated_at": "2026-11-18T17:56:58.579816+00:00",
-      "total_trends": 10,
-      "news_count": 21,
-      "topics": [
-        {
-          "title": "suku bunga bi rate",
-          "traffic": "10000+"
-        },
-        {
-          "title": "häcken vs manchester city w.f.c.",
-          "traffic": "500+"
-        },
-        {
-          "title": "real madrid femenino vs inter milan",
-          "traffic": "2000+"
-        },
-        {
-          "title": "the body netflix",
-          "traffic": "200+"
-        },
-        {
-          "title": "anne hathaway",
-          "traffic": "200+"
-        },
-        {
-          "title": "livy renata",
-          "traffic": "500+"
-        },
-        {
-          "title": "terikat janji rcti malam ini",
-          "traffic": "500+"
-        },
-        {
-          "title": "line of duty",
-          "traffic": "200+"
-        },
-        {
-          "title": "pkh tahap 4 2026 kapan cair?",
-          "traffic": "1000+"
-        },
-        {
-          "title": "terikat janji rcti",
-          "traffic": "200+"
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-19T00:13:56.616994+00:00",
       "trends_updated_at": "2026-11-19T00:11:35.573691+00:00",
       "total_trends": 10,
@@ -1054,6 +1006,54 @@
         {
           "title": "psim",
           "traffic": "1000+"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-25T20:08:19.638536+00:00",
+      "trends_updated_at": "2026-11-25T20:05:52.538418+00:00",
+      "total_trends": 10,
+      "news_count": 100,
+      "topics": [
+        {
+          "title": "livescore",
+          "traffic": "1000+"
+        },
+        {
+          "title": "flashscore",
+          "traffic": "200+"
+        },
+        {
+          "title": "lille",
+          "traffic": "100+"
+        },
+        {
+          "title": "nicolò tresoldi",
+          "traffic": "100+"
+        },
+        {
+          "title": "tajon buchanan",
+          "traffic": "100+"
+        },
+        {
+          "title": "liga championship",
+          "traffic": "100+"
+        },
+        {
+          "title": "stoke city vs millwall",
+          "traffic": "200+"
+        },
+        {
+          "title": "joshua zirkzee",
+          "traffic": "500+"
+        },
+        {
+          "title": "psg",
+          "traffic": "2000+"
+        },
+        {
+          "title": "luis suárez",
+          "traffic": "200+"
         }
       ]
     }
