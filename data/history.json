@@ -2,102 +2,6 @@
   "retention_days": 7,
   "snapshots": [
     {
-      "timestamp": "2026-11-17T18:26:46.722614+00:00",
-      "trends_updated_at": "2026-11-17T18:24:23.937595+00:00",
-      "total_trends": 10,
-      "news_count": 21,
-      "topics": [
-        {
-          "title": "the game awards",
-          "traffic": "200+"
-        },
-        {
-          "title": "bansos pkh",
-          "traffic": "20000+"
-        },
-        {
-          "title": "francisca luhong james",
-          "traffic": "100+"
-        },
-        {
-          "title": "dr congo vs",
-          "traffic": "100+"
-        },
-        {
-          "title": "kosovo vs austria",
-          "traffic": "200+"
-        },
-        {
-          "title": "australia",
-          "traffic": "100+"
-        },
-        {
-          "title": "congo vs",
-          "traffic": "200+"
-        },
-        {
-          "title": "ivory coast vs",
-          "traffic": "200+"
-        },
-        {
-          "title": "yordania vs australia",
-          "traffic": "500+"
-        },
-        {
-          "title": "gambia vs ivory coast",
-          "traffic": "2000+"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-11-18T01:15:15.839750+00:00",
-      "trends_updated_at": "2026-11-18T01:12:49.809407+00:00",
-      "total_trends": 10,
-      "news_count": 21,
-      "topics": [
-        {
-          "title": "spurs vs pistons",
-          "traffic": "200+"
-        },
-        {
-          "title": "uruguay",
-          "traffic": "100+"
-        },
-        {
-          "title": "raptors vs knicks",
-          "traffic": "200+"
-        },
-        {
-          "title": "colombia vs",
-          "traffic": "100+"
-        },
-        {
-          "title": "argentina vs costa rica 2026",
-          "traffic": "1000+"
-        },
-        {
-          "title": "bahrain",
-          "traffic": "200+"
-        },
-        {
-          "title": "ecuador vs bolivia",
-          "traffic": "100+"
-        },
-        {
-          "title": "craig bellamy",
-          "traffic": "500+"
-        },
-        {
-          "title": "ekuador vs bolivia",
-          "traffic": "200+"
-        },
-        {
-          "title": "penusukan",
-          "traffic": "200+"
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-18T09:03:26.594839+00:00",
       "trends_updated_at": "2026-11-18T09:01:07.269227+00:00",
       "total_trends": 10,
@@ -1101,6 +1005,54 @@
         },
         {
           "title": "cska",
+          "traffic": "200+"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-25T01:34:11.609340+00:00",
+      "trends_updated_at": "2026-11-25T01:32:09.374775+00:00",
+      "total_trends": 10,
+      "news_count": 40,
+      "topics": [
+        {
+          "title": "wizards vs celtics",
+          "traffic": "200+"
+        },
+        {
+          "title": "senjata nuklir",
+          "traffic": "100+"
+        },
+        {
+          "title": "dudung abdurachman",
+          "traffic": "100+"
+        },
+        {
+          "title": "kospi",
+          "traffic": "100+"
+        },
+        {
+          "title": "erin wartia",
+          "traffic": "500+"
+        },
+        {
+          "title": "ruben amorim",
+          "traffic": "100+"
+        },
+        {
+          "title": "dony oskaria",
+          "traffic": "100+"
+        },
+        {
+          "title": "upah minimum",
+          "traffic": "100+"
+        },
+        {
+          "title": "magic vs pistons",
+          "traffic": "500+"
+        },
+        {
+          "title": "millonarios vs atletico bucaramanga",
           "traffic": "200+"
         }
       ]

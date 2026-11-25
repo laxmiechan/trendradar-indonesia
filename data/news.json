@@ -1,708 +1,288 @@
 {
-  "updated_at": "2026-11-24T17:27:26.341850+00:00",
-  "fetched_at": "2026-11-24T17:27:26.341850+00:00",
-  "latest_seen_at": "2026-11-24T07:45:00+00:00",
-  "search_window_hours": 24,
-  "total_news": 100,
+  "updated_at": "2026-11-25T01:32:09.437600+00:00",
+  "fetched_at": "2026-11-25T01:32:09.437600+00:00",
+  "latest_seen_at": "2026-11-25T00:45:00+00:00",
+  "search_window_hours": 3,
+  "total_news": 40,
   "articles": [
     {
-      "title": "Tampil Perdana ke Publik , Go Kyung Pyo Menangis dan Berkali - kali Minta Maaf Usai Kasus DUI",
-      "url": "https://www.viva.co.id/gaya-hidup/showbiz/1945958-tampil-perdana-ke-publik-go-kyung-pyo-menangis-dan-berkali-kali-minta-maaf-usai-kasus-dui",
-      "source": "viva.co.id",
-      "published": "20261124T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Banyak yang Belum Tahu , Ternyata Bak Truk Gak Boleh Lebih Tinggi dari Ini",
-      "url": "https://www.viva.co.id/otomotif/1945984-banyak-yang-belum-tahu-ternyata-bak-truk-gak-boleh-lebih-tinggi-dari-ini",
-      "source": "viva.co.id",
-      "published": "20261124T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Pidana Mati Dilaksanakan Maksimal 30 Hari Setelah Penetapan Jaksa Agung",
-      "url": "https://news.harianjogja.com/r-1280098/pidana-mati-dilaksanakan-maksimal-30-hari-setelah-penetapan-jaksa-agung",
-      "source": "news.harianjogja.com",
-      "published": "20261124T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Pengembangan talenta penerbangan Indonesia didukung oleh Airbus",
-      "url": "https://www.antaranews.com/berita/5874519/pengembangan-talenta-penerbangan-indonesia-didukung-oleh-airbus",
-      "source": "antaranews.com",
-      "published": "20261124T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Indonesia mendorong perjanjian perdagangan komprehensif dengan Inggris",
-      "url": "https://www.antaranews.com/berita/5874535/indonesia-mendorong-perjanjian-perdagangan-komprehensif-dengan-inggris",
-      "source": "antaranews.com",
-      "published": "20261124T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Top 3 Tekno : Cara Cek Baterai HP Masih Ori atau Bekas Bikin Penasaran",
-      "url": "https://www.liputan6.com/tekno/read/8341087/top-3-tekno-cara-cek-baterai-hp-masih-ori-atau-bekas-bikin-penasaran",
-      "source": "liputan6.com",
-      "published": "20261124T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Dasco : Dari Awal Saya Tak Ingin jadi Cawapres , Keluarga Izinkan Hanya Bertugas di DPR",
-      "url": "https://www.viva.co.id/berita/nasional/1945997-dasco-dari-awal-saya-tak-ingin-jadi-cawapres-keluarga-izinkan-hanya-bertugas-di-dpr",
-      "source": "viva.co.id",
-      "published": "20261124T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Industri Rokok Elektronik Terancam Dilarang , 150 Ribu Pekerja Pertanyakan Nasibnya",
-      "url": "https://www.viva.co.id/berita/nasional/1945996-industri-rokok-elektronik-terancam-dilarang-150-ribu-pekerja-pertanyakan-nasibnya",
-      "source": "viva.co.id",
-      "published": "20261124T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Polri Tunjuk 5 Komjen untuk Sidang Etik Listyo Sigit , Ini Namanya",
-      "url": "https://news.harianjogja.com/r-1280088/polri-tunjuk-5-komjen-untuk-sidang-etik-listyo-sigit-ini-namanya",
-      "source": "news.harianjogja.com",
-      "published": "20261124T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Lima Jenderal Bintang 3 Bakal Jadi Majelis Sidang Etik Listyo Sigit , Ini Susunan Lengkapnya !",
-      "url": "https://www.viva.co.id/berita/nasional/1945990-lima-jenderal-bintang-3-bakal-jadi-majelis-sidang-etik-listyo-sigit-ini-susunan-lengkapnya",
-      "source": "viva.co.id",
-      "published": "20261124T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Kemensos proses penyaluran bantuan bencana Sumatera tahap 10 hingga 12",
-      "url": "https://www.antaranews.com/berita/5874515/kemensos-proses-penyaluran-bantuan-bencana-sumatera-tahap-10-hingga-12",
-      "source": "antaranews.com",
-      "published": "20261124T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "KPK Tak Diberi Kewenangan Rampas Aset Tanpa Putusan Pidana , Begini Penjelasan Anggota DPR",
-      "url": "https://www.viva.co.id/berita/nasional/1945994-kpk-tak-diberi-kewenangan-rampas-aset-tanpa-putusan-pidana-begini-penjelasan-anggota-dpr",
-      "source": "viva.co.id",
-      "published": "20261124T074500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Tambang Ilegal di Lampung Dibongkar , 27 Kg Emas Disita",
-      "url": "https://www.liputan6.com/regional/read/8341391/tambang-ilegal-di-lampung-dibongkar-27-kg-emas-disita",
-      "source": "liputan6.com",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Polisi Klarifikasi Salah Ketik di Bendera One Peace dan Kaus Makar",
-      "url": "https://www.liputan6.com/news/read/8341401/polisi-klarifikasi-salah-ketik-di-bendera-one-peace-dan-kaus-makar",
-      "source": "liputan6.com",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Nataru dan Ramadan Berdekatan , Pemerintah Andalkan Dongkrak Ekonomi 2027",
-      "url": "https://www.liputan6.com/bisnis/read/8341327/nataru-dan-ramadan-berdekatan-pemerintah-andalkan-dongkrak-ekonomi-2027",
-      "source": "liputan6.com",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Sepuluh Tahun Mangkrak , JLNT Pluit Menunggu untuk Dituntaskan",
-      "url": "https://news.republika.co.id/berita/tozuv3487/sepuluh-tahun-mangkrak-jlnt-pluit-menunggu-untuk-dituntaskan",
+      "title": "MUI Haramkan Vape , Ini Bahayanya Menurut Kemenkes",
+      "url": "https://news.republika.co.id/berita/tp11zn483/mui-haramkan-vape-ini-bahayanya-menurut-kemenkes",
       "source": "news.republika.co.id",
-      "published": "20261124T071500Z",
+      "published": "20261125T004500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Media Jerman Soroti Konsistensi Calvin Verdonk , Diprediksi Starter Kontra Bayern Munich di Liga Champions",
-      "url": "https://www.viva.co.id/bola/1945989-media-jerman-soroti-konsistensi-calvin-verdonk-diprediksi-starter-kontra-bayern-munich-di-liga-champions",
-      "source": "viva.co.id",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Masyarakat Mulai Makan Tabungan dan Berutang ? Ini Penjelasan LPS",
-      "url": "https://www.liputan6.com/bisnis/read/8341357/masyarakat-mulai-makan-tabungan-dan-berutang-ini-penjelasan-lps",
-      "source": "liputan6.com",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Harga Emas 24 Karat Hari Ini 24 November 2026 , Cek yang Termurah",
-      "url": "https://www.liputan6.com/bisnis/read/8341385/harga-emas-24-karat-hari-ini-24-november-2026-cek-yang-termurah",
-      "source": "liputan6.com",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Kemenbud Soroti Etika Sineas Di FFI 2026 , Ernest Prakasa : Seniman Juga Perlu Bersuara",
-      "url": "https://www.liputan6.com/showbiz/read/8341392/kemenbud-soroti-etika-sineas-di-ffi-2026-ernest-prakasa-seniman-juga-perlu-bersuara",
-      "source": "liputan6.com",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Basarah minta dua calon wapres tanda tangan komitmen tak mundur",
-      "url": "https://www.antaranews.com/berita/5874459/basarah-minta-dua-calon-wapres-tanda-tangan-komitmen-tak-mundur",
-      "source": "antaranews.com",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Samuel Ray Bagikan Tips agar CV Kaum Tengah Dilirik HRD",
-      "url": "https://www.liputan6.com/bisnis/read/8341367/samuel-ray-bagikan-tips-agar-cv-kaum-tengah-dilirik-hrd",
-      "source": "liputan6.com",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Gubernur Kaltim tekankan harmonisasi produk hukum daerah",
-      "url": "https://www.antaranews.com/berita/5874467/gubernur-kaltim-tekankan-harmonisasi-produk-hukum-daerah",
-      "source": "antaranews.com",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "BYD Ti7 Terancam Tak Bisa Dijual di Eropa",
-      "url": "https://www.liputan6.com/otomotif/read/8340507/byd-ti7-terancam-tak-bisa-dijual-di-eropa",
-      "source": "liputan6.com",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Isu Petinggi OJK Terafiliasi Politik Disorot MSCI , Ini Jawaban Resmi Hasan Fawzi",
-      "url": "https://www.viva.co.id/bisnis/1945977-isu-petinggi-ojk-terafiliasi-politik-disorot-msci-ini-jawaban-resmi-hasan-fawzi",
-      "source": "viva.co.id",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "AZKO Perkuat Aksi Lingkungan , Tanam 1 . 500 Mangrove untuk Serap Karbon dan Lindungi Pesisir",
-      "url": "https://jogja.viva.co.id/warta/13056-azko-perkuat-aksi-lingkungan-tanam-1500-mangrove-untuk-serap-karbon-dan-lindungi-pesisir",
-      "source": "jogja.viva.co.id",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Agrinas salurkan kendaraan KDKMP yang terparkir di Rorotan Jakut",
-      "url": "https://www.antaranews.com/berita/5874455/agrinas-salurkan-kendaraan-kdkmp-yang-terparkir-di-rorotan-jakut",
-      "source": "antaranews.com",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Senat UPNVJ Gelar Dialog Bahas Perkembangan Pemilihan Rektor",
-      "url": "https://news.republika.co.id/berita/tozumv416/senat-upnvj-gelar-dialog-bahas-perkembangan-pemilihan-rektor",
-      "source": "news.republika.co.id",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Dasco Ungkap Prabowo Sempat Bahas Sejumlah Alternatif Nama Cawapres",
-      "url": "https://news.republika.co.id/berita/tozv92487/dasco-ungkap-prabowo-sempat-bahas-sejumlah-alternatif-nama-cawapres",
-      "source": "news.republika.co.id",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Cikhita Virginia Pimpin Bidang XI BPP HIPMI , Siapkan Program UMKM Tembus Pasar Global",
-      "url": "https://ekonomi.republika.co.id/berita/tozluu416/cikhita-virginia-pimpin-bidang-xi-bpp-hipmi-siapkan-program-umkm-tembus-pasar-global",
-      "source": "ekonomi.republika.co.id",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Kongres Sampah Indonesia III Dorong Kolaborasi Pengelolaan Sampah dari Hulu hingga Hilir",
-      "url": "https://rejogja.republika.co.id/berita/tozv5o291/kongres-sampah-indonesia-iii-dorong-kolaborasi-pengelolaan-sampah-dari-hulu-hingga-hilir",
-      "source": "rejogja.republika.co.id",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Band TOTO Konser di Jakarta April 2027 , Cek Harga dan Jadwal Pembelian Tiketnya",
-      "url": "https://ameera.republika.co.id/berita/tozr1v425/band-toto-konser-di-jakarta-april-2027-cek-harga-dan-jadwal-pembelian-tiketnya",
-      "source": "ameera.republika.co.id",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Megawati Hangestri Buktikan Kualitas Usai Dapat Evaluasi Pelatih Hillstate",
-      "url": "https://bandung.viva.co.id/olahraga/59268-megawati-hangestri-buktikan-kualitas-usai-dapat-evaluasi-pelatih-hillstate",
-      "source": "bandung.viva.co.id",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Masuk Daftar Cawapres , Amran Tetap Fokus Urus Pertanian dan Pangan",
-      "url": "https://ekonomi.republika.co.id/berita/tozsk9423/masuk-daftar-cawapres-amran-tetap-fokus-urus-pertanian-dan-pangan",
-      "source": "ekonomi.republika.co.id",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "BKSDA dan YIARI evakuasi dua Orangutan di Ketapang",
-      "url": "https://www.antaranews.com/berita/5874463/bksda-dan-yiari-evakuasi-dua-orangutan-di-ketapang",
-      "source": "antaranews.com",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Sahabat Disabilitas Netra Membaca Alquran Braille Saat Sholat , Bolehkah ?",
-      "url": "https://khazanah.republika.co.id/berita/tozsdd483/sahabat-disabilitas-netra-membaca-alquran-braille-saat-sholat-bolehkah",
-      "source": "khazanah.republika.co.id",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Kasus Dugaan Makar Listyo Sigit dkk",
-      "url": "https://www.viva.co.id/topik/29-kasus-dugaan-makar-listyo-sigit-dkk",
-      "source": "viva.co.id",
-      "published": "20261124T071500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "BNN tangkap bandar narkoba yang kendalikan peredaran di Jakarta",
-      "url": "https://www.antaranews.com/berita/5874363/bnn-tangkap-bandar-narkoba-yang-kendalikan-peredaran-di-jakarta",
-      "source": "antaranews.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Geger Pria di Dompu Setubuhi Kuda Hamil hingga Keguguran , Ini Kronologinya",
-      "url": "https://www.beritasatu.com/nusantara/3043447/geger-pria-di-dompu-setubuhi-kuda-hamil-hingga-keguguran-ini-kronologinya",
-      "source": "beritasatu.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Bocoran 4 Mobil Baru BAIC untuk 2027 , Ada EV Lokal hingga SUV 7 - Seater",
-      "url": "https://www.beritasatu.com/ototekno/3043426/bocoran-4-mobil-baru-baic-untuk-2027-ada-ev-lokal-hingga-suv-7-seater",
-      "source": "beritasatu.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Ini Profil Bos MSCI Henry Fernandez yang Dihubungi Prabowo Soal IHSG",
-      "url": "https://www.beritasatu.com/ekonomi/3043434/ini-profil-bos-msci-henry-fernandez-yang-dihubungi-prabowo-soal-ihsg",
-      "source": "beritasatu.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Polisi selidiki dugaan pembakaran rumah di Jatirahayu , Kota Bekasi",
-      "url": "https://www.antaranews.com/berita/5874347/polisi-selidiki-dugaan-pembakaran-rumah-di-jatirahayu-kota-bekasi",
-      "source": "antaranews.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Harga Minyak Dunia Turun meski Ada Gangguan di Selat Hormuz",
-      "url": "https://www.beritasatu.com/ekonomi/3043449/harga-minyak-dunia-turun-meski-ada-gangguan-di-selat-hormuz",
-      "source": "beritasatu.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Supermoon 2026 Muncul Malam Ini , Cek Waktu Terbaik Melihatnya",
-      "url": "https://www.beritasatu.com/ototekno/3043399/supermoon-2026-muncul-malam-ini-cek-waktu-terbaik-melihatnya",
-      "source": "beritasatu.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "SaPA Dukcapil Jakarta 28 November 2026 , Cek Jadwal dan Lokasinya",
-      "url": "https://www.beritasatu.com/dki-jakarta/3043433/sapa-dukcapil-jakarta-28-november-2026-cek-jadwal-dan-lokasinya",
-      "source": "beritasatu.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Awas Banjir Rob , Supermoon 24 November 2026 Picu Pasang Air Laut",
-      "url": "https://www.beritasatu.com/nusantara/3043412/awas-banjir-rob-supermoon-24-november-2026-picu-pasang-air-laut",
-      "source": "beritasatu.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "BPH Migas terus dorong optimalisasi jargas di Mojokerto",
-      "url": "https://www.antaranews.com/berita/5874335/bph-migas-terus-dorong-optimalisasi-jargas-di-mojokerto",
-      "source": "antaranews.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Polri Gelar Sidang Etik Kasus Makar Maraton 3 Hari",
-      "url": "https://www.beritasatu.com/nasional/3043454/polri-gelar-sidang-etik-kasus-makar-maraton-3-hari",
-      "source": "beritasatu.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Polda Metro Jaya perkuat kesiapsiagaan bencana hidrometeorologi di Bekasi",
-      "url": "https://www.antaranews.com/berita/5874283/polda-metro-jaya-perkuat-kesiapsiagaan-bencana-hidrometeorologi-di-bekasi",
-      "source": "antaranews.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "BSKDN Kemendagri pastikan penilaian IGA 2026 berjalan objektif",
-      "url": "https://www.antaranews.com/berita/5874367/bskdn-kemendagri-pastikan-penilaian-iga-2026-berjalan-objektif",
-      "source": "antaranews.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Pemerintah Ajak Masyarakat Kawal Pemilihan Wapres Baru",
-      "url": "https://www.beritasatu.com/nasional/3043453/pemerintah-ajak-masyarakat-kawal-pemilihan-wapres-baru",
-      "source": "beritasatu.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Viral Pria Diduga Punya 18 Pacar dari Indonesia hingga Luar Negeri",
-      "url": "https://www.beritasatu.com/lifestyle/3043444/viral-pria-diduga-punya-18-pacar-dari-indonesia-hingga-luar-negeri",
-      "source": "beritasatu.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Daftar Pemenang Sociolla Awards 2026 , Ada Produk Skincare hingga Parfum Favorit",
-      "url": "https://www.liputan6.com/lifestyle/read/8340766/daftar-pemenang-sociolla-awards-2026-ada-produk-skincare-hingga-parfum-favorit",
-      "source": "liputan6.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Dua Tahap Pelunasan Haji Reguler 2027 , Catat Jadwal dan Ketentuannya",
-      "url": "https://www.beritasatu.com/nasional/3043438/dua-tahap-pelunasan-haji-reguler-2027-catat-jadwal-dan-ketentuannya",
-      "source": "beritasatu.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Polri duga kuat kaos  ACAB  akan disusupkan dalam demonstrasi",
-      "url": "https://www.antaranews.com/berita/5874359/polri-duga-kuat-kaos-acab-akan-disusupkan-dalam-demonstrasi",
-      "source": "antaranews.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Penjualan Tiket Nataru Terus Meningkat , KAI Daop 8 Surabaya Ajak Masyarakat Rencanakan Perjalanan Lebih Awal",
-      "url": "https://www.antaranews.com/berita/5874323/penjualan-tiket-nataru-terus-meningkat-kai-daop-8-surabaya-ajak-masyarakat-rencanakan-perjalanan-lebih-awal",
-      "source": "antaranews.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Kasus Makar , 2 Tersangka Jalani Patsus dan 3 Lainnya Ditahan",
-      "url": "https://www.beritasatu.com/nasional/3043457/kasus-makar-2-tersangka-jalani-patsus-dan-3-lainnya-ditahan",
-      "source": "beritasatu.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "IHSG Sesi I Naik 0 , 25 Persen , 159 Saham Menguat",
-      "url": "https://www.beritasatu.com/ekonomi/3043446/ihsg-sesi-i-naik-025-persen-159-saham-menguat",
-      "source": "beritasatu.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Polda Sulteng tanam 2 . 500 bibit mangrove jaga ekosistem pesisir",
-      "url": "https://www.antaranews.com/berita/5874371/polda-sulteng-tanam-2500-bibit-mangrove-jaga-ekosistem-pesisir",
-      "source": "antaranews.com",
-      "published": "20261124T063000Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "MSCI Bantah Sudah Beri Sinyal ke RI soal Status Pasar Modal , Nasib Indonesia Diputuskan 2027",
-      "url": "https://www.viva.co.id/bisnis/1945959-msci-bantah-sudah-beri-sinyal-ke-ri-soal-status-pasar-modal-nasib-indonesia-diputuskan-2027",
-      "source": "viva.co.id",
-      "published": "20261124T061500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Alasan Seseorang Butuh Kepastian dalam Hubungan Percintaan , Bukan Sekadar Status",
-      "url": "https://www.merdeka.com/gaya/read/8341244/alasan-seseorang-butuh-kepastian-dalam-hubungan-percintaan-bukan-sekadar-status",
-      "source": "merdeka.com",
-      "published": "20261124T061500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "8 Tips Menjaga Jok Motor agar Tidak Retak dan Mengeras Akibat Perubahan Cuaca",
-      "url": "https://www.merdeka.com/trending/read/8341173/8-tips-menjaga-jok-motor-agar-tidak-retak-dan-mengeras-akibat-perubahan-cuaca",
-      "source": "merdeka.com",
-      "published": "20261124T061500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Awas Ketinggalan , 14 Kereta dari Karawang Berangkat Lebih Awal",
-      "url": "https://www.merdeka.com/uang/read/8341225/awas-ketinggalan-14-kereta-dari-karawang-berangkat-lebih-awal",
-      "source": "merdeka.com",
-      "published": "20261124T061500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Jejak Karier Cawapres Sugiono , dari Kopassus hingga Panggung PBB",
-      "url": "https://www.merdeka.com/politik/read/8341220/jejak-karier-cawapres-sugiono-dari-kopassus-hingga-panggung-pbb",
-      "source": "merdeka.com",
-      "published": "20261124T061500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Sentimen Cawapres Amran Sulaiman Angkat Saham Haji Isam , Efeknya Baru Jangka Pendek",
-      "url": "https://insight.kontan.co.id/news/sentimen-cawapres-amran-sulaiman-angkat-saham-haji-isam-efeknya-baru-jangka-pendek",
-      "source": "insight.kontan.co.id",
-      "published": "20261124T061500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Harga Emas Antam Hari Ini Naik Rp2 . 000 , Cek Daftar Terbarunya : Okezone Economy",
-      "url": "https://economy.okezone.com/read/2026/11/24/622/3255835/harga-emas-antam-hari-ini-naik-rp2-000-cek-daftar-terbarunya",
+      "title": "Harga BBM Pertamina , Shell , BP dan Vivo yang Berlaku Hari Ini Rabu 25 November : Okezone Economy",
+      "url": "https://economy.okezone.com/read/2026/11/25/320/3255927/harga-bbm-pertamina-shell-bp-dan-vivo-yang-berlaku-hari-ini-rabu-25-november",
       "source": "economy.okezone.com",
-      "published": "20261124T061500Z",
+      "published": "20261125T004500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Wamenkum sebut RUU Pidana Mati batasi eksekusi pidana mati 30 hari",
-      "url": "https://www.antaranews.com/berita/5874327/wamenkum-sebut-ruu-pidana-mati-batasi-eksekusi-pidana-mati-30-hari",
+      "title": "21 WNI Dicegat Saat Hendak Berangkat Jadi Tentara Bayaran Rusia",
+      "url": "https://news.republika.co.id/berita/tp16vp377/21-wni-dicegat-saat-hendak-berangkat-jadi-tentara-bayaran-rusia",
+      "source": "news.republika.co.id",
+      "published": "20261125T004500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Mane Bersyukur , CAS Kembali Nobatkan Senegal Sebagai Juara Piala Afrika 2025",
+      "url": "https://news.republika.co.id/berita/tp16gj348/mane-bersyukur-cas-kembali-nobatkan-senegal-sebagai-juara-piala-afrika-2025",
+      "source": "news.republika.co.id",
+      "published": "20261125T004500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "BSI Salurkan Pembiayaan Rp 482 Miliar untuk 380 Dapur Makan Bergizi Gratis",
+      "url": "https://halalhub.republika.co.id/berita/tp17q8370/bsi-salurkan-pembiayaan-rp-482-miliar-untuk-380-dapur-makan-bergizi-gratis",
+      "source": "halalhub.republika.co.id",
+      "published": "20261125T004500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Guru dan Pertaruhan Peradaban Bangsa | Republika Online",
+      "url": "https://opini.republika.co.id/berita/tp16rp393/guru-dan-pertaruhan-peradaban-bangsa",
+      "source": "opini.republika.co.id",
+      "published": "20261125T004500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Menghargai yang tak pernah berhenti mengajar",
+      "url": "https://www.antaranews.com/berita/5876379/menghargai-yang-tak-pernah-berhenti-mengajar",
       "source": "antaranews.com",
-      "published": "20261124T061500Z",
+      "published": "20261125T003000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Lulusan Baru Segera Daftar , Kemnaker Buka 14 Ribu Kuota Magang",
-      "url": "https://www.merdeka.com/uang/read/8341166/lulusan-baru-segera-daftar-kemnaker-buka-14-ribu-kuota-magang",
-      "source": "merdeka.com",
-      "published": "20261124T061500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Laba BSI Capai Rp 6 , 13 Triliun Hingga Kuartal III - 2026 , Begini Kata Kiwoom Sekuritas",
-      "url": "https://keuangan.kontan.co.id/news/laba-bsi-capai-rp-613-triliun-hingga-kuartal-iii-2026-begini-kata-kiwoom-sekuritas",
-      "source": "keuangan.kontan.co.id",
-      "published": "20261124T061500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Erin dan Mantan ART Ternyata Damai Lewat Telepon , Deolipa Yumara Ungkap Alasannya",
-      "url": "https://www.viva.co.id/gaya-hidup/showbiz/1945954-erin-dan-mantan-art-ternyata-damai-lewat-telepon-deolipa-yumara-ungkap-alasannya",
+      "title": "Nasib NE Manajer BUMD Bogor yang Terseret Kasus Makar , Bupati Rudy : Langsung Kami Berhentikan",
+      "url": "https://www.viva.co.id/berita/nasional/1946175-nasib-ne-manajer-bumd-bogor-yang-terseret-kasus-makar-bupati-rudy-langsung-kami-berhentikan",
       "source": "viva.co.id",
-      "published": "20261124T061500Z",
+      "published": "20261125T003000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Mari Cek Lagi Harga Komoditas Pangan Selasa ini di Pekan Terakhir November Moms",
-      "url": "https://momsmoney.kontan.co.id/news/mari-cek-lagi-harga-komoditas-pangan-selasa-ini-di-pekan-terakhir-november-moms",
-      "source": "momsmoney.kontan.co.id",
-      "published": "20261124T061500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Begini Tahapan Pemilihan Cawapres Amran dan Sugiono di MPR",
-      "url": "https://www.merdeka.com/politik/read/8341203/begini-tahapan-pemilihan-cawapres-amran-dan-sugiono-di-mpr",
-      "source": "merdeka.com",
-      "published": "20261124T061500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Bank Jakarta Masuk Pasar Nasabah Premium Lewat Layanan Privé",
-      "url": "https://keuangan.kontan.co.id/news/bank-jakarta-masuk-pasar-nasabah-premium-lewat-layanan-priv%C3%A9",
-      "source": "keuangan.kontan.co.id",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "27 Pembalap Elite Dunia Siap Berlaga di FIA Rallycross World Cup 2026 di Jakarta",
-      "url": "https://news.republika.co.id/berita/tozpri456/27-pembalap-elite-dunia-siap-berlaga-di-fia-rallycross-world-cup-2026-di-jakarta",
-      "source": "news.republika.co.id",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Lindungi Kesehatan Pekerja Perempuan , PT Sarana Esa Cita Raih Penghargaan Kemenkes",
-      "url": "https://sumutpos.co/metropolis/24/11/2026/lindungi-kesehatan-pekerja-perempuan-pt-sarana-esa-cita-raih-penghargaan-kemenkes/",
-      "source": "sumutpos.co",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Daftar Komplit BWF Finals , Menyedihkan Hanya Ada Tiga Wakil Indonesia",
-      "url": "https://koran-jakarta.com/2026-11-24/daftar-komplit-bwf-finals-menyedihkan-hanya-ada-tiga-wakil-indonesia",
-      "source": "koran-jakarta.com",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Penerapan Goos Farming Practices di Deliserdang , Kemenkop Dorong Penguatan Usaha Ayam Petelur",
-      "url": "https://sumutpos.co/daerah/24/11/2026/penerapan-goos-farming-practices-di-deliserdang-kemenkop-dorong-penguatan-usaha-ayam-petelur/",
-      "source": "sumutpos.co",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "KPR Syariah Tawarkan Kepastian Cicilan Saat Bunga Naik .",
-      "url": "https://keuangan.kontan.co.id/news/kpr-syariah-tawarkan-kepastian-cicilan-saat-bunga-naik",
-      "source": "keuangan.kontan.co.id",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Kursi DPRD Sumut Dapil 5 Kosong Nyaris Dua Tahun , PDIP Didesak Segera Lakukan PAW",
-      "url": "https://sumutpos.co/metropolis/24/11/2026/kursi-dprd-sumut-dapil-5-kosong-nyaris-dua-tahun-pdip-didesak-segera-lakukan-paw/",
-      "source": "sumutpos.co",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Menaker Ungkap Arah Baru Hubungan Industrial dalam UU Pelindungan Ketenagakerjaan .",
-      "url": "https://koran-jakarta.com/2026-11-24/menaker-ungkap-arah-baru-hubungan-industrial-dalam-uu-pelindungan-ketenagakerjaan",
-      "source": "koran-jakarta.com",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Ini Alasan MK Putuskan UU Polri Cacat Formil",
-      "url": "https://news.republika.co.id/berita/tozpdo487/ini-alasan-mk-putuskan-uu-polri-cacat-formil",
-      "source": "news.republika.co.id",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Tersangka Makar : Kombes II Buat Konten Serang Polri , Irjen ASN Susun Rapat Permufakatan",
-      "url": "https://news.republika.co.id/berita/tozowu484/tersangka-makar-kombes-ii-buat-konten-serang-polri-irjen-asn-susun-rapat-permufakatan",
-      "source": "news.republika.co.id",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "MagangHub Batch 3B Buka 14 . 000 Kuota Peserta , Ini Peluang bagi Pencari Kerja .",
-      "url": "https://koran-jakarta.com/2026-11-24/maganghub-batch-3b-buka-14000-kuota-peserta-ini-peluang-bagi-pencari-kerja",
-      "source": "koran-jakarta.com",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Sikap Inovatif Siswa Tergantung pada Kemampuan Guru Memberi Motivasi",
-      "url": "https://koran-jakarta.com/2026-11-24/sikap-inovaftif-siswa-tergantung-pada-kemampuan-guru-memberi-motivasi",
-      "source": "koran-jakarta.com",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Ini Profil Amran Sulaiman , Kandidat Wapres Pengganti Gibran Pilihan Prabowo",
-      "url": "https://koran-jakarta.com/2026-11-24/ini-profil-amran-sulaiman-kandidat-wapres-pengganti-gibran-pilihan-prabowo",
-      "source": "koran-jakarta.com",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Persija Ngluruh ke Bantul tapi Bertemu Sumsel United",
-      "url": "https://koran-jakarta.com/2026-11-24/persija-ngluruh-ke-bantul-tapi-bertemu-sumsel-united",
-      "source": "koran-jakarta.com",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Mencari Wakil Presiden : Andi Amran Sulaiman atau Sugiono , Sosok Seperti Apa yang Dibutuhkan Indonesia",
-      "url": "https://sumutpos.co/opini/24/11/2026/mencari-wakil-presiden-andi-amran-sulaiman-atau-sugiono-sosok-seperti-apa-yang-dibutuhkan-indonesia/",
-      "source": "sumutpos.co",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Selasa , IHSG Bergerak Menguat Mengikuti Bursa Kawasan Asia dan Global",
-      "url": "https://koran-jakarta.com/2026-11-24/selasa-ihsg-bergerak-menguat-mengikuti-bursa-kawasan-asia-dan-global",
-      "source": "koran-jakarta.com",
-      "published": "20261124T051500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Melalui Energy Station Academy , Pertamina Sumbagut Perkuat Kompetensi 505 Operator SPBU di Medan dan Aceh",
-      "url": "https://medan.viva.co.id/nasional/15927-melalui-energy-station-academy-pertamina-sumbagut-perkuat-kompetensi-505-operator-spbu-di-medan-dan-aceh",
-      "source": "medan.viva.co.id",
-      "published": "20261124T044500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Myanmar Didesak Patuhi Putusan ICJ terkait Genosida Muslim Rohingya",
-      "url": "https://news.republika.co.id/berita/tozoar366/myanmar-didesak-patuhi-putusan-icj-terkait-genosida-muslim-rohingya",
-      "source": "news.republika.co.id",
-      "published": "20261124T044500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "China Vonis Mati Pejabat Gegara Bocorkan Rahasia ke Negara Asing",
-      "url": "https://www.cnnindonesia.com/internasional/20261124093612-113-1430685/china-vonis-mati-pejabat-gegara-bocorkan-rahasia-ke-negara-asing",
-      "source": "cnnindonesia.com",
-      "published": "20261124T044500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Kalahkan Himbara dan BCA , BTN Raih Juara Umum Annual Report Award ( ARA ) 2025",
-      "url": "https://analisadaily.com/berita/baca/2026/11/24/1079820/kalahkan-himbara-dan-bca-btn-raih-juara-umum-annual-report-award-ara-2025/",
-      "source": "analisadaily.com",
-      "published": "20261124T044500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Pakar Beri Penjelasan Misteri Suara Gemuruh di Toba",
-      "url": "https://www.cnnindonesia.com/teknologi/20261124111856-199-1430731/pakar-beri-penjelasan-misteri-suara-gemuruh-di-toba",
-      "source": "cnnindonesia.com",
-      "published": "20261124T044500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Keluarga Harap Korban Kebakaran Pabrik Permen Segera Ditemukan",
-      "url": "https://www.cnnindonesia.com/nasional/20261124071448-20-1430640/keluarga-harap-korban-kebakaran-pabrik-permen-segera-ditemukan",
-      "source": "cnnindonesia.com",
-      "published": "20261124T044500Z",
-      "language": "Indonesian"
-    },
-    {
-      "title": "Momen Langka , Kim Jong - un Terima Langsung Surat Kepercayaan Dubes RI",
-      "url": "https://www.viva.co.id/berita/dunia/1945953-momen-langka-kim-jong-un-terima-langsung-surat-kepercayaan-dubes-ri",
+      "title": "Adu Nilai Pasar Persib Vs FC Seoul Jelang Bentrok di ACL 2 , Mana Lebih Tinggi ?",
+      "url": "https://www.viva.co.id/bola/1946184-adu-nilai-pasar-persib-vs-fc-seoul-jelang-bentrok-di-acl-2-mana-lebih-tinggi",
       "source": "viva.co.id",
-      "published": "20261124T044500Z",
+      "published": "20261125T003000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Respons Dasco soal Namanya Tak Masuk Kandidat Wapres Usulan Prabowo",
-      "url": "https://www.cnnindonesia.com/nasional/20261124105434-32-1430721/respons-dasco-soal-namanya-tak-masuk-kandidat-wapres-usulan-prabowo",
-      "source": "cnnindonesia.com",
-      "published": "20261124T044500Z",
+      "title": "Menjadi guru sastra hebat",
+      "url": "https://www.antaranews.com/berita/5876371/menjadi-guru-sastra-hebat",
+      "source": "antaranews.com",
+      "published": "20261125T003000Z",
       "language": "Indonesian"
     },
     {
-      "title": "Merepotkan Pegawai & Turis , Minimarket Jepang Pakai Robot AI Dikritik",
-      "url": "https://www.cnnindonesia.com/gaya-hidup/20261123113231-269-1430331/merepotkan-pegawai-turis-minimarket-jepang-pakai-robot-ai-dikritik",
-      "source": "cnnindonesia.com",
-      "published": "20261124T044500Z",
+      "title": "Lembaga konservasi salurkan 60 sarang lebah di Aceh Timur",
+      "url": "https://www.antaranews.com/berita/5876347/lembaga-konservasi-salurkan-60-sarang-lebah-di-aceh-timur",
+      "source": "antaranews.com",
+      "published": "20261125T001500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Misteri Suara dan Getaran di Kabupaten Toba , BMKG Buka Suara",
-      "url": "https://www.cnnindonesia.com/nasional/20261124105858-20-1430725/misteri-suara-dan-getaran-di-kabupaten-toba-bmkg-buka-suara",
-      "source": "cnnindonesia.com",
-      "published": "20261124T044500Z",
+      "title": "Jadwal KRL Solo - Jogja Terbaru Rabu 25 November , Lengkap Jam Tiap Stasiun",
+      "url": "https://jogjapolitan.harianjogja.com/r-1280163/jadwal-krl-solo-jogja-terbaru-rabu-25-november-lengkap-jam-tiap-stasiun",
+      "source": "jogjapolitan.harianjogja.com",
+      "published": "20261125T001500Z",
       "language": "Indonesian"
     },
     {
-      "title": "MK Putuskan UU Polri Cacat Formil , Pemerintah Diberi Waktu Perbaikan Setahun",
-      "url": "https://www.jawapos.com/nasional/2611240112/mk-putuskan-uu-polri-cacat-formil-pemerintah-diberi-waktu-perbaikan-setahun",
+      "title": "Kemenag Lakukan Finalisasi Sisipan Materi Pencegahan LGBTQ di Sekolah",
+      "url": "https://www.jawapos.com/pendidikan/2611250034/kemenag-lakukan-finalisasi-sisipan-materi-pencegahan-lgbtq-di-sekolah",
       "source": "jawapos.com",
-      "published": "20261124T044500Z",
+      "published": "20261125T001500Z",
       "language": "Indonesian"
     },
     {
-      "title": "Jejak Pendidikan Amran dan Sugiono , 2 Cawapres Usulan Prabowo",
-      "url": "https://www.cnnindonesia.com/nasional/20261124101124-32-1430699/jejak-pendidikan-amran-dan-sugiono-2-cawapres-usulan-prabowo",
+      "title": "Kanwil HAM Jatim Diskusi Dengan API , Soroti Minimnya Rumah Ibadah dan Tenaga Pendidik Agama Kristen",
+      "url": "https://www.jawapos.com/berita-daerah/2611250038/kanwil-ham-jatim-diskusi-dengan-api-soroti-minimnya-rumah-ibadah-dan-tenaga-pendidik-agama-kristen",
+      "source": "jawapos.com",
+      "published": "20261125T001500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Sempat Divonis Berumur Pendek , Pit Lin Bertahan 28 Tahun Melawan 3 Kanker",
+      "url": "https://kesehatan.liputan6.com/persona/read/8341382/sempat-divonis-berumur-pendek-pit-lin-bertahan-28-tahun-melawan-3-kanker",
+      "source": "kesehatan.liputan6.com",
+      "published": "20261125T001500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Pemda Diminta Mencari Sumber Pembiayaan Lain Ketika Ruang Fiskal Makin Sempit",
+      "url": "https://www.jawapos.com/ekonomi/2611250033/pemda-diminta-mencari-sumber-pembiayaan-lain-ketika-ruang-fiskal-makin-sempit",
+      "source": "jawapos.com",
+      "published": "20261125T001500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Institut Konfusius pertemukan mahasiswa dengan 14 perusahaan China",
+      "url": "https://www.antaranews.com/berita/5876351/institut-konfusius-pertemukan-mahasiswa-dengan-14-perusahaan-china",
+      "source": "antaranews.com",
+      "published": "20261125T001500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Selain Hari Guru , Ini Peringatan Internasional 25 November",
+      "url": "https://jogjapolitan.harianjogja.com/r-1280172/selain-hari-guru-ini-peringatan-internasional-25-november",
+      "source": "jogjapolitan.harianjogja.com",
+      "published": "20261125T001500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kemarin , Satgas Istitaah Kesehatan hingga peringatan Hari Anak Sedunia",
+      "url": "https://www.antaranews.com/berita/5876343/kemarin-satgas-istitaah-kesehatan-hingga-peringatan-hari-anak-sedunia",
+      "source": "antaranews.com",
+      "published": "20261125T001500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "KSOP Tanjungpinang tekankan keselamatan pelayaran jelang akhir tahun",
+      "url": "https://www.antaranews.com/berita/5876355/ksop-tanjungpinang-tekankan-keselamatan-pelayaran-jelang-akhir-tahun",
+      "source": "antaranews.com",
+      "published": "20261125T001500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "ATR / BPN selesaikan pengukuran tanah rata - rata dalam tujuh hari - ANTARA News Papua Tengah",
+      "url": "https://papuatengah.antaranews.com/berita/93439/atr-bpn-selesaikan-pengukuran-tanah-rata-rata-dalam-tujuh-hari",
+      "source": "papuatengah.antaranews.com",
+      "published": "20261125T001500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Eisenkot Tolak Serang Iran hingga Momen Bercanda PM Anwar & Takaichi",
+      "url": "https://www.cnnindonesia.com/internasional/20261125054851-120-1431072/eisenkot-tolak-serang-iran-hingga-momen-bercanda-pm-anwar-takaichi",
       "source": "cnnindonesia.com",
-      "published": "20261124T044500Z",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Resep Camilan Kekinian yang Cocok untuk Temani Waktu Santai , Mudah Dibuat di Rumah",
+      "url": "https://www.liputan6.com/lifestyle/read/8341326/resep-camilan-kekinian-yang-cocok-untuk-temani-waktu-santai-mudah-dibuat-di-rumah",
+      "source": "liputan6.com",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Satu per Satu Karier Jenderal Polri Terhenti di Palu Sidang Etik",
+      "url": "https://www.liputan6.com/news/read/8341868/satu-per-satu-karier-jenderal-polri-terhenti-di-palu-sidang-etik",
+      "source": "liputan6.com",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "6 Fakta Badak Jawa , dari Kebiasaan Unik hingga Ancaman Kepunahan",
+      "url": "https://www.liputan6.com/news/read/8341746/6-fakta-badak-jawa-dari-kebiasaan-unik-hingga-ancaman-kepunahan",
+      "source": "liputan6.com",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Cillian Murphy dan Jessie Buckley Bintangi Film Baru Spielberg",
+      "url": "https://www.cnnindonesia.com/hiburan/20261124073532-220-1430642/cillian-murphy-bintangi-film-baru-steven-spielberg-tayang-2028",
+      "source": "cnnindonesia.com",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Amran dan Sugiono : Dua Generasi , Dua Tradisi Kepemimpinan",
+      "url": "https://news.republika.co.id/berita/tp1494451/amran-dan-sugiono-dua-generasi-dua-tradisi-kepemimpinan",
+      "source": "news.republika.co.id",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Ari Yusuf Amir di Mata Mahfud MD : Lembut seperti Abu Bakar Tegas seperti Umar",
+      "url": "https://www.liputan6.com/news/read/8341877/ari-yusuf-amir-di-mata-mahfud-md-lembut-seperti-abu-bakar-tegas-seperti-umar",
+      "source": "liputan6.com",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "4 Hal Menarik FC Seoul , Lawan Terbaru Persib Bandung",
+      "url": "https://www.liputan6.com/bola/read/8341627/4-hal-menarik-fc-seoul-lawan-terbaru-persib-bandung",
+      "source": "liputan6.com",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Buang Obat Sembarangan Tak Cuma Cemari Lingkungan , Bisa Picu Resistensi Antimikroba",
+      "url": "https://kesehatan.liputan6.com/obat-obatan/read/8341741/buang-obat-sembarangan-tak-cuma-cemari-lingkungan-bisa-picu-resistensi-antimikroba",
+      "source": "kesehatan.liputan6.com",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Fenomena Beaver Moon Bersinar Malam Ini , Bulan Lebih Dekat dan Besar",
+      "url": "https://www.cnnindonesia.com/teknologi/20261124123849-199-1430769/fenomena-beaver-moon-bersinar-malam-ini-bulan-lebih-dekat-dan-besar",
+      "source": "cnnindonesia.com",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Di Balik Lowongan Tentara Bayaran Rusia",
+      "url": "https://www.liputan6.com/regional/read/8341840/di-balik-lowongan-tentara-bayaran-rusia",
+      "source": "liputan6.com",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kenapa Tidak Semua Negara Bisa Langsung Bebas Visa ? Ini Penjelasannya",
+      "url": "https://www.cnnindonesia.com/gaya-hidup/20261124135534-269-1430820/kenapa-tidak-semua-negara-bisa-langsung-bebas-visa-ini-penjelasannya",
+      "source": "cnnindonesia.com",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Como : Setelah Buat Kejutan di Italia , Kini Gegerkan Eropa",
+      "url": "https://www.cnnindonesia.com/olahraga/20261125054144-142-1431071/como-setelah-buat-kejutan-di-italia-kini-gegerkan-eropa",
+      "source": "cnnindonesia.com",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Kontroversi Handball Viktor Gyokeres , Arsenal Dianggap Diuntungkan Saat Ditahan Dortmund di Liga Champions",
+      "url": "https://www.liputan6.com/bola/read/8341884/kontroversi-handball-viktor-gyokeres-arsenal-dianggap-diuntungkan-saat-ditahan-dortmund-di-liga-champions",
+      "source": "liputan6.com",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Klasemen Liga Champions usai Madrid Pesta Gol ke Gawang PSV",
+      "url": "https://www.cnnindonesia.com/olahraga/20261125053255-142-1431070/klasemen-liga-champions-usai-madrid-pesta-gol-ke-gawang-psv",
+      "source": "cnnindonesia.com",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Hasil Liga Champions : Real Madrid Pesta Gol , City dan Arsenal Tertahan , Villa Tumbang",
+      "url": "https://news.republika.co.id/berita/tp143u348/hasil-liga-champions-real-madrid-pesta-gol-city-dan-arsenal-tertahan-villa-tumbang",
+      "source": "news.republika.co.id",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "Ronaldo Cetak Gol Ke - 987 , Al Nassr Tumpas Al Sadd 2 - 1",
+      "url": "https://www.cnnindonesia.com/olahraga/20261125055706-142-1431073/ronaldo-cetak-gol-ke-987-al-nassr-tumpas-al-sadd-2-1",
+      "source": "cnnindonesia.com",
+      "published": "20261124T234500Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "OCBC Kembali Buka Lowongan Kerja , Ini Posisi dan Kualifikasinya",
+      "url": "https://www.liputan6.com/bisnis/read/8341574/ocbc-kembali-buka-lowongan-kerja-ini-posisi-dan-kualifikasinya",
+      "source": "liputan6.com",
+      "published": "20261124T233000Z",
+      "language": "Indonesian"
+    },
+    {
+      "title": "BMKG : Sebagian besar wilayah RI diguyur hujan ringan hari ini",
+      "url": "https://www.antaranews.com/berita/5876339/bmkg-sebagian-besar-wilayah-ri-diguyur-hujan-ringan-hari-ini",
+      "source": "antaranews.com",
+      "published": "20261124T233000Z",
       "language": "Indonesian"
     }
   ]
