@@ -2,54 +2,6 @@
   "retention_days": 7,
   "snapshots": [
     {
-      "timestamp": "2026-11-19T07:52:06.469298+00:00",
-      "trends_updated_at": "2026-11-19T07:49:27.972280+00:00",
-      "total_trends": 10,
-      "news_count": 15,
-      "topics": [
-        {
-          "title": "thunderstorm warning",
-          "traffic": "200+"
-        },
-        {
-          "title": "menang untuk kalah",
-          "traffic": "100+"
-        },
-        {
-          "title": "joe hart",
-          "traffic": "100+"
-        },
-        {
-          "title": "apec",
-          "traffic": "100+"
-        },
-        {
-          "title": "deco",
-          "traffic": "100+"
-        },
-        {
-          "title": "pangkat bintang empat",
-          "traffic": "2000+"
-        },
-        {
-          "title": "msci standalone",
-          "traffic": "500+"
-        },
-        {
-          "title": "josh green",
-          "traffic": "100+"
-        },
-        {
-          "title": "sanae takaichi",
-          "traffic": "200+"
-        },
-        {
-          "title": "sinetron terikat janji rcti",
-          "traffic": "2000+"
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-19T17:17:35.750426+00:00",
       "trends_updated_at": "2026-11-19T17:15:30.054985+00:00",
       "total_trends": 10,
@@ -1054,6 +1006,54 @@
         {
           "title": "lebron james",
           "traffic": "100+"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-26T12:13:47.893643+00:00",
+      "trends_updated_at": "2026-11-26T12:11:22.935944+00:00",
+      "total_trends": 10,
+      "news_count": 100,
+      "topics": [
+        {
+          "title": "tai po vs adelaide utd",
+          "traffic": "200+"
+        },
+        {
+          "title": "toyota innova hycross",
+          "traffic": "200+"
+        },
+        {
+          "title": "kuching city fc",
+          "traffic": "100+"
+        },
+        {
+          "title": "black friday adalah",
+          "traffic": "100+"
+        },
+        {
+          "title": "bgpu vs lion city sailors",
+          "traffic": "500+"
+        },
+        {
+          "title": "widi prasetijono",
+          "traffic": "200+"
+        },
+        {
+          "title": "piala asia u-20 afc",
+          "traffic": "200+"
+        },
+        {
+          "title": "26 november",
+          "traffic": "200+"
+        },
+        {
+          "title": "persib vs persita",
+          "traffic": "200+"
+        },
+        {
+          "title": "airlangga hartarto",
+          "traffic": "500+"
         }
       ]
     }
