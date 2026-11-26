@@ -2,54 +2,6 @@
   "retention_days": 7,
   "snapshots": [
     {
-      "timestamp": "2026-11-19T17:17:35.750426+00:00",
-      "trends_updated_at": "2026-11-19T17:15:30.054985+00:00",
-      "total_trends": 10,
-      "news_count": 2,
-      "topics": [
-        {
-          "title": "the body netflix",
-          "traffic": "100+"
-        },
-        {
-          "title": "hunger games 2023",
-          "traffic": "200+"
-        },
-        {
-          "title": "iphone 20",
-          "traffic": "500+"
-        },
-        {
-          "title": "al ain vs al dhafra",
-          "traffic": "500+"
-        },
-        {
-          "title": "hotel mumbai",
-          "traffic": "500+"
-        },
-        {
-          "title": "cong an hanoi fc",
-          "traffic": "100+"
-        },
-        {
-          "title": "mudryk",
-          "traffic": "200+"
-        },
-        {
-          "title": "kabinet",
-          "traffic": "100+"
-        },
-        {
-          "title": "al wasl",
-          "traffic": "100+"
-        },
-        {
-          "title": "anthropic stock",
-          "traffic": "2000+"
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-19T23:47:08.721292+00:00",
       "trends_updated_at": "2026-11-19T23:44:48.484258+00:00",
       "total_trends": 10,
@@ -1054,6 +1006,54 @@
         {
           "title": "airlangga hartarto",
           "traffic": "500+"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-26T21:53:01.818436+00:00",
+      "trends_updated_at": "2026-11-26T21:50:57.171607+00:00",
+      "total_trends": 10,
+      "news_count": 100,
+      "topics": [
+        {
+          "title": "real madrid c.f.",
+          "traffic": "500+"
+        },
+        {
+          "title": "hoffenheim vs sturm",
+          "traffic": "100+"
+        },
+        {
+          "title": "emas",
+          "traffic": "100+"
+        },
+        {
+          "title": "balša sekulić",
+          "traffic": "100+"
+        },
+        {
+          "title": "jadwal sholat jakarta hari ini",
+          "traffic": "1000+"
+        },
+        {
+          "title": "iran",
+          "traffic": "100+"
+        },
+        {
+          "title": "kementerian sosial republik indonesia",
+          "traffic": "200+"
+        },
+        {
+          "title": "chelsea f.c.",
+          "traffic": "100+"
+        },
+        {
+          "title": "nk celje",
+          "traffic": "100+"
+        },
+        {
+          "title": "panathinaikos",
+          "traffic": "100+"
         }
       ]
     }
