@@ -1,26 +1,10 @@
 {
-  "updated_at": "2026-11-25T10:23:33.440019+00:00",
+  "updated_at": "2026-11-26T02:47:53.936614+00:00",
   "categories": {
     "Politik": [],
     "Ekonomi": [],
-    "Teknologi": [
-      {
-        "title": "Merepotkan Pegawai & Turis , Minimarket Jepang Pakai Robot AI Dikritik",
-        "url": "https://www.cnnindonesia.com/gaya-hidup/20261123113231-269-1430331/merepotkan-pegawai-turis-minimarket-jepang-pakai-robot-ai-dikritik",
-        "source": "cnnindonesia.com",
-        "published": "20261124T044500Z",
-        "category": "Teknologi"
-      }
-    ],
+    "Teknologi": [],
     "Olahraga": [],
-    "Entertainment": [
-      {
-        "title": "Skandal DUI Go Kyung Pyo Ancam Perilisan Film Terbaru , Industri Perfilman Korea Hadapi Kerugian",
-        "url": "https://www.jawapos.com/music-movie/2611240166/skandal-dui-go-kyung-pyo-ancam-perilisan-film-terbaru-industri-perfilman-korea-hadapi-kerugian",
-        "source": "jawapos.com",
-        "published": "20261124T044500Z",
-        "category": "Entertainment"
-      }
-    ]
+    "Entertainment": []
   }
 }
