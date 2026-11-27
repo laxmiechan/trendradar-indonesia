@@ -2,54 +2,6 @@
   "retention_days": 7,
   "snapshots": [
     {
-      "timestamp": "2026-11-20T06:58:53.604648+00:00",
-      "trends_updated_at": "2026-11-20T06:57:19.174892+00:00",
-      "total_trends": 10,
-      "news_count": 59,
-      "topics": [
-        {
-          "title": "hbo max",
-          "traffic": "100+"
-        },
-        {
-          "title": "dugaan",
-          "traffic": "100+"
-        },
-        {
-          "title": "umr",
-          "traffic": "100+"
-        },
-        {
-          "title": "mama awards 2026",
-          "traffic": "500+"
-        },
-        {
-          "title": "tchouameni",
-          "traffic": "200+"
-        },
-        {
-          "title": "perlinsos.kemensos.go.id",
-          "traffic": "100+"
-        },
-        {
-          "title": "mnet",
-          "traffic": "500+"
-        },
-        {
-          "title": "baduy kebakaran",
-          "traffic": "200+"
-        },
-        {
-          "title": "bi rate naik",
-          "traffic": "500+"
-        },
-        {
-          "title": "aturan baru polri ubah syarat sidang etik menjelang pemeriksaan listyo sigit",
-          "traffic": "200+"
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-20T16:03:43.566638+00:00",
       "trends_updated_at": "2026-11-20T16:00:27.854325+00:00",
       "total_trends": 10,
@@ -1054,6 +1006,54 @@
         {
           "title": "tevez",
           "traffic": "500+"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-27T13:43:40.310030+00:00",
+      "trends_updated_at": "2026-11-27T13:41:59.748974+00:00",
+      "total_trends": 10,
+      "news_count": 100,
+      "topics": [
+        {
+          "title": "honduras u-17 vs jepang u-17",
+          "traffic": "200+"
+        },
+        {
+          "title": "real madrid vs alavés",
+          "traffic": "200+"
+        },
+        {
+          "title": "werder bremen",
+          "traffic": "200+"
+        },
+        {
+          "title": "al kholood",
+          "traffic": "100+"
+        },
+        {
+          "title": "southampton",
+          "traffic": "100+"
+        },
+        {
+          "title": "harga emas antam terbaru",
+          "traffic": "500+"
+        },
+        {
+          "title": "rcti",
+          "traffic": "1000+"
+        },
+        {
+          "title": "alanyaspor",
+          "traffic": "100+"
+        },
+        {
+          "title": "paris",
+          "traffic": "100+"
+        },
+        {
+          "title": "subsidi energi",
+          "traffic": "100+"
         }
       ]
     }
