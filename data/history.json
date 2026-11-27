@@ -2,54 +2,6 @@
   "retention_days": 7,
   "snapshots": [
     {
-      "timestamp": "2026-11-19T23:47:08.721292+00:00",
-      "trends_updated_at": "2026-11-19T23:44:48.484258+00:00",
-      "total_trends": 10,
-      "news_count": 2,
-      "topics": [
-        {
-          "title": "liga brazil",
-          "traffic": "100+"
-        },
-        {
-          "title": "kabupaten brebes",
-          "traffic": "200+"
-        },
-        {
-          "title": "harga emas",
-          "traffic": "100+"
-        },
-        {
-          "title": "vitória vs bragantino",
-          "traffic": "200+"
-        },
-        {
-          "title": "visa",
-          "traffic": "100+"
-        },
-        {
-          "title": "pep guardiola",
-          "traffic": "100+"
-        },
-        {
-          "title": "vasco vs internacional",
-          "traffic": "200+"
-        },
-        {
-          "title": "ladaku merica bubuk",
-          "traffic": "500+"
-        },
-        {
-          "title": "kapan hari guru",
-          "traffic": "200+"
-        },
-        {
-          "title": "éver banega",
-          "traffic": "500+"
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-20T06:58:53.604648+00:00",
       "trends_updated_at": "2026-11-20T06:57:19.174892+00:00",
       "total_trends": 10,
@@ -1054,6 +1006,54 @@
         {
           "title": "panathinaikos",
           "traffic": "100+"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-27T04:05:15.447951+00:00",
+      "trends_updated_at": "2026-11-27T04:02:32.685566+00:00",
+      "total_trends": 10,
+      "news_count": 100,
+      "topics": [
+        {
+          "title": "kerja sama",
+          "traffic": "200+"
+        },
+        {
+          "title": "pns 2026",
+          "traffic": "500+"
+        },
+        {
+          "title": "valentino rossi",
+          "traffic": "100+"
+        },
+        {
+          "title": "kementerian kehutanan",
+          "traffic": "100+"
+        },
+        {
+          "title": "tim nasional sepak bola u-17 vietnam",
+          "traffic": "500+"
+        },
+        {
+          "title": "cruz azul",
+          "traffic": "200+"
+        },
+        {
+          "title": "brentford f.c.",
+          "traffic": "100+"
+        },
+        {
+          "title": "león vs cruz azul",
+          "traffic": "500+"
+        },
+        {
+          "title": "swot",
+          "traffic": "100+"
+        },
+        {
+          "title": "tevez",
+          "traffic": "500+"
         }
       ]
     }
