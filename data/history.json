@@ -2,102 +2,6 @@
   "retention_days": 7,
   "snapshots": [
     {
-      "timestamp": "2026-11-20T16:03:43.566638+00:00",
-      "trends_updated_at": "2026-11-20T16:00:27.854325+00:00",
-      "total_trends": 10,
-      "news_count": 59,
-      "topics": [
-        {
-          "title": "fp1 moto3 portugal",
-          "traffic": "200+"
-        },
-        {
-          "title": "troyes vs",
-          "traffic": "200+"
-        },
-        {
-          "title": "fc andorra",
-          "traffic": "100+"
-        },
-        {
-          "title": "hellas verona",
-          "traffic": "100+"
-        },
-        {
-          "title": "spanyol vs prancis",
-          "traffic": "200+"
-        },
-        {
-          "title": "byd titan 7",
-          "traffic": "100+"
-        },
-        {
-          "title": "umuh muchtar",
-          "traffic": "100+"
-        },
-        {
-          "title": "sabah fk",
-          "traffic": "200+"
-        },
-        {
-          "title": "barito putera",
-          "traffic": "100+"
-        },
-        {
-          "title": "hasil liga 2",
-          "traffic": "100+"
-        }
-      ]
-    },
-    {
-      "timestamp": "2026-11-20T22:37:40.452062+00:00",
-      "trends_updated_at": "2026-11-20T22:35:48.087817+00:00",
-      "total_trends": 10,
-      "news_count": 94,
-      "topics": [
-        {
-          "title": "klasemen athletic bilbao vs espanyol",
-          "traffic": "1000+"
-        },
-        {
-          "title": "manchester city f.c.",
-          "traffic": "200+"
-        },
-        {
-          "title": "moto3",
-          "traffic": "500+"
-        },
-        {
-          "title": "bayern munich vs 1. fc köln standings",
-          "traffic": "2000+"
-        },
-        {
-          "title": "saham",
-          "traffic": "200+"
-        },
-        {
-          "title": "xauusd",
-          "traffic": "100+"
-        },
-        {
-          "title": "israel",
-          "traffic": "200+"
-        },
-        {
-          "title": "verona vs cesena",
-          "traffic": "200+"
-        },
-        {
-          "title": "mikey moore",
-          "traffic": "100+"
-        },
-        {
-          "title": "porto vs paredes",
-          "traffic": "1000+"
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-21T03:28:19.869753+00:00",
       "trends_updated_at": "2026-11-21T03:25:57.447584+00:00",
       "total_trends": 10,
@@ -1053,6 +957,54 @@
         },
         {
           "title": "subsidi energi",
+          "traffic": "100+"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-27T22:39:32.412049+00:00",
+      "trends_updated_at": "2026-11-27T22:37:14.907745+00:00",
+      "total_trends": 10,
+      "news_count": 100,
+      "topics": [
+        {
+          "title": "menu",
+          "traffic": "100+"
+        },
+        {
+          "title": "klasemen nottingham forest vs chelsea",
+          "traffic": "10000+"
+        },
+        {
+          "title": "klasemen venezia vs bologna",
+          "traffic": "1000+"
+        },
+        {
+          "title": "saldi isra",
+          "traffic": "200+"
+        },
+        {
+          "title": "nico paz",
+          "traffic": "200+"
+        },
+        {
+          "title": "shayne pattynama",
+          "traffic": "100+"
+        },
+        {
+          "title": "kombes iman imanuddin",
+          "traffic": "200+"
+        },
+        {
+          "title": "tentara bayaran",
+          "traffic": "100+"
+        },
+        {
+          "title": "paul pogba",
+          "traffic": "100+"
+        },
+        {
+          "title": "paris fc vs",
           "traffic": "100+"
         }
       ]
