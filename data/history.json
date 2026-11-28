@@ -2,54 +2,6 @@
   "retention_days": 7,
   "snapshots": [
     {
-      "timestamp": "2026-11-21T03:28:19.869753+00:00",
-      "trends_updated_at": "2026-11-21T03:25:57.447584+00:00",
-      "total_trends": 10,
-      "news_count": 94,
-      "topics": [
-        {
-          "title": "jazz vs suns",
-          "traffic": "100+"
-        },
-        {
-          "title": "tugu kunstkring paleis",
-          "traffic": "100+"
-        },
-        {
-          "title": "nets vs magic",
-          "traffic": "100+"
-        },
-        {
-          "title": "aurélien tchouaméni",
-          "traffic": "500+"
-        },
-        {
-          "title": "pemenang piala citra",
-          "traffic": "500+"
-        },
-        {
-          "title": "lakers vs kings",
-          "traffic": "500+"
-        },
-        {
-          "title": "sri sultan hamengku buwono x",
-          "traffic": "100+"
-        },
-        {
-          "title": "suzuki burgman street",
-          "traffic": "200+"
-        },
-        {
-          "title": "harga emas hari ini naik atau turun",
-          "traffic": "500+"
-        },
-        {
-          "title": "harga bahan bakar minyak di indonesia",
-          "traffic": "500+"
-        }
-      ]
-    },
-    {
       "timestamp": "2026-11-21T11:40:25.331300+00:00",
       "trends_updated_at": "2026-11-21T11:39:05.041122+00:00",
       "total_trends": 10,
@@ -1006,6 +958,54 @@
         {
           "title": "paris fc vs",
           "traffic": "100+"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-11-28T04:42:49.893194+00:00",
+      "trends_updated_at": "2026-11-28T04:40:31.217574+00:00",
+      "total_trends": 10,
+      "news_count": 100,
+      "topics": [
+        {
+          "title": "clippers vs pelicans",
+          "traffic": "100+"
+        },
+        {
+          "title": "k league 1",
+          "traffic": "200+"
+        },
+        {
+          "title": "fc seoul vs daejeon citizen",
+          "traffic": "5000+"
+        },
+        {
+          "title": "jazz vs nuggets",
+          "traffic": "100+"
+        },
+        {
+          "title": "destry damayanti",
+          "traffic": "500+"
+        },
+        {
+          "title": "fofana",
+          "traffic": "200+"
+        },
+        {
+          "title": "ambles",
+          "traffic": "500+"
+        },
+        {
+          "title": "pedro acosta",
+          "traffic": "200+"
+        },
+        {
+          "title": "lionel messi",
+          "traffic": "2000+"
+        },
+        {
+          "title": "real salt lake vs whitecaps",
+          "traffic": "1000+"
         }
       ]
     }
